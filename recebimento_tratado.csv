@@ -1,0 +1,1625 @@
+Data recebimento;Código;Descrição;Quantidade Caixa;Unidades caixa;Total unidades;Validade;Fornecedor;Classificação;Devolução
+24/09/2026;770487.0;Item 1;15;6;90.0;17/07/2028;Fornecedor Alfa;Medicamento;0
+03/09/2026;872246.0;Item 2;14;100;1400.0;24/04/2030;Fornecedor Delta;Perfumaria;0
+14/09/2026;850800.0;Item 4;84;100;8400.0;27/03/2028;Fornecedor Delta;Psicotrópico;Avaria
+07/09/2026;456778.0;Item 6;36;24;864.0;13/04/2031;Fornecedor Beta;Perfumaria;0
+28/09/2026;498382.0;Item 7;13;48;624.0;05/12/2028;Fornecedor Gama;Correlatos;0
+04/09/2026;865179.0;Item 8;59;100;5900.0;14/02/2029;Fornecedor Ômega;Psicotrópico;Avaria
+29/09/2026;969693.0;Item 9;81;120;9720.0;31/10/2031;Fornecedor Beta;Psicotrópico;0
+15/09/2026;205907.0;Item 11;49;30;1470.0;25/07/2030;Fornecedor Beta;Medicamento;Avaria
+23/09/2026;472528.0;Item 12;27;30;810.0;31/10/2030;Fornecedor Ômega;Psicotrópico;Devolução parcial
+06/09/2026;279451.0;Item 13;69;25;1725.0;04/08/2029;Fornecedor Delta;Correlatos;Devolução parcial
+22/09/2026;821590.0;Item 14;72;25;1800.0;26/10/2028;Fornecedor Ômega;Medicamento;0
+09/09/2026;944151.0;Item 15;41;50;2050.0;16/05/2027;Fornecedor Alfa;Psicotrópico;Devolução parcial
+13/09/2026;429963.0;Item 16;28;60;1680.0;17/12/2031;Fornecedor Delta;Medicamento;Avaria
+18/09/2026;246413.0;Item 17;32;100;3200.0;22/06/2028;Fornecedor Gama;Antibiótico;Devolução parcial
+05/09/2026;518801.0;Item 18;47;25;1175.0;09/11/2029;Fornecedor Delta;Perfumaria;0
+22/09/2026;813328.0;Item 21;93;12;1116.0;18/12/2031;Fornecedor Gama;Correlatos;Devolução parcial
+14/09/2026;456699.0;Item 22;15;30;450.0;20/11/2027;Fornecedor Delta;Perfumaria;Devolução parcial
+20/09/2026;412942.0;Item 24;108;100;10800.0;12/02/2028;Fornecedor Alfa;Correlatos;0
+29/09/2026;120422.0;Item 26;15;48;720.0;31/08/2031;Fornecedor Beta;Medicamento;0
+22/09/2026;903035.0;Item 28;17;24;408.0;31/08/2029;Fornecedor Gama;Medicamento;Avaria
+14/09/2026;653306.0;Item 29;112;120;13440.0;09/03/2028;Fornecedor Gama;Alimentos;Devolução parcial
+13/09/2026;310922.0;Item 30;92;30;2760.0;07/10/2030;Fornecedor Beta;Antibiótico;Devolução parcial
+08/09/2026;573417.0;Item 31;16;25;400.0;12/05/2027;Fornecedor Beta;Perfumaria;Devolução parcial
+08/09/2026;680828.0;Item 32;30;120;3600.0;15/01/2027;Fornecedor Ômega;Alimentos;Devolução parcial
+29/09/2026;161733.0;Item 33;30;12;360.0;06/03/2027;Fornecedor Beta;Perfumaria;Devolução parcial
+07/09/2026;349565.0;Item 34;36;60;2160.0;09/01/2030;Fornecedor Alfa;Alimentos;Devolução parcial
+26/09/2026;704201.0;Item 35;61;25;1525.0;26/08/2029;Fornecedor Delta;Medicamento;0
+12/09/2026;201639.0;Item 36;85;50;4250.0;17/05/2029;Fornecedor Delta;Antibiótico;Devolução parcial
+02/09/2026;156802.0;Item 37;87;12;1044.0;04/04/2029;Fornecedor Beta;Perfumaria;0
+15/09/2026;585100.0;Item 39;32;12;384.0;13/07/2031;Fornecedor Gama;Perfumaria;0
+03/09/2026;783823.0;Item 40;70;6;420.0;24/03/2031;Fornecedor Alfa;Medicamento;Avaria
+28/09/2026;609231.0;Item 41;62;25;1550.0;01/04/2029;Fornecedor Ômega;Medicamento;Avaria
+30/09/2026;102260.0;Item 42;50;30;1500.0;25/05/2031;Fornecedor Delta;Correlatos;Avaria
+19/09/2026;411120.0;Item 44;28;6;168.0;15/02/2031;Fornecedor Gama;Perfumaria;Devolução parcial
+28/09/2026;159642.0;Item 46;66;12;792.0;16/01/2028;Fornecedor Ômega;Psicotrópico;0
+13/09/2026;808011.0;Item 47;111;25;2775.0;03/09/2027;Fornecedor Gama;Medicamento;Devolução parcial
+03/09/2026;723398.0;Item 48;6;120;720.0;08/05/2029;Fornecedor Gama;Psicotrópico;Devolução parcial
+07/09/2026;431737.0;Item 49;120;30;3600.0;03/10/2030;Fornecedor Beta;Medicamento;Avaria
+15/09/2026;515011.0;Item 50;17;30;510.0;09/10/2028;Fornecedor Ômega;Perfumaria;Avaria
+03/09/2026;751332.0;Item 51;73;12;876.0;06/01/2030;Fornecedor Alfa;Psicotrópico;Avaria
+23/09/2026;265409.0;Item 53;57;100;5700.0;11/09/2028;Fornecedor Gama;Alimentos;Devolução parcial
+10/09/2026;108203.0;Item 54;86;100;8600.0;20/09/2030;Fornecedor Ômega;Medicamento;Avaria
+24/09/2026;221035.0;Item 55;114;12;1368.0;07/02/2030;Fornecedor Alfa;Correlatos;Avaria
+07/09/2026;734210.0;Item 56;27;48;1296.0;08/11/2030;Fornecedor Beta;Psicotrópico;Avaria
+03/09/2026;363319.0;Item 57;116;6;696.0;23/07/2030;Fornecedor Delta;Correlatos;0
+21/09/2026;103717.0;Item 58;43;24;1032.0;20/06/2028;Fornecedor Alfa;Alimentos;Avaria
+18/09/2026;678478.0;Item 59;91;50;4550.0;20/01/2027;Fornecedor Ômega;Perfumaria;Devolução parcial
+27/09/2026;256294.0;Item 60;70;6;420.0;26/01/2029;Fornecedor Gama;Psicotrópico;0
+10/09/2026;550664.0;Item 61;17;6;102.0;16/01/2029;Fornecedor Ômega;Correlatos;0
+12/09/2026;815198.0;Item 62;32;12;384.0;17/05/2031;Fornecedor Gama;Antibiótico;Devolução parcial
+28/09/2026;885884.0;Item 63;20;25;500.0;29/11/2027;Fornecedor Alfa;Antibiótico;0
+26/09/2026;288073.0;Item 64;95;48;4560.0;23/04/2029;Fornecedor Alfa;Correlatos;0
+13/09/2026;925622.0;Item 65;90;12;1080.0;22/11/2031;Fornecedor Ômega;;0
+12/09/2026;309267.0;Item 66;105;60;6300.0;17/09/2028;Fornecedor Alfa;Medicamento;0
+11/09/2026;792094.0;Item 67;25;50;1250.0;24/07/2028;Fornecedor Ômega;Correlatos;Avaria
+22/09/2026;772642.0;Item 68;66;50;3300.0;24/09/2031;Fornecedor Gama;Correlatos;0
+06/09/2026;220944.0;Item 69;113;30;3390.0;04/04/2030;Fornecedor Beta;Perfumaria;0
+29/09/2026;636265.0;Item 71;15;50;750.0;26/03/2030;Fornecedor Alfa;Correlatos;0
+17/09/2026;843215.0;Item 72;56;6;336.0;10/07/2031;Fornecedor Gama;Alimentos;Devolução parcial
+12/09/2026;877991.0;Item 73;95;25;2375.0;02/06/2029;Fornecedor Ômega;;Avaria
+24/09/2026;753425.0;Item 74;41;12;492.0;07/09/2028;Fornecedor Gama;Correlatos;Devolução parcial
+23/09/2026;528231.0;Item 75;42;50;2100.0;28/08/2028;Fornecedor Gama;Medicamento;0
+22/09/2026;540869.0;Item 76;86;50;4300.0;13/03/2031;Fornecedor Alfa;Psicotrópico;Devolução parcial
+27/09/2026;415568.0;Item 77;52;100;5200.0;01/01/2027;Fornecedor Beta;Correlatos;0
+20/09/2026;550770.0;Item 78;101;120;12120.0;02/09/2030;Fornecedor Beta;Antibiótico;Avaria
+17/09/2026;563638.0;Item 79;87;25;2175.0;27/08/2029;Fornecedor Alfa;Alimentos;0
+11/09/2026;397571.0;Item 80;66;120;7920.0;11/07/2027;Fornecedor Alfa;Alimentos;Avaria
+05/09/2026;335552.0;Item 81;104;25;2600.0;20/02/2027;Fornecedor Ômega;Medicamento;Avaria
+15/09/2026;740967.0;Item 82;109;12;1308.0;28/04/2029;Fornecedor Gama;Medicamento;Devolução parcial
+13/09/2026;830180.0;Item 83;50;60;3000.0;14/05/2028;Fornecedor Alfa;Alimentos;Devolução parcial
+25/09/2026;105814.0;Item 84;115;12;1380.0;20/05/2029;Fornecedor Alfa;Medicamento;Devolução parcial
+18/09/2026;643118.0;Item 85;60;6;360.0;25/05/2028;Fornecedor Ômega;Antibiótico;0
+18/09/2026;940346.0;Item 86;60;100;6000.0;04/05/2030;Fornecedor Beta;Antibiótico;Devolução parcial
+14/09/2026;954596.0;Item 87;93;100;9300.0;29/08/2031;Fornecedor Gama;Antibiótico;0
+08/09/2026;181247.0;Item 90;92;30;2760.0;10/07/2028;Fornecedor Beta;Correlatos;Devolução parcial
+08/09/2026;184491.0;Item 91;18;24;432.0;23/02/2029;Fornecedor Alfa;Alimentos;0
+13/09/2026;316881.0;Item 93;107;50;5350.0;26/04/2031;Fornecedor Gama;Alimentos;0
+13/09/2026;998348.0;Item 94;113;120;13560.0;03/09/2029;Fornecedor Ômega;Correlatos;Avaria
+18/09/2026;890075.0;Item 95;50;50;2500.0;11/03/2031;Fornecedor Gama;Psicotrópico;0
+14/09/2026;611945.0;Item 96;29;30;870.0;21/09/2029;Fornecedor Ômega;Antibiótico;Avaria
+24/09/2026;801364.0;Item 97;87;50;4350.0;05/12/2027;Fornecedor Delta;Medicamento;Devolução parcial
+06/09/2026;549433.0;Item 99;18;60;1080.0;13/04/2027;Fornecedor Beta;Antibiótico;Avaria
+11/09/2026;321941.0;Item 100;59;48;2832.0;08/04/2031;Fornecedor Delta;Correlatos;Avaria
+16/09/2026;364525.0;Item 101;107;12;1284.0;09/02/2027;Fornecedor Gama;Perfumaria;Avaria
+25/09/2026;335113.0;Item 102;84;12;1008.0;27/08/2030;Fornecedor Ômega;Perfumaria;0
+20/09/2026;309044.0;Item 103;108;6;648.0;09/11/2027;Fornecedor Alfa;Medicamento;Avaria
+25/09/2026;735324.0;Item 105;78;12;936.0;05/08/2031;Fornecedor Alfa;Correlatos;0
+19/09/2026;706794.0;Item 106;4;30;120.0;19/10/2030;Fornecedor Delta;Antibiótico;Devolução parcial
+23/09/2026;307963.0;Item 107;10;120;1200.0;29/08/2031;Fornecedor Alfa;Perfumaria;Devolução parcial
+26/09/2026;910004.0;Item 108;39;120;4680.0;05/09/2027;Fornecedor Gama;Perfumaria;Avaria
+03/09/2026;658623.0;Item 109;55;48;2640.0;02/11/2029;Fornecedor Beta;Perfumaria;Avaria
+14/09/2026;962276.0;Item 110;63;12;756.0;11/01/2029;Fornecedor Delta;Alimentos;0
+06/09/2026;618317.0;Item 114;109;48;5232.0;25/09/2029;Fornecedor Alfa;Correlatos;Avaria
+23/09/2026;456871.0;Item 115;36;120;4320.0;08/12/2031;Fornecedor Beta;Psicotrópico;0
+08/09/2026;641722.0;Item 116;25;12;300.0;14/01/2031;Fornecedor Delta;Antibiótico;Devolução parcial
+21/09/2026;894993.0;Item 117;31;60;1860.0;28/12/2030;Fornecedor Delta;Antibiótico;0
+13/09/2026;197573.0;Item 118;38;25;950.0;17/11/2030;Fornecedor Alfa;Correlatos;Devolução parcial
+18/09/2026;709805.0;Item 119;48;60;2880.0;23/12/2029;Fornecedor Beta;Antibiótico;Devolução parcial
+09/09/2026;300845.0;Item 122;28;60;1680.0;23/01/2031;Fornecedor Gama;Psicotrópico;Devolução parcial
+10/09/2026;396745.0;Item 123;13;25;325.0;10/04/2028;Fornecedor Beta;Medicamento;Avaria
+05/09/2026;114835.0;Item 124;91;100;9100.0;15/07/2028;Fornecedor Ômega;Perfumaria;Devolução parcial
+21/09/2026;406327.0;Item 125;90;24;2160.0;14/11/2031;Fornecedor Delta;Perfumaria;0
+16/09/2026;701949.0;Item 126;37;60;2220.0;21/06/2029;Fornecedor Beta;Medicamento;0
+04/09/2026;364742.0;Item 127;111;60;6660.0;11/08/2031;Fornecedor Ômega;Antibiótico;Avaria
+05/09/2026;177680.0;Item 128;74;6;444.0;02/11/2027;Fornecedor Gama;Correlatos;0
+25/09/2026;360247.0;Item 129;16;100;1600.0;02/05/2029;Fornecedor Gama;Psicotrópico;Devolução parcial
+13/09/2026;336650.0;Item 130;100;100;10000.0;11/07/2029;Fornecedor Delta;Correlatos;Devolução parcial
+20/09/2026;549660.0;Item 131;40;120;4800.0;04/05/2027;Fornecedor Gama;Alimentos;0
+09/09/2026;899787.0;Item 132;27;25;675.0;14/09/2030;Fornecedor Ômega;Medicamento;0
+06/09/2026;282256.0;Item 133;71;12;852.0;06/01/2027;Fornecedor Delta;Antibiótico;Devolução parcial
+03/09/2026;837135.0;Item 135;111;60;6660.0;08/11/2030;Fornecedor Alfa;Correlatos;Devolução parcial
+14/09/2026;718439.0;Item 136;85;25;2125.0;24/08/2027;Fornecedor Gama;Medicamento;Devolução parcial
+24/09/2026;931131.0;Item 138;40;120;4800.0;16/08/2031;Fornecedor Gama;Correlatos;Avaria
+23/09/2026;230394.0;Item 139;60;30;1800.0;04/04/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+20/09/2026;617781.0;Item 140;57;12;684.0;23/03/2027;Fornecedor Delta;Alimentos;Avaria
+03/09/2026;733039.0;Item 141;33;6;198.0;13/04/2028;Fornecedor Gama;Psicotrópico;0
+19/09/2026;901909.0;Item 142;87;30;2610.0;24/03/2027;Fornecedor Alfa;Antibiótico;Devolução parcial
+06/09/2026;783157.0;Item 143;57;30;1710.0;13/04/2030;Fornecedor Delta;Alimentos;Avaria
+14/09/2026;195674.0;Item 144;61;48;2928.0;13/11/2028;Fornecedor Beta;Alimentos;0
+28/09/2026;438977.0;Item 147;15;50;750.0;19/11/2029;Fornecedor Ômega;Alimentos;Devolução parcial
+07/09/2026;584417.0;Item 148;53;6;318.0;27/11/2029;Fornecedor Beta;Psicotrópico;Avaria
+07/09/2026;755788.0;Item 149;57;6;342.0;30/06/2028;Fornecedor Gama;Medicamento;Avaria
+04/09/2026;559398.0;Item 150;113;60;6780.0;01/03/2027;Fornecedor Gama;Medicamento;Devolução parcial
+01/09/2026;266071.0;Item 151;40;100;4000.0;05/02/2030;Fornecedor Delta;Perfumaria;0
+14/09/2026;406039.0;Item 153;66;30;1980.0;06/09/2031;Fornecedor Delta;Antibiótico;0
+13/09/2026;578975.0;Item 154;71;24;1704.0;26/01/2028;Fornecedor Gama;Psicotrópico;Devolução parcial
+09/09/2026;243139.0;Item 155;111;12;1332.0;02/05/2031;Fornecedor Delta;;Devolução parcial
+10/09/2026;380150.0;Item 156;106;6;636.0;26/01/2031;Fornecedor Beta;Psicotrópico;Devolução parcial
+15/09/2026;791998.0;Item 157;63;24;1512.0;08/01/2030;Fornecedor Delta;Correlatos;Avaria
+13/09/2026;678727.0;Item 158;98;100;9800.0;21/07/2029;Fornecedor Beta;Medicamento;Devolução parcial
+13/09/2026;880879.0;Item 160;61;50;3050.0;21/09/2030;Fornecedor Alfa;Antibiótico;0
+11/09/2026;232378.0;Item 161;65;120;7800.0;17/11/2031;Fornecedor Ômega;Antibiótico;0
+26/09/2026;261859.0;Item 163;10;60;600.0;26/06/2028;Fornecedor Beta;Psicotrópico;Devolução parcial
+28/09/2026;516791.0;Item 164;84;12;1008.0;03/11/2028;Fornecedor Gama;Antibiótico;Avaria
+28/09/2026;757246.0;Item 165;92;60;5520.0;13/01/2030;Fornecedor Ômega;Psicotrópico;0
+08/09/2026;346174.0;Item 166;81;30;2430.0;10/03/2031;Fornecedor Ômega;Antibiótico;0
+15/09/2026;897305.0;Item 167;82;12;984.0;07/12/2027;Fornecedor Beta;Perfumaria;0
+10/09/2026;440131.0;Item 168;102;6;612.0;04/01/2029;Fornecedor Beta;Antibiótico;0
+19/09/2026;356059.0;Item 169;68;50;3400.0;28/10/2030;Fornecedor Alfa;Medicamento;0
+20/09/2026;182804.0;Item 170;79;50;3950.0;31/10/2030;Fornecedor Alfa;Antibiótico;Devolução parcial
+21/09/2026;250069.0;Item 171;30;60;1800.0;04/06/2028;Fornecedor Delta;Correlatos;Devolução parcial
+29/09/2026;109853.0;Item 172;116;60;6960.0;12/08/2028;Fornecedor Gama;Medicamento;0
+10/09/2026;563187.0;Item 173;45;120;5400.0;01/08/2030;Fornecedor Delta;Alimentos;Avaria
+07/09/2026;579027.0;Item 174;109;30;3270.0;26/02/2029;Fornecedor Delta;Perfumaria;0
+19/09/2026;499889.0;Item 175;74;48;3552.0;28/08/2028;Fornecedor Beta;Perfumaria;Devolução parcial
+25/09/2026;620856.0;Item 177;107;30;3210.0;25/06/2031;Fornecedor Alfa;Psicotrópico;Avaria
+20/09/2026;329642.0;Item 178;82;25;2050.0;28/05/2028;Fornecedor Alfa;Alimentos;0
+03/09/2026;482584.0;Item 180;94;24;2256.0;27/08/2028;Fornecedor Beta;Alimentos;Avaria
+09/09/2026;385765.0;Item 182;107;24;2568.0;16/08/2031;Fornecedor Delta;Correlatos;Devolução parcial
+15/09/2026;455168.0;Item 183;103;12;1236.0;04/06/2027;Fornecedor Alfa;Medicamento;Devolução parcial
+28/09/2026;859396.0;Item 184;87;50;4350.0;06/07/2031;Fornecedor Gama;Correlatos;0
+09/09/2026;929090.0;Item 185;51;6;306.0;03/01/2030;Fornecedor Ômega;Antibiótico;Avaria
+19/09/2026;805511.0;Item 186;96;30;2880.0;19/02/2029;Fornecedor Beta;Perfumaria;Devolução parcial
+20/09/2026;345180.0;Item 187;61;6;366.0;16/12/2031;Fornecedor Gama;Correlatos;Devolução parcial
+21/09/2026;332120.0;Item 188;83;12;996.0;15/08/2031;Fornecedor Delta;Alimentos;Avaria
+29/09/2026;221761.0;Item 190;13;25;325.0;05/01/2030;Fornecedor Alfa;Antibiótico;Avaria
+14/09/2026;489033.0;Item 191;86;100;8600.0;17/04/2030;Fornecedor Alfa;Antibiótico;Devolução parcial
+20/09/2026;203831.0;Item 192;107;60;6420.0;15/04/2029;Fornecedor Beta;Perfumaria;Devolução parcial
+15/09/2026;488528.0;Item 193;28;60;1680.0;28/04/2028;Fornecedor Beta;Perfumaria;Devolução parcial
+02/09/2026;485178.0;Item 194;70;48;3360.0;26/03/2029;Fornecedor Beta;Medicamento;0
+03/09/2026;989227.0;Item 195;106;60;6360.0;19/09/2030;Fornecedor Alfa;Alimentos;Devolução parcial
+26/09/2026;726152.0;Item 196;3;6;18.0;14/11/2028;Fornecedor Alfa;Medicamento;Devolução parcial
+07/09/2026;315173.0;Item 197;9;100;900.0;15/04/2030;Fornecedor Alfa;Medicamento;Avaria
+01/09/2026;911984.0;Item 198;19;120;2280.0;21/07/2028;Fornecedor Alfa;Medicamento;Devolução parcial
+04/09/2026;362829.0;Item 199;103;24;2472.0;15/09/2030;Fornecedor Ômega;Medicamento;0
+19/09/2026;475644.0;Item 200;102;25;2550.0;25/10/2028;Fornecedor Ômega;Medicamento;Avaria
+17/09/2026;154944.0;Item 201;17;50;850.0;21/08/2027;Fornecedor Ômega;Antibiótico;Avaria
+19/09/2026;915809.0;Item 202;47;100;4700.0;12/08/2027;Fornecedor Delta;Psicotrópico;0
+22/09/2026;988456.0;Item 204;52;50;2600.0;10/08/2027;Fornecedor Delta;Alimentos;Avaria
+11/09/2026;177060.0;Item 205;116;12;1392.0;30/05/2030;Fornecedor Alfa;Perfumaria;0
+17/09/2026;656329.0;Item 207;38;60;2280.0;24/05/2030;Fornecedor Delta;Perfumaria;Devolução parcial
+24/09/2026;219971.0;Item 208;110;100;11000.0;08/11/2031;Fornecedor Alfa;Antibiótico;Avaria
+27/09/2026;339592.0;Item 209;53;48;2544.0;17/07/2029;Fornecedor Delta;Antibiótico;Devolução parcial
+11/09/2026;199704.0;Item 210;41;50;2050.0;24/09/2030;Fornecedor Beta;Correlatos;0
+03/09/2026;820184.0;Item 211;119;60;7140.0;06/07/2027;Fornecedor Ômega;Perfumaria;Avaria
+26/09/2026;201255.0;Item 212;96;48;4608.0;24/09/2027;Fornecedor Gama;Perfumaria;Devolução parcial
+22/09/2026;688866.0;Item 213;72;48;3456.0;08/09/2027;Fornecedor Delta;Correlatos;Devolução parcial
+10/09/2026;886730.0;Item 214;55;6;330.0;14/05/2030;Fornecedor Beta;Correlatos;0
+05/09/2026;705991.0;Item 215;65;25;1625.0;06/09/2030;Fornecedor Delta;Medicamento;0
+25/09/2026;946432.0;Item 217;55;100;5500.0;04/08/2031;Fornecedor Gama;Psicotrópico;Devolução parcial
+20/09/2026;773918.0;Item 218;72;6;432.0;09/09/2030;Fornecedor Beta;Perfumaria;0
+30/09/2026;386544.0;Item 219;90;30;2700.0;26/11/2028;Fornecedor Beta;Perfumaria;0
+03/09/2026;250210.0;Item 220;73;50;3650.0;18/10/2027;Fornecedor Ômega;Perfumaria;Devolução parcial
+14/09/2026;656251.0;Item 221;28;50;1400.0;18/07/2029;Fornecedor Beta;Medicamento;Avaria
+25/09/2026;426775.0;Item 222;93;48;4464.0;08/03/2030;Fornecedor Gama;Perfumaria;0
+02/09/2026;263137.0;Item 223;21;120;2520.0;12/10/2030;Fornecedor Ômega;Correlatos;Avaria
+20/09/2026;794093.0;Item 224;55;60;3300.0;24/06/2029;Fornecedor Delta;Correlatos;0
+12/09/2026;891615.0;Item 225;66;12;792.0;30/05/2029;Fornecedor Ômega;Correlatos;Devolução parcial
+17/09/2026;811444.0;Item 226;76;60;4560.0;28/09/2030;Fornecedor Beta;Perfumaria;0
+01/09/2026;514463.0;Item 227;77;6;462.0;23/02/2028;Fornecedor Beta;Medicamento;0
+11/09/2026;901280.0;Item 228;33;30;990.0;03/09/2027;Fornecedor Ômega;Antibiótico;Devolução parcial
+13/09/2026;551574.0;Item 229;23;24;552.0;26/12/2029;Fornecedor Alfa;Psicotrópico;Devolução parcial
+03/09/2026;973835.0;Item 230;86;48;4128.0;24/03/2029;Fornecedor Ômega;Antibiótico;0
+10/09/2026;524068.0;Item 232;91;50;4550.0;24/08/2027;Fornecedor Delta;Perfumaria;Avaria
+15/09/2026;280222.0;Item 233;103;120;12360.0;31/08/2031;Fornecedor Beta;Perfumaria;Avaria
+24/09/2026;514991.0;Item 235;112;30;3360.0;26/11/2028;Fornecedor Alfa;Correlatos;0
+17/09/2026;180089.0;Item 236;66;12;792.0;10/11/2029;Fornecedor Alfa;Correlatos;Avaria
+08/09/2026;862712.0;Item 237;105;24;2520.0;30/07/2027;Fornecedor Alfa;Correlatos;0
+25/09/2026;281926.0;Item 238;78;24;1872.0;04/04/2031;Fornecedor Ômega;Medicamento;Devolução parcial
+25/09/2026;618119.0;Item 239;60;120;7200.0;01/04/2030;Fornecedor Delta;Alimentos;Devolução parcial
+11/09/2026;774225.0;Item 240;82;120;9840.0;05/11/2031;Fornecedor Beta;Medicamento;Avaria
+21/09/2026;171603.0;Item 241;61;60;3660.0;12/09/2028;Fornecedor Beta;Psicotrópico;0
+10/09/2026;469038.0;Item 242;65;12;780.0;03/08/2029;Fornecedor Delta;Perfumaria;0
+03/09/2026;486649.0;Item 243;107;30;3210.0;13/08/2030;Fornecedor Ômega;Psicotrópico;Devolução parcial
+19/09/2026;631699.0;Item 244;50;60;3000.0;09/02/2030;Fornecedor Ômega;Antibiótico;Devolução parcial
+20/09/2026;783501.0;Item 245;25;48;1200.0;01/09/2029;Fornecedor Gama;Medicamento;0
+15/09/2026;141043.0;Item 247;32;60;1920.0;09/12/2029;Fornecedor Gama;Psicotrópico;0
+13/09/2026;481574.0;Item 248;48;30;1440.0;17/04/2029;Fornecedor Beta;Alimentos;Devolução parcial
+03/09/2026;154909.0;Item 249;102;48;4896.0;06/11/2028;Fornecedor Ômega;Psicotrópico;Devolução parcial
+24/09/2026;505341.0;Item 250;37;30;1110.0;11/10/2031;Fornecedor Gama;Medicamento;Avaria
+30/09/2026;185461.0;Item 251;75;24;1800.0;17/12/2028;Fornecedor Beta;Alimentos;Devolução parcial
+20/09/2026;794299.0;Item 252;51;24;1224.0;22/12/2030;Fornecedor Ômega;Correlatos;Devolução parcial
+12/09/2026;803024.0;Item 254;55;100;5500.0;07/02/2027;Fornecedor Beta;Correlatos;0
+07/09/2026;324597.0;Item 255;44;60;2640.0;08/04/2028;Fornecedor Alfa;Medicamento;0
+17/09/2026;410160.0;Item 256;109;12;1308.0;28/04/2031;Fornecedor Gama;Alimentos;Devolução parcial
+29/09/2026;139581.0;Item 257;85;48;4080.0;19/04/2031;Fornecedor Gama;Medicamento;Devolução parcial
+06/09/2026;495019.0;Item 258;20;24;480.0;30/08/2031;Fornecedor Gama;Medicamento;Devolução parcial
+12/09/2026;558933.0;Item 259;6;50;300.0;17/10/2030;Fornecedor Alfa;Antibiótico;Devolução parcial
+08/09/2026;398768.0;Item 260;97;60;5820.0;29/12/2029;Fornecedor Alfa;Correlatos;Avaria
+22/09/2026;975679.0;Item 261;25;48;1200.0;14/03/2030;Fornecedor Delta;Antibiótico;Avaria
+17/09/2026;915922.0;Item 262;49;100;4900.0;07/05/2029;Fornecedor Alfa;Medicamento;Devolução parcial
+02/09/2026;245121.0;Item 263;112;30;3360.0;06/08/2030;Fornecedor Delta;Correlatos;Devolução parcial
+28/09/2026;207573.0;Item 264;92;100;9200.0;13/09/2027;Fornecedor Beta;Perfumaria;0
+30/09/2026;956375.0;Item 266;58;48;2784.0;24/02/2027;Fornecedor Delta;Perfumaria;Avaria
+13/09/2026;626392.0;Item 267;48;25;1200.0;17/06/2027;Fornecedor Beta;Medicamento;0
+23/09/2026;140163.0;Item 269;37;60;2220.0;30/08/2031;Fornecedor Alfa;Alimentos;Avaria
+29/09/2026;570392.0;Item 270;79;6;474.0;12/06/2027;Fornecedor Ômega;Correlatos;0
+10/09/2026;913875.0;Item 272;37;25;925.0;07/09/2027;Fornecedor Ômega;Medicamento;Avaria
+15/09/2026;769989.0;Item 273;102;120;12240.0;09/05/2027;Fornecedor Ômega;Antibiótico;Devolução parcial
+19/09/2026;662093.0;Item 274;3;100;300.0;10/05/2028;Fornecedor Alfa;Correlatos;Avaria
+12/09/2026;800674.0;Item 276;11;100;1100.0;19/05/2027;Fornecedor Gama;Psicotrópico;Devolução parcial
+01/09/2026;924613.0;Item 277;65;100;6500.0;10/03/2029;Fornecedor Delta;Perfumaria;Devolução parcial
+24/09/2026;505674.0;Item 278;48;30;1440.0;03/02/2027;Fornecedor Beta;Perfumaria;Avaria
+25/09/2026;352838.0;Item 279;94;12;1128.0;06/04/2030;Fornecedor Beta;Medicamento;0
+27/09/2026;469412.0;Item 280;70;48;3360.0;09/08/2030;Fornecedor Alfa;Alimentos;Avaria
+26/09/2026;829168.0;Item 281;62;24;1488.0;04/10/2027;Fornecedor Ômega;Alimentos;Avaria
+02/09/2026;138780.0;Item 282;38;25;950.0;09/06/2031;Fornecedor Alfa;Perfumaria;Avaria
+27/09/2026;425138.0;Item 283;66;50;3300.0;17/01/2030;Fornecedor Delta;Correlatos;0
+14/09/2026;386488.0;Item 285;16;48;768.0;27/12/2031;Fornecedor Delta;Alimentos;Avaria
+16/09/2026;505426.0;Item 286;44;24;1056.0;18/11/2030;Fornecedor Delta;Correlatos;Devolução parcial
+24/09/2026;379676.0;Item 287;103;12;1236.0;19/05/2029;Fornecedor Ômega;Antibiótico;Devolução parcial
+10/09/2026;962287.0;Item 288;24;100;2400.0;19/10/2028;Fornecedor Ômega;Perfumaria;Avaria
+15/09/2026;793024.0;Item 289;38;30;1140.0;19/05/2030;Fornecedor Delta;Medicamento;Devolução parcial
+03/09/2026;387892.0;Item 291;82;6;492.0;06/10/2030;Fornecedor Delta;Correlatos;Devolução parcial
+01/09/2026;940010.0;Item 292;96;24;2304.0;20/10/2027;Fornecedor Gama;Alimentos;Avaria
+05/09/2026;694799.0;Item 294;5;120;600.0;22/10/2030;Fornecedor Delta;Correlatos;Avaria
+19/09/2026;565504.0;Item 295;98;12;1176.0;09/10/2027;Fornecedor Gama;Correlatos;Avaria
+08/09/2026;429657.0;Item 296;84;30;2520.0;21/08/2027;Fornecedor Ômega;Alimentos;0
+30/09/2026;623285.0;Item 297;67;50;3350.0;24/02/2030;Fornecedor Ômega;Correlatos;Avaria
+15/09/2026;242321.0;Item 299;110;12;1320.0;20/12/2027;Fornecedor Delta;Perfumaria;Devolução parcial
+23/09/2026;986593.0;Item 300;41;48;1968.0;13/05/2027;Fornecedor Gama;Psicotrópico;Avaria
+12/09/2026;478427.0;Item 303;71;120;8520.0;15/08/2029;Fornecedor Gama;Medicamento;Devolução parcial
+03/09/2026;906527.0;Item 305;53;120;6360.0;14/09/2027;Fornecedor Beta;Alimentos;0
+14/09/2026;290802.0;Item 307;99;24;2376.0;26/10/2029;Fornecedor Ômega;Perfumaria;Devolução parcial
+06/09/2026;260448.0;Item 308;39;24;936.0;22/10/2028;Fornecedor Alfa;Correlatos;Devolução parcial
+02/09/2026;454019.0;Item 312;108;120;12960.0;18/08/2031;Fornecedor Ômega;Perfumaria;0
+09/09/2026;772612.0;Item 313;99;120;11880.0;26/08/2030;Fornecedor Alfa;Psicotrópico;Avaria
+26/09/2026;416768.0;Item 315;62;25;1550.0;12/07/2031;Fornecedor Delta;Correlatos;Avaria
+06/09/2026;176517.0;Item 316;89;6;534.0;19/06/2029;Fornecedor Delta;Antibiótico;Avaria
+05/09/2026;313933.0;Item 317;44;120;5280.0;02/10/2028;Fornecedor Beta;Alimentos;Avaria
+17/09/2026;518084.0;Item 318;17;48;816.0;24/02/2030;Fornecedor Ômega;Correlatos;0
+15/09/2026;589131.0;Item 319;16;30;480.0;22/05/2028;Fornecedor Alfa;Perfumaria;0
+14/09/2026;404309.0;Item 320;50;120;6000.0;23/05/2028;Fornecedor Alfa;Correlatos;Devolução parcial
+25/09/2026;856157.0;Item 321;41;25;1025.0;23/11/2027;Fornecedor Delta;Psicotrópico;Avaria
+16/09/2026;622987.0;Item 322;113;30;3390.0;17/02/2027;Fornecedor Ômega;Antibiótico;Devolução parcial
+19/09/2026;579441.0;Item 323;31;25;775.0;23/12/2028;Fornecedor Ômega;Perfumaria;Avaria
+10/09/2026;618934.0;Item 324;77;60;4620.0;04/01/2030;Fornecedor Ômega;Perfumaria;Avaria
+24/09/2026;240440.0;Item 325;113;30;3390.0;19/01/2029;Fornecedor Delta;Correlatos;0
+18/09/2026;520040.0;Item 326;7;120;840.0;03/02/2028;Fornecedor Beta;;Avaria
+15/09/2026;177103.0;Item 327;50;100;5000.0;15/04/2031;Fornecedor Gama;Correlatos;Devolução parcial
+05/09/2026;813449.0;Item 328;79;12;948.0;18/07/2027;Fornecedor Delta;Correlatos;Avaria
+07/09/2026;684929.0;Item 329;47;24;1128.0;18/05/2030;Fornecedor Gama;Antibiótico;Devolução parcial
+05/09/2026;142210.0;Item 330;6;6;36.0;01/01/2031;Fornecedor Beta;Antibiótico;Devolução parcial
+29/09/2026;579187.0;Item 331;20;120;2400.0;21/11/2029;Fornecedor Alfa;Correlatos;Devolução parcial
+20/09/2026;434002.0;Item 332;21;50;1050.0;23/02/2031;Fornecedor Beta;Psicotrópico;Avaria
+18/09/2026;631958.0;Item 333;107;100;10700.0;30/09/2029;Fornecedor Gama;Correlatos;Avaria
+20/09/2026;422623.0;Item 335;102;6;612.0;29/08/2029;Fornecedor Beta;Alimentos;Devolução parcial
+19/09/2026;705693.0;Item 336;30;6;180.0;10/09/2029;Fornecedor Alfa;Psicotrópico;Devolução parcial
+05/09/2026;856215.0;Item 337;80;50;4000.0;10/08/2031;Fornecedor Alfa;Perfumaria;Devolução parcial
+01/09/2026;834549.0;Item 338;15;25;375.0;22/06/2029;Fornecedor Beta;Antibiótico;0
+14/09/2026;533020.0;Item 339;89;25;2225.0;24/10/2029;Fornecedor Gama;Antibiótico;Devolução parcial
+11/09/2026;601608.0;Item 341;68;50;3400.0;21/12/2027;Fornecedor Delta;Psicotrópico;Avaria
+20/09/2026;672808.0;Item 342;46;30;1380.0;18/09/2029;Fornecedor Alfa;Medicamento;Avaria
+10/09/2026;685196.0;Item 343;39;25;975.0;29/04/2031;Fornecedor Beta;Alimentos;0
+11/09/2026;823769.0;Item 344;91;60;5460.0;09/09/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+19/09/2026;386741.0;Item 345;37;12;444.0;17/10/2030;Fornecedor Gama;Antibiótico;Avaria
+10/09/2026;958130.0;Item 346;45;24;1080.0;28/03/2027;Fornecedor Beta;Alimentos;0
+30/09/2026;968170.0;Item 348;69;30;2070.0;25/02/2030;Fornecedor Beta;Medicamento;0
+08/09/2026;745584.0;Item 349;95;120;11400.0;11/05/2028;Fornecedor Ômega;Alimentos;Devolução parcial
+02/09/2026;336633.0;Item 350;82;25;2050.0;25/07/2027;Fornecedor Delta;Correlatos;Devolução parcial
+25/09/2026;598807.0;Item 352;62;25;1550.0;11/08/2028;Fornecedor Beta;Correlatos;Devolução parcial
+21/09/2026;162036.0;Item 353;117;12;1404.0;21/03/2030;Fornecedor Alfa;Psicotrópico;Devolução parcial
+30/09/2026;858243.0;Item 354;109;6;654.0;25/12/2027;Fornecedor Delta;Medicamento;0
+06/09/2026;976822.0;Item 355;51;60;3060.0;14/03/2031;Fornecedor Beta;Perfumaria;0
+04/09/2026;412886.0;Item 356;73;120;8760.0;17/11/2028;Fornecedor Beta;Antibiótico;Devolução parcial
+29/09/2026;669691.0;Item 357;68;60;4080.0;02/10/2027;Fornecedor Gama;Antibiótico;Avaria
+11/09/2026;302177.0;Item 358;104;12;1248.0;29/11/2027;Fornecedor Delta;Alimentos;Avaria
+24/09/2026;853504.0;Item 359;24;6;144.0;21/11/2028;Fornecedor Beta;Psicotrópico;Devolução parcial
+22/09/2026;443856.0;Item 361;12;50;600.0;15/07/2027;Fornecedor Alfa;Medicamento;Avaria
+01/09/2026;439320.0;Item 362;120;25;3000.0;18/06/2028;Fornecedor Delta;Medicamento;Avaria
+30/09/2026;267475.0;Item 365;52;100;5200.0;24/12/2031;Fornecedor Beta;Alimentos;0
+12/09/2026;769737.0;Item 366;118;30;3540.0;12/06/2030;Fornecedor Alfa;Medicamento;0
+24/09/2026;601410.0;Item 367;20;60;1200.0;25/05/2030;Fornecedor Beta;Antibiótico;Devolução parcial
+17/09/2026;891401.0;Item 369;77;12;924.0;03/07/2029;Fornecedor Gama;Alimentos;Avaria
+06/09/2026;700521.0;Item 371;69;24;1656.0;02/11/2028;Fornecedor Gama;Antibiótico;0
+16/09/2026;813341.0;Item 372;27;120;3240.0;06/07/2027;Fornecedor Gama;Antibiótico;0
+14/09/2026;575458.0;Item 373;17;100;1700.0;24/07/2029;Fornecedor Gama;Perfumaria;Devolução parcial
+24/09/2026;584838.0;Item 374;87;30;2610.0;14/02/2027;Fornecedor Delta;Correlatos;0
+30/09/2026;166857.0;Item 376;70;6;420.0;22/05/2027;Fornecedor Delta;Perfumaria;Avaria
+25/09/2026;528728.0;Item 377;24;24;576.0;06/08/2030;Fornecedor Delta;Correlatos;Avaria
+13/09/2026;570325.0;Item 378;112;50;5600.0;14/06/2027;Fornecedor Gama;Medicamento;Devolução parcial
+18/09/2026;464663.0;Item 379;16;24;384.0;15/03/2029;Fornecedor Gama;Medicamento;Devolução parcial
+25/09/2026;333507.0;Item 380;107;6;642.0;16/02/2027;Fornecedor Beta;Antibiótico;Devolução parcial
+18/09/2026;854024.0;Item 381;70;50;3500.0;15/02/2029;Fornecedor Alfa;Medicamento;Avaria
+08/09/2026;539605.0;Item 383;79;6;474.0;27/02/2028;Fornecedor Ômega;Perfumaria;Devolução parcial
+22/09/2026;135207.0;Item 384;58;120;6960.0;11/12/2030;Fornecedor Ômega;Medicamento;Devolução parcial
+08/09/2026;146385.0;Item 385;52;60;3120.0;10/01/2030;Fornecedor Alfa;Perfumaria;0
+27/09/2026;628373.0;Item 386;38;25;950.0;07/02/2031;Fornecedor Gama;Correlatos;Devolução parcial
+08/09/2026;726962.0;Item 387;99;48;4752.0;10/09/2028;Fornecedor Alfa;Alimentos;Devolução parcial
+09/09/2026;331780.0;Item 388;53;30;1590.0;05/05/2027;Fornecedor Gama;Psicotrópico;Devolução parcial
+18/09/2026;283640.0;Item 389;81;50;4050.0;12/10/2029;Fornecedor Ômega;Correlatos;Devolução parcial
+11/09/2026;803953.0;Item 390;49;100;4900.0;27/11/2030;Fornecedor Delta;Antibiótico;0
+25/09/2026;414455.0;Item 391;49;24;1176.0;06/01/2030;Fornecedor Delta;Medicamento;0
+26/09/2026;415344.0;Item 392;110;24;2640.0;06/08/2029;Fornecedor Ômega;Psicotrópico;Avaria
+02/09/2026;859782.0;Item 395;107;25;2675.0;03/07/2028;Fornecedor Delta;Alimentos;Devolução parcial
+07/09/2026;732209.0;Item 396;6;12;72.0;06/07/2031;Fornecedor Gama;Alimentos;Devolução parcial
+07/09/2026;685997.0;Item 397;28;60;1680.0;16/11/2031;Fornecedor Beta;Correlatos;0
+24/09/2026;322096.0;Item 398;120;25;3000.0;29/08/2027;Fornecedor Delta;Medicamento;Devolução parcial
+13/09/2026;733760.0;Item 399;91;25;2275.0;05/05/2028;Fornecedor Gama;Correlatos;Avaria
+21/09/2026;499152.0;Item 400;60;100;6000.0;05/01/2029;Fornecedor Beta;Correlatos;Avaria
+15/09/2026;637727.0;Item 401;113;60;6780.0;21/07/2027;Fornecedor Delta;Correlatos;0
+02/09/2026;488712.0;Item 402;41;50;2050.0;26/02/2030;Fornecedor Alfa;Alimentos;0
+30/09/2026;117007.0;Item 403;34;100;3400.0;11/04/2030;Fornecedor Gama;Alimentos;Avaria
+11/09/2026;409531.0;Item 404;20;25;500.0;16/04/2028;Fornecedor Delta;Psicotrópico;0
+06/09/2026;875520.0;Item 406;63;60;3780.0;09/02/2031;Fornecedor Beta;Medicamento;0
+06/09/2026;855303.0;Item 407;70;60;4200.0;27/12/2031;Fornecedor Gama;Alimentos;0
+27/09/2026;649395.0;Item 408;5;12;60.0;30/09/2030;Fornecedor Ômega;Perfumaria;Avaria
+02/09/2026;630299.0;Item 410;59;48;2832.0;19/06/2030;Fornecedor Gama;Antibiótico;Devolução parcial
+18/09/2026;611552.0;Item 411;3;6;18.0;03/02/2030;Fornecedor Delta;Perfumaria;0
+18/09/2026;655134.0;Item 412;93;30;2790.0;10/08/2028;Fornecedor Ômega;Psicotrópico;Devolução parcial
+09/09/2026;301255.0;Item 414;80;100;8000.0;28/07/2031;Fornecedor Beta;Correlatos;Avaria
+16/09/2026;497687.0;Item 417;49;100;4900.0;25/04/2027;Fornecedor Ômega;Alimentos;0
+21/09/2026;186702.0;Item 418;64;50;3200.0;26/05/2031;Fornecedor Beta;Psicotrópico;0
+22/09/2026;148823.0;Item 420;119;12;1428.0;28/07/2028;Fornecedor Gama;Psicotrópico;Devolução parcial
+01/09/2026;134500.0;Item 421;23;48;1104.0;29/02/2028;Fornecedor Gama;Medicamento;Devolução parcial
+10/09/2026;960778.0;Item 422;51;12;612.0;29/11/2027;Fornecedor Gama;;Devolução parcial
+17/09/2026;246748.0;Item 424;102;12;1224.0;07/03/2031;Fornecedor Beta;Perfumaria;0
+11/09/2026;558320.0;Item 425;30;12;360.0;24/05/2030;Fornecedor Gama;Psicotrópico;Avaria
+21/09/2026;911131.0;Item 426;42;6;252.0;13/07/2028;Fornecedor Delta;Antibiótico;0
+14/09/2026;473095.0;Item 427;71;50;3550.0;16/01/2028;Fornecedor Gama;Alimentos;Avaria
+10/09/2026;189856.0;Item 428;99;120;11880.0;23/06/2031;Fornecedor Alfa;Alimentos;0
+13/09/2026;186023.0;Item 429;35;24;840.0;28/12/2030;Fornecedor Alfa;Alimentos;Avaria
+03/09/2026;432061.0;Item 430;47;12;564.0;11/01/2027;Fornecedor Beta;Antibiótico;Avaria
+05/09/2026;898329.0;Item 431;35;12;420.0;28/06/2027;Fornecedor Alfa;Antibiótico;Avaria
+14/09/2026;684041.0;Item 432;72;100;7200.0;31/07/2027;Fornecedor Ômega;Perfumaria;Avaria
+20/09/2026;681141.0;Item 433;12;120;1440.0;26/05/2031;Fornecedor Beta;Antibiótico;0
+25/09/2026;406024.0;Item 434;53;50;2650.0;23/06/2027;Fornecedor Gama;Medicamento;Devolução parcial
+06/09/2026;646417.0;Item 435;22;50;1100.0;12/10/2027;Fornecedor Beta;Correlatos;Avaria
+12/09/2026;607753.0;Item 437;101;12;1212.0;30/05/2028;Fornecedor Alfa;Alimentos;Devolução parcial
+07/09/2026;619886.0;Item 438;77;120;9240.0;26/07/2029;Fornecedor Ômega;Medicamento;Avaria
+05/09/2026;450996.0;Item 440;56;120;6720.0;07/09/2028;Fornecedor Beta;Psicotrópico;Devolução parcial
+06/09/2026;310608.0;Item 441;62;48;2976.0;26/03/2029;Fornecedor Beta;Correlatos;Devolução parcial
+19/09/2026;828716.0;Item 442;82;60;4920.0;21/05/2031;Fornecedor Alfa;Correlatos;Avaria
+12/09/2026;393916.0;Item 443;105;50;5250.0;22/08/2027;Fornecedor Gama;Medicamento;Devolução parcial
+01/09/2026;672133.0;Item 444;24;100;2400.0;29/01/2031;Fornecedor Delta;Alimentos;0
+27/09/2026;559753.0;Item 445;103;30;3090.0;19/11/2030;Fornecedor Ômega;Antibiótico;Devolução parcial
+08/09/2026;623557.0;Item 446;18;30;540.0;01/06/2028;Fornecedor Alfa;Alimentos;Avaria
+15/09/2026;927406.0;Item 447;49;12;588.0;09/05/2030;Fornecedor Delta;Psicotrópico;Avaria
+18/09/2026;660324.0;Item 448;65;50;3250.0;17/03/2027;Fornecedor Beta;Alimentos;Devolução parcial
+04/09/2026;722665.0;Item 449;82;12;984.0;24/04/2031;Fornecedor Alfa;Alimentos;Devolução parcial
+02/09/2026;472253.0;Item 450;22;120;2640.0;27/02/2030;Fornecedor Delta;Correlatos;Avaria
+09/09/2026;211090.0;Item 451;2;12;24.0;30/03/2028;Fornecedor Gama;Alimentos;Devolução parcial
+08/09/2026;685098.0;Item 452;75;120;9000.0;01/07/2029;Fornecedor Beta;Antibiótico;Avaria
+23/09/2026;909859.0;Item 453;87;120;10440.0;21/10/2029;Fornecedor Alfa;Correlatos;0
+14/09/2026;606222.0;Item 454;14;30;420.0;25/06/2027;Fornecedor Ômega;Alimentos;0
+15/09/2026;465249.0;Item 455;40;48;1920.0;26/05/2031;Fornecedor Alfa;Psicotrópico;Avaria
+15/09/2026;465219.0;Item 456;61;12;732.0;18/01/2031;Fornecedor Delta;Correlatos;0
+01/09/2026;414849.0;Item 457;6;12;72.0;06/10/2031;Fornecedor Beta;Alimentos;0
+30/09/2026;810032.0;Item 458;103;24;2472.0;25/02/2031;Fornecedor Alfa;Psicotrópico;0
+18/09/2026;678719.0;Item 459;21;48;1008.0;23/05/2029;Fornecedor Delta;Medicamento;Avaria
+21/09/2026;760351.0;Item 460;24;24;576.0;08/09/2030;Fornecedor Delta;Antibiótico;0
+15/09/2026;873207.0;Item 461;79;25;1975.0;27/04/2030;Fornecedor Delta;Antibiótico;0
+06/09/2026;938338.0;Item 463;112;100;11200.0;19/01/2029;Fornecedor Beta;Medicamento;Avaria
+17/09/2026;219490.0;Item 464;34;60;2040.0;01/08/2030;Fornecedor Beta;Psicotrópico;Avaria
+04/09/2026;741003.0;Item 465;51;120;6120.0;13/12/2028;Fornecedor Beta;Antibiótico;Devolução parcial
+08/09/2026;240454.0;Item 467;41;12;492.0;17/09/2028;Fornecedor Ômega;Medicamento;Avaria
+13/09/2026;827120.0;Item 468;19;100;1900.0;06/05/2029;Fornecedor Gama;Medicamento;Devolução parcial
+16/09/2026;502349.0;Item 469;55;24;1320.0;25/07/2030;Fornecedor Gama;Alimentos;Devolução parcial
+16/09/2026;281649.0;Item 470;72;24;1728.0;14/08/2028;Fornecedor Alfa;Medicamento;Avaria
+02/09/2026;982885.0;Item 471;58;120;6960.0;08/11/2031;Fornecedor Beta;Perfumaria;Avaria
+18/09/2026;243167.0;Item 472;25;50;1250.0;01/11/2029;Fornecedor Delta;Antibiótico;Devolução parcial
+16/09/2026;615611.0;Item 473;54;60;3240.0;09/12/2027;Fornecedor Ômega;Psicotrópico;0
+10/09/2026;934541.0;Item 474;98;25;2450.0;08/03/2027;Fornecedor Beta;Medicamento;Devolução parcial
+19/09/2026;402692.0;Item 475;22;60;1320.0;01/03/2031;Fornecedor Delta;Psicotrópico;Devolução parcial
+25/09/2026;962570.0;Item 477;97;6;582.0;12/01/2031;Fornecedor Delta;Psicotrópico;0
+10/09/2026;545807.0;Item 478;14;25;350.0;27/11/2031;Fornecedor Ômega;Antibiótico;Avaria
+15/09/2026;465509.0;Item 479;111;12;1332.0;08/11/2031;Fornecedor Ômega;Medicamento;0
+26/09/2026;274044.0;Item 481;79;24;1896.0;28/02/2028;Fornecedor Alfa;Perfumaria;Devolução parcial
+20/09/2026;467856.0;Item 482;69;30;2070.0;08/01/2030;Fornecedor Alfa;Correlatos;Devolução parcial
+09/09/2026;406849.0;Item 483;38;120;4560.0;24/10/2031;Fornecedor Gama;Alimentos;0
+30/09/2026;242175.0;Item 484;97;50;4850.0;02/05/2027;Fornecedor Beta;Alimentos;0
+08/09/2026;835499.0;Item 485;111;24;2664.0;27/10/2027;Fornecedor Beta;Medicamento;Devolução parcial
+19/09/2026;511776.0;Item 486;63;24;1512.0;19/07/2030;Fornecedor Beta;Alimentos;Avaria
+21/09/2026;493396.0;Item 487;58;12;696.0;16/06/2031;Fornecedor Ômega;Antibiótico;Devolução parcial
+15/09/2026;886224.0;Item 488;36;48;1728.0;26/09/2029;Fornecedor Beta;Psicotrópico;0
+24/09/2026;911739.0;Item 489;109;12;1308.0;27/07/2029;Fornecedor Beta;Perfumaria;Devolução parcial
+18/09/2026;968581.0;Item 491;37;48;1776.0;29/03/2030;Fornecedor Alfa;Psicotrópico;Avaria
+02/09/2026;926596.0;Item 492;44;6;264.0;23/07/2027;Fornecedor Delta;Perfumaria;0
+06/09/2026;238320.0;Item 494;113;30;3390.0;26/11/2031;Fornecedor Beta;Perfumaria;Devolução parcial
+12/09/2026;477943.0;Item 495;33;12;396.0;22/09/2030;Fornecedor Alfa;Perfumaria;Avaria
+14/09/2026;755993.0;Item 496;40;25;1000.0;04/09/2030;Fornecedor Ômega;Alimentos;0
+03/09/2026;101139.0;Item 497;28;60;1680.0;29/09/2027;Fornecedor Gama;Medicamento;Devolução parcial
+01/09/2026;813013.0;Item 498;57;6;342.0;25/11/2030;Fornecedor Beta;Perfumaria;Avaria
+03/09/2026;827744.0;Item 499;17;60;1020.0;13/04/2028;Fornecedor Delta;Perfumaria;Devolução parcial
+11/09/2026;945106.0;Item 500;14;12;168.0;22/01/2029;Fornecedor Beta;Medicamento;Avaria
+21/09/2026;911032.0;Item 501;105;24;2520.0;18/10/2030;Fornecedor Alfa;Perfumaria;Devolução parcial
+21/09/2026;690653.0;Item 502;2;120;240.0;03/12/2027;Fornecedor Delta;Correlatos;Devolução parcial
+30/09/2026;323404.0;Item 503;81;24;1944.0;23/04/2029;Fornecedor Gama;Alimentos;Avaria
+05/09/2026;327797.0;Item 504;12;12;144.0;22/03/2031;Fornecedor Ômega;Psicotrópico;Devolução parcial
+11/09/2026;502686.0;Item 505;45;50;2250.0;09/06/2031;Fornecedor Alfa;Medicamento;Avaria
+18/09/2026;775933.0;Item 506;11;25;275.0;15/05/2030;Fornecedor Gama;Alimentos;Devolução parcial
+28/09/2026;398761.0;Item 507;100;6;600.0;01/10/2031;Fornecedor Beta;Medicamento;Devolução parcial
+16/09/2026;921875.0;Item 509;115;25;2875.0;01/03/2029;Fornecedor Ômega;Medicamento;Avaria
+01/09/2026;899776.0;Item 512;61;12;732.0;17/04/2030;Fornecedor Ômega;Perfumaria;Avaria
+26/09/2026;326222.0;Item 513;6;6;36.0;26/03/2029;Fornecedor Gama;Correlatos;Devolução parcial
+05/09/2026;662628.0;Item 515;69;120;8280.0;22/07/2028;Fornecedor Ômega;Correlatos;0
+10/09/2026;714923.0;Item 517;82;12;984.0;01/12/2030;Fornecedor Delta;Alimentos;0
+22/09/2026;738407.0;Item 519;8;30;240.0;27/02/2031;Fornecedor Alfa;Perfumaria;0
+06/09/2026;842287.0;Item 520;18;6;108.0;13/10/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+06/09/2026;921021.0;Item 521;106;30;3180.0;31/01/2029;Fornecedor Alfa;Alimentos;Avaria
+23/09/2026;649300.0;Item 523;9;30;270.0;26/03/2030;Fornecedor Ômega;Antibiótico;Avaria
+16/09/2026;635593.0;Item 524;47;6;282.0;26/10/2031;Fornecedor Gama;Medicamento;Avaria
+29/09/2026;264951.0;Item 525;33;12;396.0;21/03/2030;Fornecedor Ômega;Medicamento;Devolução parcial
+28/09/2026;633541.0;Item 526;1;6;6.0;03/11/2031;Fornecedor Ômega;Medicamento;0
+30/09/2026;594681.0;Item 527;47;50;2350.0;04/11/2027;Fornecedor Alfa;Perfumaria;Devolução parcial
+08/09/2026;942127.0;Item 528;117;50;5850.0;21/10/2028;Fornecedor Alfa;Antibiótico;Devolução parcial
+19/09/2026;435476.0;Item 529;35;12;420.0;02/02/2029;Fornecedor Ômega;Psicotrópico;Devolução parcial
+26/09/2026;155230.0;Item 530;23;25;575.0;22/11/2029;Fornecedor Ômega;Antibiótico;0
+25/09/2026;587686.0;Item 531;111;30;3330.0;27/09/2031;Fornecedor Beta;Correlatos;0
+12/09/2026;679958.0;Item 532;59;6;354.0;15/02/2028;Fornecedor Beta;Psicotrópico;Avaria
+15/09/2026;875501.0;Item 533;80;25;2000.0;24/01/2029;Fornecedor Gama;Antibiótico;0
+25/09/2026;868043.0;Item 534;116;100;11600.0;19/06/2031;Fornecedor Alfa;Medicamento;0
+18/09/2026;529954.0;Item 535;4;25;100.0;10/12/2028;Fornecedor Ômega;Correlatos;0
+28/09/2026;895794.0;Item 536;85;50;4250.0;20/02/2031;Fornecedor Beta;;0
+16/09/2026;655550.0;Item 537;31;50;1550.0;03/05/2027;Fornecedor Alfa;Alimentos;Avaria
+19/09/2026;490586.0;Item 539;59;12;708.0;15/07/2027;Fornecedor Gama;Medicamento;Devolução parcial
+09/09/2026;237057.0;Item 541;31;30;930.0;09/10/2031;Fornecedor Beta;Antibiótico;Devolução parcial
+11/09/2026;972310.0;Item 542;95;48;4560.0;16/07/2029;Fornecedor Beta;Medicamento;0
+04/09/2026;312559.0;Item 543;18;120;2160.0;15/11/2027;Fornecedor Ômega;Medicamento;Avaria
+04/09/2026;588694.0;Item 544;41;50;2050.0;02/01/2030;Fornecedor Beta;Medicamento;Avaria
+28/09/2026;423284.0;Item 545;60;30;1800.0;03/09/2027;Fornecedor Ômega;Medicamento;Devolução parcial
+02/09/2026;418992.0;Item 546;106;120;12720.0;16/03/2028;Fornecedor Beta;Medicamento;0
+13/09/2026;845702.0;Item 547;32;48;1536.0;17/11/2029;Fornecedor Ômega;Alimentos;Avaria
+01/09/2026;372804.0;Item 548;105;24;2520.0;08/04/2029;Fornecedor Delta;Psicotrópico;Devolução parcial
+15/09/2026;676843.0;Item 549;32;12;384.0;28/07/2027;Fornecedor Alfa;Perfumaria;0
+05/09/2026;164664.0;Item 550;107;25;2675.0;10/02/2028;Fornecedor Delta;Correlatos;Devolução parcial
+19/09/2026;760914.0;Item 551;83;12;996.0;15/04/2030;Fornecedor Beta;Perfumaria;0
+26/09/2026;167603.0;Item 552;26;60;1560.0;21/09/2027;Fornecedor Ômega;Correlatos;0
+06/09/2026;144770.0;Item 553;60;6;360.0;21/03/2030;Fornecedor Delta;Alimentos;Avaria
+22/09/2026;620226.0;Item 554;4;50;200.0;23/05/2029;Fornecedor Alfa;Correlatos;0
+15/09/2026;296242.0;Item 555;36;30;1080.0;15/12/2031;Fornecedor Alfa;Perfumaria;Devolução parcial
+21/09/2026;749253.0;Item 556;79;25;1975.0;27/08/2028;Fornecedor Delta;Antibiótico;Devolução parcial
+08/09/2026;773870.0;Item 558;114;100;11400.0;15/07/2030;Fornecedor Gama;Perfumaria;Avaria
+09/09/2026;626797.0;Item 560;42;50;2100.0;04/01/2028;Fornecedor Ômega;Correlatos;Devolução parcial
+06/09/2026;904092.0;Item 562;75;25;1875.0;25/07/2027;Fornecedor Alfa;Alimentos;0
+25/09/2026;379473.0;Item 563;69;6;414.0;25/03/2028;Fornecedor Gama;Antibiótico;Avaria
+06/09/2026;979988.0;Item 564;109;24;2616.0;29/04/2028;Fornecedor Gama;Correlatos;Devolução parcial
+01/09/2026;831514.0;Item 565;46;120;5520.0;11/12/2030;Fornecedor Beta;Psicotrópico;Devolução parcial
+27/09/2026;249005.0;Item 566;73;25;1825.0;18/07/2031;Fornecedor Delta;Psicotrópico;Avaria
+03/09/2026;284084.0;Item 567;63;6;378.0;26/04/2027;Fornecedor Alfa;Psicotrópico;0
+30/09/2026;457311.0;Item 569;92;24;2208.0;02/07/2031;Fornecedor Beta;Perfumaria;0
+25/09/2026;254887.0;Item 570;76;24;1824.0;16/08/2027;Fornecedor Gama;Correlatos;0
+26/09/2026;243079.0;Item 572;21;50;1050.0;02/08/2030;Fornecedor Delta;Alimentos;Avaria
+23/09/2026;282664.0;Item 573;91;100;9100.0;27/12/2031;Fornecedor Gama;Correlatos;0
+13/09/2026;864234.0;Item 575;1;120;120.0;09/10/2031;Fornecedor Gama;Perfumaria;0
+08/09/2026;731650.0;Item 576;41;120;4920.0;02/08/2030;Fornecedor Gama;Perfumaria;Avaria
+08/09/2026;247475.0;Item 577;43;12;516.0;11/12/2028;Fornecedor Beta;Medicamento;Devolução parcial
+15/09/2026;193035.0;Item 578;106;48;5088.0;24/01/2027;Fornecedor Beta;Medicamento;0
+09/09/2026;826847.0;Item 579;9;48;432.0;31/05/2031;Fornecedor Ômega;Alimentos;0
+06/09/2026;895075.0;Item 582;88;25;2200.0;13/07/2029;Fornecedor Ômega;Perfumaria;Avaria
+04/09/2026;121053.0;Item 583;41;30;1230.0;01/06/2027;Fornecedor Beta;Medicamento;Avaria
+18/09/2026;268720.0;Item 584;94;12;1128.0;10/07/2027;Fornecedor Beta;Psicotrópico;Devolução parcial
+14/09/2026;606186.0;Item 585;91;6;546.0;31/08/2030;Fornecedor Alfa;Psicotrópico;Avaria
+11/09/2026;264735.0;Item 586;7;12;84.0;25/02/2028;Fornecedor Alfa;Antibiótico;Devolução parcial
+19/09/2026;200575.0;Item 588;7;50;350.0;30/01/2030;Fornecedor Delta;Medicamento;0
+03/09/2026;478356.0;Item 589;1;50;50.0;26/08/2028;Fornecedor Gama;Antibiótico;0
+06/09/2026;201698.0;Item 590;4;25;100.0;31/07/2030;Fornecedor Beta;Perfumaria;Avaria
+26/09/2026;984756.0;Item 591;15;30;450.0;25/03/2029;Fornecedor Delta;Antibiótico;Devolução parcial
+13/09/2026;377877.0;Item 592;12;100;1200.0;14/01/2028;Fornecedor Beta;Antibiótico;Avaria
+02/09/2026;977740.0;Item 594;35;120;4200.0;06/11/2027;Fornecedor Ômega;Perfumaria;Devolução parcial
+14/09/2026;460491.0;Item 595;104;100;10400.0;30/03/2031;Fornecedor Gama;Medicamento;Devolução parcial
+27/09/2026;163946.0;Item 596;108;50;5400.0;06/12/2029;Fornecedor Delta;Psicotrópico;Devolução parcial
+16/09/2026;597889.0;Item 597;74;25;1850.0;04/09/2028;Fornecedor Ômega;;Devolução parcial
+29/09/2026;136415.0;Item 598;65;120;7800.0;24/11/2029;Fornecedor Gama;Alimentos;Devolução parcial
+06/09/2026;254610.0;Item 599;16;60;960.0;09/12/2027;Fornecedor Alfa;Medicamento;0
+11/09/2026;683390.0;Item 602;51;100;5100.0;21/10/2031;Fornecedor Beta;Psicotrópico;Avaria
+19/09/2026;112964.0;Item 603;101;120;12120.0;06/12/2029;Fornecedor Delta;Perfumaria;Avaria
+19/09/2026;256911.0;Item 604;19;120;2280.0;08/04/2030;Fornecedor Ômega;Perfumaria;Devolução parcial
+28/09/2026;917411.0;Item 605;13;30;390.0;01/01/2030;Fornecedor Beta;Antibiótico;Avaria
+19/09/2026;501650.0;Item 606;84;60;5040.0;01/06/2030;Fornecedor Delta;Perfumaria;0
+20/09/2026;388792.0;Item 607;52;24;1248.0;31/05/2030;Fornecedor Delta;Perfumaria;Avaria
+10/09/2026;121215.0;Item 609;44;30;1320.0;28/07/2028;Fornecedor Delta;Alimentos;Devolução parcial
+05/09/2026;202988.0;Item 610;112;25;2800.0;07/09/2028;Fornecedor Delta;Correlatos;Avaria
+21/09/2026;864201.0;Item 611;54;120;6480.0;02/07/2027;Fornecedor Alfa;Antibiótico;0
+25/09/2026;963994.0;Item 612;53;60;3180.0;23/11/2029;Fornecedor Beta;Perfumaria;Devolução parcial
+10/09/2026;929937.0;Item 613;21;12;252.0;24/12/2030;Fornecedor Gama;Antibiótico;0
+29/09/2026;918430.0;Item 614;109;100;10900.0;10/03/2030;Fornecedor Ômega;Medicamento;0
+12/09/2026;838862.0;Item 616;26;30;780.0;14/08/2031;Fornecedor Delta;Psicotrópico;Avaria
+22/09/2026;766275.0;Item 617;119;12;1428.0;04/03/2027;Fornecedor Alfa;Correlatos;Avaria
+28/09/2026;722899.0;Item 618;58;24;1392.0;29/08/2029;Fornecedor Gama;Psicotrópico;Avaria
+24/09/2026;460971.0;Item 619;21;30;630.0;29/08/2031;Fornecedor Ômega;Correlatos;0
+28/09/2026;505343.0;Item 620;7;24;168.0;17/03/2030;Fornecedor Alfa;Medicamento;Devolução parcial
+26/09/2026;334639.0;Item 623;33;120;3960.0;17/09/2028;Fornecedor Beta;Antibiótico;Avaria
+09/09/2026;992952.0;Item 624;45;60;2700.0;22/03/2028;Fornecedor Delta;Correlatos;Devolução parcial
+13/09/2026;645928.0;Item 625;106;120;12720.0;12/04/2030;Fornecedor Ômega;Perfumaria;Devolução parcial
+16/09/2026;412974.0;Item 627;88;12;1056.0;11/05/2027;Fornecedor Beta;Correlatos;Devolução parcial
+29/09/2026;642421.0;Item 629;98;25;2450.0;27/04/2027;Fornecedor Gama;Antibiótico;Devolução parcial
+24/09/2026;435109.0;Item 630;88;24;2112.0;22/02/2027;Fornecedor Delta;Correlatos;Avaria
+24/09/2026;538897.0;Item 631;52;50;2600.0;14/03/2027;Fornecedor Gama;Alimentos;Devolução parcial
+30/09/2026;769320.0;Item 633;101;60;6060.0;07/10/2030;Fornecedor Beta;Psicotrópico;Avaria
+06/09/2026;986486.0;Item 634;22;100;2200.0;24/08/2028;Fornecedor Ômega;Antibiótico;0
+25/09/2026;876909.0;Item 635;34;100;3400.0;10/01/2028;Fornecedor Beta;Alimentos;0
+10/09/2026;489737.0;Item 637;34;120;4080.0;07/08/2029;Fornecedor Ômega;;0
+17/09/2026;225636.0;Item 639;112;50;5600.0;03/09/2028;Fornecedor Delta;Perfumaria;0
+14/09/2026;244037.0;Item 640;26;48;1248.0;12/03/2030;Fornecedor Delta;Medicamento;Avaria
+16/09/2026;850432.0;Item 641;24;12;288.0;12/11/2028;Fornecedor Alfa;Correlatos;Devolução parcial
+13/09/2026;522988.0;Item 644;55;60;3300.0;10/01/2027;Fornecedor Ômega;Psicotrópico;0
+08/09/2026;809621.0;Item 646;1;25;25.0;21/11/2030;Fornecedor Beta;Correlatos;0
+11/09/2026;554730.0;Item 649;114;24;2736.0;30/09/2029;Fornecedor Beta;Medicamento;0
+08/09/2026;951452.0;Item 650;52;6;312.0;04/04/2028;Fornecedor Alfa;Medicamento;Devolução parcial
+29/09/2026;930605.0;Item 652;5;50;250.0;04/08/2030;Fornecedor Beta;Psicotrópico;Devolução parcial
+22/09/2026;150947.0;Item 653;77;6;462.0;10/08/2027;Fornecedor Ômega;Perfumaria;Devolução parcial
+13/09/2026;221414.0;Item 654;54;60;3240.0;11/09/2027;Fornecedor Gama;Correlatos;Avaria
+23/09/2026;835962.0;Item 655;20;25;500.0;05/11/2030;Fornecedor Ômega;Correlatos;Avaria
+12/09/2026;971889.0;Item 659;67;25;1675.0;11/12/2030;Fornecedor Delta;Correlatos;0
+30/09/2026;141319.0;Item 660;71;60;4260.0;01/03/2028;Fornecedor Delta;Correlatos;0
+30/09/2026;102871.0;Item 661;2;12;24.0;15/08/2027;Fornecedor Gama;Alimentos;Avaria
+03/09/2026;256389.0;Item 662;12;100;1200.0;21/01/2031;Fornecedor Ômega;Correlatos;Devolução parcial
+09/09/2026;342389.0;Item 663;59;30;1770.0;08/08/2029;Fornecedor Ômega;Perfumaria;0
+12/09/2026;141360.0;Item 664;110;30;3300.0;30/06/2031;Fornecedor Beta;Antibiótico;Devolução parcial
+01/09/2026;221531.0;Item 665;13;6;78.0;11/10/2031;Fornecedor Alfa;Alimentos;Devolução parcial
+29/09/2026;278795.0;Item 666;43;48;2064.0;15/06/2029;Fornecedor Gama;Correlatos;Devolução parcial
+06/09/2026;197466.0;Item 667;48;48;2304.0;22/08/2027;Fornecedor Delta;Antibiótico;Avaria
+23/09/2026;385037.0;Item 668;107;50;5350.0;09/10/2031;Fornecedor Delta;Antibiótico;Devolução parcial
+05/09/2026;935620.0;Item 669;22;12;264.0;26/11/2030;Fornecedor Ômega;Medicamento;0
+16/09/2026;536236.0;Item 670;117;120;14040.0;02/07/2031;Fornecedor Gama;Alimentos;Avaria
+25/09/2026;290065.0;Item 671;79;50;3950.0;04/01/2029;Fornecedor Gama;Perfumaria;Devolução parcial
+16/09/2026;979269.0;Item 672;94;24;2256.0;26/09/2029;Fornecedor Ômega;Antibiótico;Avaria
+21/09/2026;148205.0;Item 673;9;30;270.0;05/10/2028;Fornecedor Ômega;Alimentos;Devolução parcial
+24/09/2026;650311.0;Item 674;99;120;11880.0;03/03/2030;Fornecedor Alfa;Alimentos;Avaria
+04/09/2026;644315.0;Item 675;67;120;8040.0;05/06/2029;Fornecedor Alfa;Antibiótico;Avaria
+05/09/2026;795951.0;Item 676;87;50;4350.0;15/09/2031;Fornecedor Gama;Psicotrópico;0
+17/09/2026;112210.0;Item 677;83;24;1992.0;05/10/2031;Fornecedor Delta;Antibiótico;0
+11/09/2026;178501.0;Item 678;97;60;5820.0;08/05/2028;Fornecedor Beta;Correlatos;0
+21/09/2026;631553.0;Item 679;29;100;2900.0;14/02/2029;Fornecedor Delta;Medicamento;0
+15/09/2026;581395.0;Item 680;57;120;6840.0;30/06/2027;Fornecedor Delta;Antibiótico;Avaria
+04/09/2026;224473.0;Item 681;64;6;384.0;06/04/2029;Fornecedor Delta;Perfumaria;Devolução parcial
+26/09/2026;675771.0;Item 682;1;12;12.0;22/05/2030;Fornecedor Gama;Alimentos;Avaria
+21/09/2026;633030.0;Item 683;72;25;1800.0;07/10/2030;Fornecedor Delta;Correlatos;Avaria
+28/09/2026;965401.0;Item 684;7;25;175.0;19/07/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+23/09/2026;729094.0;Item 685;61;48;2928.0;15/07/2029;Fornecedor Ômega;Perfumaria;Devolução parcial
+12/09/2026;332518.0;Item 686;1;48;48.0;27/08/2031;Fornecedor Beta;Psicotrópico;Devolução parcial
+02/09/2026;492052.0;Item 687;90;12;1080.0;03/12/2027;Fornecedor Delta;Medicamento;Devolução parcial
+04/09/2026;878579.0;Item 688;93;50;4650.0;04/06/2028;Fornecedor Gama;Medicamento;0
+02/09/2026;213000.0;Item 690;97;50;4850.0;20/07/2030;Fornecedor Gama;Perfumaria;Avaria
+17/09/2026;579605.0;Item 691;85;120;10200.0;03/10/2027;Fornecedor Delta;Perfumaria;Devolução parcial
+30/09/2026;871976.0;Item 692;7;100;700.0;05/06/2029;Fornecedor Gama;Antibiótico;Devolução parcial
+23/09/2026;919023.0;Item 693;118;24;2832.0;30/03/2030;Fornecedor Alfa;Alimentos;0
+20/09/2026;208584.0;Item 694;50;120;6000.0;13/12/2031;Fornecedor Beta;Psicotrópico;Avaria
+09/09/2026;539001.0;Item 695;78;25;1950.0;25/03/2029;Fornecedor Beta;Correlatos;Avaria
+14/09/2026;943890.0;Item 696;18;24;432.0;18/05/2030;Fornecedor Gama;Correlatos;Devolução parcial
+23/09/2026;310647.0;Item 698;27;120;3240.0;18/08/2028;Fornecedor Beta;Alimentos;0
+17/09/2026;844904.0;Item 699;84;24;2016.0;16/01/2030;Fornecedor Beta;Alimentos;0
+16/09/2026;897730.0;Item 700;46;100;4600.0;08/04/2030;Fornecedor Gama;Alimentos;Devolução parcial
+10/09/2026;537757.0;Item 701;87;100;8700.0;03/12/2031;Fornecedor Delta;Perfumaria;Devolução parcial
+10/09/2026;886626.0;Item 703;101;24;2424.0;31/10/2030;Fornecedor Beta;Medicamento;0
+07/09/2026;824141.0;Item 704;101;30;3030.0;24/03/2031;Fornecedor Gama;Perfumaria;Avaria
+20/09/2026;953568.0;Item 705;58;12;696.0;13/11/2031;Fornecedor Gama;Medicamento;Devolução parcial
+08/09/2026;778553.0;Item 706;72;50;3600.0;12/11/2029;Fornecedor Beta;Alimentos;Devolução parcial
+13/09/2026;149261.0;Item 707;119;50;5950.0;03/05/2029;Fornecedor Beta;Psicotrópico;0
+07/09/2026;113595.0;Item 708;96;30;2880.0;24/06/2030;Fornecedor Delta;Medicamento;Devolução parcial
+25/09/2026;838857.0;Item 709;91;48;4368.0;20/04/2030;Fornecedor Gama;Alimentos;Devolução parcial
+10/09/2026;306012.0;Item 710;100;25;2500.0;08/07/2029;Fornecedor Alfa;Alimentos;0
+04/09/2026;296059.0;Item 711;23;100;2300.0;11/02/2029;Fornecedor Ômega;Antibiótico;Avaria
+06/09/2026;683635.0;Item 712;34;24;816.0;11/04/2030;Fornecedor Beta;Perfumaria;Avaria
+02/09/2026;588983.0;Item 713;91;24;2184.0;11/11/2027;Fornecedor Beta;Psicotrópico;0
+27/09/2026;911242.0;Item 714;120;120;14400.0;17/09/2030;Fornecedor Beta;Antibiótico;Devolução parcial
+26/09/2026;676884.0;Item 715;46;12;552.0;20/12/2030;Fornecedor Beta;Psicotrópico;0
+26/09/2026;292800.0;Item 716;67;12;804.0;31/10/2029;Fornecedor Alfa;Antibiótico;Devolução parcial
+12/09/2026;663123.0;Item 717;52;12;624.0;29/03/2028;Fornecedor Alfa;Alimentos;Avaria
+07/09/2026;447148.0;Item 718;47;30;1410.0;22/03/2031;Fornecedor Gama;Psicotrópico;Avaria
+04/09/2026;688602.0;Item 719;106;6;636.0;01/10/2030;Fornecedor Beta;Antibiótico;0
+24/09/2026;504620.0;Item 721;33;100;3300.0;02/08/2028;Fornecedor Ômega;Psicotrópico;Avaria
+15/09/2026;639292.0;Item 722;103;100;10300.0;23/09/2029;Fornecedor Ômega;Correlatos;Devolução parcial
+03/09/2026;301863.0;Item 723;42;100;4200.0;16/07/2027;Fornecedor Alfa;Psicotrópico;Devolução parcial
+18/09/2026;976258.0;Item 725;14;25;350.0;25/08/2031;Fornecedor Delta;Alimentos;0
+26/09/2026;176806.0;Item 727;7;24;168.0;30/05/2028;Fornecedor Gama;Perfumaria;Devolução parcial
+14/09/2026;961530.0;Item 728;30;30;900.0;05/03/2029;Fornecedor Delta;Alimentos;Avaria
+13/09/2026;554059.0;Item 729;41;6;246.0;10/10/2030;Fornecedor Ômega;Psicotrópico;0
+03/09/2026;772580.0;Item 730;93;120;11160.0;29/03/2031;Fornecedor Gama;Perfumaria;Devolução parcial
+30/09/2026;989455.0;Item 731;10;48;480.0;26/10/2029;Fornecedor Ômega;Correlatos;Devolução parcial
+10/09/2026;415989.0;Item 732;78;12;936.0;17/04/2031;Fornecedor Delta;Antibiótico;Avaria
+01/09/2026;933635.0;Item 735;111;48;5328.0;07/02/2030;Fornecedor Gama;Medicamento;0
+20/09/2026;143802.0;Item 736;1;120;120.0;18/03/2029;Fornecedor Gama;Psicotrópico;0
+27/09/2026;292930.0;Item 738;29;120;3480.0;01/06/2028;Fornecedor Alfa;Perfumaria;0
+22/09/2026;676365.0;Item 740;10;30;300.0;18/05/2027;Fornecedor Beta;Perfumaria;0
+20/09/2026;345925.0;Item 742;13;30;390.0;23/05/2027;Fornecedor Alfa;Correlatos;Avaria
+22/09/2026;572536.0;Item 743;43;120;5160.0;18/09/2028;Fornecedor Gama;Medicamento;Devolução parcial
+14/09/2026;694397.0;Item 744;47;48;2256.0;12/12/2027;Fornecedor Ômega;Correlatos;0
+24/09/2026;664781.0;Item 748;26;30;780.0;21/12/2031;Fornecedor Ômega;Alimentos;0
+21/09/2026;119535.0;Item 749;109;100;10900.0;05/03/2027;Fornecedor Gama;Psicotrópico;Avaria
+30/09/2026;906564.0;Item 750;76;25;1900.0;17/03/2027;Fornecedor Gama;Correlatos;Devolução parcial
+12/09/2026;665892.0;Item 751;61;24;1464.0;14/03/2029;Fornecedor Alfa;Psicotrópico;Devolução parcial
+15/09/2026;998801.0;Item 752;38;24;912.0;23/10/2029;Fornecedor Gama;Perfumaria;Avaria
+22/09/2026;481540.0;Item 753;65;6;390.0;04/05/2028;Fornecedor Gama;Alimentos;0
+24/09/2026;791444.0;Item 755;112;24;2688.0;08/02/2031;Fornecedor Delta;Correlatos;0
+08/09/2026;329448.0;Item 756;98;60;5880.0;09/05/2027;Fornecedor Beta;Correlatos;0
+02/09/2026;576728.0;Item 758;113;6;678.0;21/08/2030;Fornecedor Beta;Perfumaria;Devolução parcial
+27/09/2026;646699.0;Item 759;82;30;2460.0;28/02/2031;Fornecedor Beta;Psicotrópico;Devolução parcial
+21/09/2026;697856.0;Item 760;23;50;1150.0;14/02/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+09/09/2026;976052.0;Item 761;10;100;1000.0;09/02/2029;Fornecedor Alfa;Psicotrópico;Avaria
+16/09/2026;470040.0;Item 762;105;48;5040.0;12/06/2031;Fornecedor Delta;Psicotrópico;0
+15/09/2026;626214.0;Item 763;113;24;2712.0;06/12/2027;Fornecedor Alfa;Perfumaria;Devolução parcial
+05/09/2026;774734.0;Item 764;36;25;900.0;18/01/2028;Fornecedor Alfa;Correlatos;Devolução parcial
+16/09/2026;218844.0;Item 766;62;60;3720.0;07/03/2028;Fornecedor Gama;Medicamento;Devolução parcial
+08/09/2026;973846.0;Item 767;53;6;318.0;30/03/2027;Fornecedor Alfa;Psicotrópico;Devolução parcial
+02/09/2026;268956.0;Item 768;18;100;1800.0;30/12/2031;Fornecedor Gama;Medicamento;0
+17/09/2026;274421.0;Item 769;34;24;816.0;10/04/2029;Fornecedor Gama;Psicotrópico;Devolução parcial
+03/09/2026;119524.0;Item 770;113;30;3390.0;19/03/2028;Fornecedor Delta;Psicotrópico;Avaria
+27/09/2026;605065.0;Item 771;22;25;550.0;21/04/2029;Fornecedor Gama;Medicamento;Devolução parcial
+20/09/2026;960307.0;Item 772;99;24;2376.0;12/09/2030;Fornecedor Gama;Correlatos;0
+05/09/2026;340977.0;Item 774;49;50;2450.0;11/08/2027;Fornecedor Ômega;Medicamento;Devolução parcial
+27/09/2026;628859.0;Item 775;88;50;4400.0;03/11/2027;Fornecedor Gama;Perfumaria;0
+20/09/2026;598985.0;Item 776;116;120;13920.0;21/03/2027;Fornecedor Gama;Psicotrópico;0
+14/09/2026;780768.0;Item 778;56;100;5600.0;28/01/2029;Fornecedor Ômega;Alimentos;Devolução parcial
+26/09/2026;549793.0;Item 779;30;60;1800.0;24/04/2031;Fornecedor Delta;Correlatos;Devolução parcial
+10/09/2026;903061.0;Item 781;30;12;360.0;10/05/2030;Fornecedor Gama;Antibiótico;Avaria
+19/09/2026;298202.0;Item 782;1;6;6.0;06/12/2029;Fornecedor Ômega;Psicotrópico;0
+23/09/2026;493247.0;Item 783;84;25;2100.0;06/07/2031;Fornecedor Beta;Antibiótico;Avaria
+21/09/2026;211760.0;Item 784;20;50;1000.0;13/04/2030;Fornecedor Beta;Correlatos;Devolução parcial
+20/09/2026;544136.0;Item 785;73;48;3504.0;18/07/2028;Fornecedor Delta;Medicamento;Avaria
+16/09/2026;678923.0;Item 786;101;100;10100.0;02/01/2028;Fornecedor Beta;Psicotrópico;Devolução parcial
+19/09/2026;607259.0;Item 787;33;30;990.0;06/12/2028;Fornecedor Delta;Alimentos;0
+13/09/2026;205149.0;Item 789;28;100;2800.0;29/05/2031;Fornecedor Beta;Psicotrópico;Devolução parcial
+02/09/2026;488848.0;Item 792;11;120;1320.0;23/01/2031;Fornecedor Delta;Antibiótico;Devolução parcial
+23/09/2026;788049.0;Item 793;67;30;2010.0;08/05/2030;Fornecedor Ômega;Medicamento;Devolução parcial
+17/09/2026;135241.0;Item 795;101;120;12120.0;22/11/2029;Fornecedor Alfa;Psicotrópico;0
+08/09/2026;806765.0;Item 796;5;48;240.0;03/09/2030;Fornecedor Ômega;Medicamento;0
+30/09/2026;398313.0;Item 799;93;100;9300.0;08/04/2030;Fornecedor Beta;Correlatos;Avaria
+15/09/2026;337288.0;Item 800;78;25;1950.0;07/04/2029;Fornecedor Gama;Perfumaria;Avaria
+04/09/2026;283537.0;Item 801;53;100;5300.0;18/02/2030;Fornecedor Ômega;Psicotrópico;Avaria
+09/09/2026;456480.0;Item 802;15;100;1500.0;30/11/2031;Fornecedor Gama;Psicotrópico;Avaria
+28/09/2026;814703.0;Item 804;59;120;7080.0;26/02/2027;Fornecedor Delta;Perfumaria;Avaria
+01/09/2026;470248.0;Item 806;67;100;6700.0;06/12/2030;Fornecedor Beta;Medicamento;Avaria
+03/09/2026;197527.0;Item 807;52;48;2496.0;09/02/2030;Fornecedor Alfa;Antibiótico;Avaria
+28/09/2026;309365.0;Item 809;31;25;775.0;27/06/2028;Fornecedor Alfa;Medicamento;0
+20/09/2026;808640.0;Item 811;85;60;5100.0;14/01/2027;Fornecedor Gama;Perfumaria;Avaria
+09/09/2026;291755.0;Item 813;98;100;9800.0;25/03/2029;Fornecedor Alfa;Psicotrópico;0
+16/09/2026;156778.0;Item 814;68;50;3400.0;12/01/2030;Fornecedor Ômega;Psicotrópico;Avaria
+15/09/2026;512842.0;Item 815;111;24;2664.0;04/09/2027;Fornecedor Gama;Antibiótico;Avaria
+28/09/2026;441244.0;Item 817;47;120;5640.0;15/06/2028;Fornecedor Alfa;Psicotrópico;Avaria
+20/09/2026;348658.0;Item 818;35;60;2100.0;03/12/2028;Fornecedor Beta;Medicamento;Avaria
+23/09/2026;544536.0;Item 819;27;50;1350.0;21/03/2031;Fornecedor Beta;Correlatos;Avaria
+19/09/2026;393212.0;Item 820;58;24;1392.0;26/09/2027;Fornecedor Gama;Alimentos;0
+26/09/2026;953740.0;Item 821;13;30;390.0;27/04/2028;Fornecedor Gama;Antibiótico;Avaria
+16/09/2026;305587.0;Item 822;19;24;456.0;09/07/2031;Fornecedor Ômega;Medicamento;Avaria
+18/09/2026;623866.0;Item 823;18;100;1800.0;15/01/2031;Fornecedor Beta;Antibiótico;Avaria
+02/09/2026;363165.0;Item 824;72;120;8640.0;26/03/2029;Fornecedor Ômega;Alimentos;0
+16/09/2026;162952.0;Item 825;28;30;840.0;15/09/2031;Fornecedor Ômega;Antibiótico;Devolução parcial
+12/09/2026;450912.0;Item 826;34;48;1632.0;21/02/2030;Fornecedor Gama;Correlatos;Avaria
+12/09/2026;120798.0;Item 827;53;12;636.0;12/11/2031;Fornecedor Gama;Medicamento;Devolução parcial
+06/09/2026;703869.0;Item 828;84;100;8400.0;18/05/2031;Fornecedor Beta;Correlatos;Avaria
+25/09/2026;805893.0;Item 829;66;60;3960.0;17/02/2031;Fornecedor Delta;Perfumaria;Avaria
+21/09/2026;743473.0;Item 830;37;60;2220.0;24/10/2027;Fornecedor Alfa;Alimentos;Avaria
+19/09/2026;542306.0;Item 831;81;120;9720.0;08/04/2029;Fornecedor Ômega;Perfumaria;0
+11/09/2026;460317.0;Item 832;30;48;1440.0;30/08/2030;Fornecedor Beta;Alimentos;Avaria
+09/09/2026;734792.0;Item 833;83;50;4150.0;23/12/2031;Fornecedor Delta;Correlatos;Devolução parcial
+14/09/2026;715429.0;Item 834;67;60;4020.0;09/12/2027;Fornecedor Alfa;Perfumaria;0
+03/09/2026;516332.0;Item 836;14;12;168.0;05/12/2031;Fornecedor Delta;Psicotrópico;0
+17/09/2026;127645.0;Item 837;99;50;4950.0;16/04/2031;Fornecedor Ômega;Perfumaria;Avaria
+21/09/2026;748127.0;Item 838;20;12;240.0;19/12/2031;Fornecedor Delta;Correlatos;0
+15/09/2026;359414.0;Item 839;95;30;2850.0;07/07/2030;Fornecedor Alfa;Medicamento;Devolução parcial
+30/09/2026;589887.0;Item 841;112;100;11200.0;11/07/2028;Fornecedor Gama;Antibiótico;0
+19/09/2026;831510.0;Item 842;70;24;1680.0;08/05/2030;Fornecedor Delta;Alimentos;Devolução parcial
+14/09/2026;766738.0;Item 843;113;120;13560.0;08/12/2029;Fornecedor Gama;Correlatos;Avaria
+26/09/2026;605048.0;Item 844;70;25;1750.0;03/07/2027;Fornecedor Delta;Correlatos;Avaria
+10/09/2026;532227.0;Item 845;34;24;816.0;22/01/2027;Fornecedor Ômega;Psicotrópico;0
+18/09/2026;460589.0;Item 846;37;60;2220.0;18/01/2027;Fornecedor Delta;Antibiótico;Avaria
+26/09/2026;109576.0;Item 847;99;50;4950.0;22/08/2028;Fornecedor Gama;Medicamento;0
+14/09/2026;674842.0;Item 848;48;25;1200.0;12/12/2031;Fornecedor Gama;Antibiótico;Avaria
+27/09/2026;362035.0;Item 849;21;50;1050.0;13/02/2029;Fornecedor Alfa;Correlatos;0
+17/09/2026;542750.0;Item 850;81;25;2025.0;15/04/2031;Fornecedor Gama;Alimentos;Devolução parcial
+26/09/2026;385071.0;Item 851;37;100;3700.0;04/07/2028;Fornecedor Delta;;0
+16/09/2026;385353.0;Item 853;90;120;10800.0;20/01/2028;Fornecedor Beta;Perfumaria;0
+06/09/2026;152042.0;Item 854;69;6;414.0;29/07/2027;Fornecedor Beta;Correlatos;0
+08/09/2026;849937.0;Item 855;57;6;342.0;04/07/2027;Fornecedor Alfa;Perfumaria;Avaria
+10/09/2026;327738.0;Item 856;44;50;2200.0;29/05/2031;Fornecedor Delta;Correlatos;Avaria
+11/09/2026;830789.0;Item 857;102;6;612.0;14/06/2027;Fornecedor Alfa;Perfumaria;Avaria
+18/09/2026;913331.0;Item 858;51;12;612.0;20/08/2029;Fornecedor Alfa;Medicamento;Avaria
+04/09/2026;956949.0;Item 859;49;6;294.0;23/04/2031;Fornecedor Alfa;Antibiótico;Avaria
+07/09/2026;359168.0;Item 860;95;6;570.0;01/08/2029;Fornecedor Ômega;Psicotrópico;Devolução parcial
+22/09/2026;318572.0;Item 861;61;50;3050.0;01/10/2028;Fornecedor Beta;Medicamento;Devolução parcial
+17/09/2026;863611.0;Item 862;6;100;600.0;08/09/2027;Fornecedor Beta;Antibiótico;Devolução parcial
+29/09/2026;413328.0;Item 863;26;48;1248.0;17/04/2027;Fornecedor Alfa;Perfumaria;0
+01/09/2026;763653.0;Item 864;56;48;2688.0;09/12/2027;Fornecedor Beta;Psicotrópico;0
+01/09/2026;515035.0;Item 865;102;25;2550.0;28/03/2027;Fornecedor Gama;Alimentos;Avaria
+11/09/2026;624203.0;Item 867;12;120;1440.0;05/04/2031;Fornecedor Ômega;Perfumaria;Avaria
+26/09/2026;775885.0;Item 868;20;100;2000.0;08/08/2027;Fornecedor Alfa;Antibiótico;0
+26/09/2026;432125.0;Item 869;72;48;3456.0;17/06/2029;Fornecedor Alfa;Perfumaria;Devolução parcial
+09/09/2026;496119.0;Item 870;46;24;1104.0;22/03/2027;Fornecedor Delta;Alimentos;Avaria
+24/09/2026;670027.0;Item 872;45;48;2160.0;17/08/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+25/09/2026;484945.0;Item 874;59;6;354.0;30/07/2030;Fornecedor Gama;Antibiótico;Devolução parcial
+20/09/2026;294546.0;Item 875;114;6;684.0;21/10/2031;Fornecedor Beta;Psicotrópico;0
+22/09/2026;436272.0;Item 876;93;12;1116.0;08/01/2030;Fornecedor Delta;Medicamento;Devolução parcial
+05/09/2026;816412.0;Item 877;64;100;6400.0;09/06/2030;Fornecedor Beta;Correlatos;Avaria
+04/09/2026;772036.0;Item 878;42;12;504.0;07/12/2029;Fornecedor Ômega;Perfumaria;0
+07/09/2026;287316.0;Item 879;112;6;672.0;08/08/2027;Fornecedor Delta;Medicamento;0
+22/09/2026;133362.0;Item 880;74;50;3700.0;30/09/2029;Fornecedor Gama;Psicotrópico;Devolução parcial
+12/09/2026;718975.0;Item 881;33;6;198.0;28/03/2028;Fornecedor Gama;Alimentos;0
+21/09/2026;113721.0;Item 882;120;25;3000.0;03/10/2029;Fornecedor Ômega;Antibiótico;Devolução parcial
+24/09/2026;163648.0;Item 883;47;100;4700.0;29/12/2031;Fornecedor Delta;Correlatos;Devolução parcial
+09/09/2026;161132.0;Item 884;106;120;12720.0;19/12/2029;Fornecedor Ômega;Alimentos;0
+07/09/2026;974991.0;Item 885;39;12;468.0;29/11/2029;Fornecedor Ômega;Perfumaria;Devolução parcial
+07/09/2026;342239.0;Item 886;69;50;3450.0;31/01/2028;Fornecedor Gama;Alimentos;0
+18/09/2026;697717.0;Item 887;81;24;1944.0;15/03/2031;Fornecedor Gama;Antibiótico;Devolução parcial
+12/09/2026;210639.0;Item 888;99;120;11880.0;13/10/2030;Fornecedor Delta;Alimentos;Devolução parcial
+18/09/2026;629208.0;Item 890;44;24;1056.0;13/05/2030;Fornecedor Delta;Correlatos;Avaria
+18/09/2026;737967.0;Item 892;31;120;3720.0;14/03/2028;Fornecedor Delta;Psicotrópico;Devolução parcial
+17/09/2026;398301.0;Item 894;77;6;462.0;04/10/2027;Fornecedor Beta;Perfumaria;Avaria
+12/09/2026;263690.0;Item 897;18;30;540.0;27/12/2031;Fornecedor Gama;Medicamento;0
+03/09/2026;368691.0;Item 898;104;30;3120.0;14/03/2030;Fornecedor Delta;Psicotrópico;0
+26/09/2026;869933.0;Item 899;10;48;480.0;15/09/2029;Fornecedor Alfa;Antibiótico;Devolução parcial
+20/09/2026;836989.0;Item 900;74;12;888.0;08/08/2030;Fornecedor Beta;Perfumaria;Devolução parcial
+03/09/2026;947607.0;Item 901;74;50;3700.0;17/05/2031;Fornecedor Ômega;Correlatos;Avaria
+30/09/2026;784488.0;Item 903;109;120;13080.0;24/01/2027;Fornecedor Delta;Perfumaria;Avaria
+08/09/2026;703198.0;Item 906;65;12;780.0;03/06/2029;Fornecedor Beta;Antibiótico;0
+16/09/2026;238610.0;Item 907;44;12;528.0;16/03/2030;Fornecedor Ômega;Psicotrópico;Avaria
+17/09/2026;375311.0;Item 908;11;50;550.0;08/06/2029;Fornecedor Alfa;Medicamento;Avaria
+13/09/2026;686464.0;Item 909;26;60;1560.0;28/08/2030;Fornecedor Gama;Medicamento;Devolução parcial
+08/09/2026;745919.0;Item 910;95;100;9500.0;11/05/2028;Fornecedor Ômega;Correlatos;Avaria
+12/09/2026;465227.0;Item 912;25;48;1200.0;01/05/2030;Fornecedor Ômega;Correlatos;0
+05/09/2026;309385.0;Item 914;88;48;4224.0;01/04/2031;Fornecedor Ômega;Perfumaria;Devolução parcial
+30/09/2026;157187.0;Item 915;32;120;3840.0;30/10/2027;Fornecedor Beta;Perfumaria;Avaria
+10/09/2026;827497.0;Item 916;103;12;1236.0;10/07/2029;Fornecedor Delta;Perfumaria;Avaria
+07/09/2026;319162.0;Item 917;95;100;9500.0;22/02/2028;Fornecedor Gama;Psicotrópico;Avaria
+09/09/2026;795759.0;Item 919;68;6;408.0;15/12/2027;Fornecedor Ômega;Correlatos;0
+09/09/2026;927524.0;Item 920;90;120;10800.0;19/04/2027;Fornecedor Delta;Alimentos;0
+22/09/2026;169832.0;Item 921;50;30;1500.0;12/10/2031;Fornecedor Beta;Perfumaria;0
+08/09/2026;406703.0;Item 922;112;50;5600.0;18/02/2029;Fornecedor Gama;Alimentos;0
+18/09/2026;430779.0;Item 923;63;120;7560.0;30/06/2027;Fornecedor Alfa;Medicamento;Devolução parcial
+01/09/2026;613731.0;Item 925;51;24;1224.0;11/12/2028;Fornecedor Beta;Correlatos;Devolução parcial
+09/09/2026;417012.0;Item 926;31;100;3100.0;21/07/2031;Fornecedor Ômega;Alimentos;Avaria
+18/09/2026;505977.0;Item 927;114;6;684.0;27/07/2028;Fornecedor Alfa;Medicamento;Avaria
+11/09/2026;427557.0;Item 930;117;120;14040.0;08/07/2029;Fornecedor Gama;Medicamento;0
+30/09/2026;821978.0;Item 932;91;100;9100.0;04/10/2027;Fornecedor Delta;Medicamento;Devolução parcial
+11/09/2026;692282.0;Item 933;118;24;2832.0;19/05/2027;Fornecedor Gama;Psicotrópico;Devolução parcial
+14/09/2026;902616.0;Item 935;41;50;2050.0;13/09/2028;Fornecedor Delta;Alimentos;Devolução parcial
+25/09/2026;874205.0;Item 936;36;24;864.0;20/01/2028;Fornecedor Ômega;Medicamento;0
+20/09/2026;127470.0;Item 937;98;120;11760.0;30/06/2028;Fornecedor Gama;Psicotrópico;Devolução parcial
+08/09/2026;342128.0;Item 938;77;25;1925.0;08/11/2030;Fornecedor Ômega;Correlatos;0
+05/09/2026;821568.0;Item 939;100;60;6000.0;25/10/2029;Fornecedor Gama;Antibiótico;Devolução parcial
+28/09/2026;781121.0;Item 940;48;24;1152.0;04/03/2029;Fornecedor Delta;Antibiótico;0
+25/09/2026;333365.0;Item 942;96;25;2400.0;23/02/2028;Fornecedor Ômega;Medicamento;Avaria
+28/09/2026;747033.0;Item 943;63;48;3024.0;26/07/2029;Fornecedor Alfa;Antibiótico;Avaria
+24/09/2026;913920.0;Item 944;6;120;720.0;16/08/2031;Fornecedor Delta;Alimentos;Avaria
+20/09/2026;513296.0;Item 945;79;120;9480.0;03/01/2030;Fornecedor Gama;Alimentos;Devolução parcial
+04/09/2026;925145.0;Item 946;5;100;500.0;13/07/2029;Fornecedor Delta;Perfumaria;0
+24/09/2026;643899.0;Item 947;69;50;3450.0;22/03/2027;Fornecedor Gama;Antibiótico;Devolução parcial
+07/09/2026;902328.0;Item 948;81;6;486.0;19/08/2028;Fornecedor Delta;Antibiótico;Avaria
+15/09/2026;911259.0;Item 949;106;30;3180.0;07/12/2027;Fornecedor Delta;Correlatos;Devolução parcial
+11/09/2026;241879.0;Item 952;51;50;2550.0;12/07/2029;Fornecedor Ômega;Medicamento;Avaria
+29/09/2026;718990.0;Item 953;115;25;2875.0;20/07/2029;Fornecedor Ômega;Correlatos;Avaria
+03/09/2026;840532.0;Item 955;58;48;2784.0;08/12/2029;Fornecedor Delta;Alimentos;Devolução parcial
+18/09/2026;741804.0;Item 956;21;50;1050.0;18/02/2029;Fornecedor Ômega;Medicamento;Avaria
+06/09/2026;692960.0;Item 957;112;24;2688.0;15/11/2031;Fornecedor Alfa;Medicamento;Devolução parcial
+10/09/2026;153802.0;Item 958;54;30;1620.0;04/02/2031;Fornecedor Delta;Correlatos;Devolução parcial
+07/09/2026;289473.0;Item 959;16;24;384.0;08/01/2027;Fornecedor Gama;Correlatos;0
+22/09/2026;349433.0;Item 961;28;120;3360.0;01/09/2029;Fornecedor Delta;Antibiótico;Avaria
+01/09/2026;183262.0;Item 962;77;120;9240.0;16/05/2028;Fornecedor Gama;Correlatos;Devolução parcial
+02/09/2026;759172.0;Item 963;72;25;1800.0;14/01/2028;Fornecedor Alfa;Perfumaria;Devolução parcial
+28/09/2026;465973.0;Item 964;5;24;120.0;08/03/2027;Fornecedor Gama;Psicotrópico;Avaria
+02/09/2026;447195.0;Item 965;118;12;1416.0;12/08/2027;Fornecedor Delta;Medicamento;0
+22/09/2026;804737.0;Item 966;37;120;4440.0;17/11/2030;Fornecedor Gama;Psicotrópico;Devolução parcial
+12/09/2026;286037.0;Item 967;59;120;7080.0;15/03/2027;Fornecedor Ômega;Correlatos;Avaria
+27/09/2026;486473.0;Item 968;115;50;5750.0;19/05/2027;Fornecedor Delta;Psicotrópico;0
+04/09/2026;407057.0;Item 969;61;24;1464.0;23/11/2030;Fornecedor Beta;Correlatos;Devolução parcial
+03/09/2026;699121.0;Item 971;94;100;9400.0;17/09/2029;Fornecedor Gama;Alimentos;Avaria
+09/09/2026;547798.0;Item 972;78;48;3744.0;12/12/2029;Fornecedor Gama;Psicotrópico;Avaria
+07/09/2026;739008.0;Item 974;30;30;900.0;04/01/2027;Fornecedor Ômega;Perfumaria;Avaria
+24/09/2026;755843.0;Item 975;102;12;1224.0;03/10/2031;Fornecedor Alfa;Psicotrópico;Avaria
+12/09/2026;534153.0;Item 976;6;48;288.0;21/02/2030;Fornecedor Alfa;Perfumaria;Devolução parcial
+25/09/2026;631302.0;Item 978;71;48;3408.0;13/01/2027;Fornecedor Ômega;Alimentos;Avaria
+20/09/2026;457943.0;Item 979;51;120;6120.0;01/03/2027;Fornecedor Alfa;Medicamento;Avaria
+30/09/2026;974329.0;Item 980;44;60;2640.0;29/08/2029;Fornecedor Ômega;Alimentos;0
+18/09/2026;692385.0;Item 983;93;48;4464.0;02/01/2030;Fornecedor Ômega;Medicamento;Devolução parcial
+03/09/2026;818791.0;Item 984;43;48;2064.0;02/11/2027;Fornecedor Beta;Perfumaria;Avaria
+27/09/2026;493468.0;Item 985;81;100;8100.0;06/12/2027;Fornecedor Gama;Psicotrópico;Avaria
+28/09/2026;296481.0;Item 986;77;12;924.0;22/05/2031;Fornecedor Beta;Alimentos;Avaria
+07/09/2026;573858.0;Item 988;107;30;3210.0;11/12/2029;Fornecedor Beta;Medicamento;0
+29/09/2026;126146.0;Item 990;103;60;6180.0;21/10/2029;Fornecedor Alfa;Medicamento;Avaria
+10/09/2026;606957.0;Item 991;94;100;9400.0;08/05/2031;Fornecedor Beta;Medicamento;0
+11/09/2026;989322.0;Item 994;77;12;924.0;14/08/2029;Fornecedor Ômega;Perfumaria;Devolução parcial
+01/09/2026;903398.0;Item 995;85;30;2550.0;28/03/2030;Fornecedor Beta;Alimentos;0
+10/09/2026;436467.0;Item 996;26;25;650.0;20/07/2028;Fornecedor Gama;Correlatos;Avaria
+05/09/2026;803724.0;Item 997;16;30;480.0;19/11/2027;Fornecedor Beta;Perfumaria;0
+04/09/2026;753205.0;Item 998;72;100;7200.0;28/02/2028;Fornecedor Gama;Correlatos;Devolução parcial
+23/09/2026;433955.0;Item 999;35;24;840.0;05/07/2031;Fornecedor Beta;Psicotrópico;0
+29/09/2026;236392.0;Item 1001;4;60;240.0;15/10/2030;Fornecedor Ômega;Perfumaria;Avaria
+13/09/2026;156413.0;Item 1002;12;50;600.0;02/01/2028;Fornecedor Gama;Psicotrópico;Devolução parcial
+20/09/2026;976792.0;Item 1003;89;60;5340.0;29/12/2028;Fornecedor Beta;Correlatos;0
+03/09/2026;847528.0;Item 1004;98;100;9800.0;28/03/2031;Fornecedor Delta;Psicotrópico;0
+04/09/2026;197429.0;Item 1005;105;60;6300.0;22/07/2029;Fornecedor Beta;Alimentos;Devolução parcial
+13/09/2026;370587.0;Item 1007;117;48;5616.0;11/01/2028;Fornecedor Beta;Correlatos;Avaria
+16/09/2026;611187.0;Item 1008;4;12;48.0;20/08/2027;Fornecedor Beta;Antibiótico;Avaria
+25/09/2026;986850.0;Item 1009;22;30;660.0;14/12/2028;Fornecedor Gama;Psicotrópico;0
+27/09/2026;632623.0;Item 1010;14;50;700.0;02/01/2031;Fornecedor Ômega;Correlatos;Devolução parcial
+18/09/2026;780999.0;Item 1011;10;30;300.0;02/08/2029;Fornecedor Delta;Psicotrópico;Avaria
+18/09/2026;350164.0;Item 1012;80;25;2000.0;22/11/2027;Fornecedor Delta;Antibiótico;0
+14/09/2026;457264.0;Item 1013;27;120;3240.0;26/05/2031;Fornecedor Delta;Psicotrópico;Avaria
+06/09/2026;670977.0;Item 1014;89;25;2225.0;19/09/2030;Fornecedor Ômega;Alimentos;Devolução parcial
+04/09/2026;702080.0;Item 1015;108;60;6480.0;27/04/2030;Fornecedor Gama;Antibiótico;Avaria
+06/09/2026;682051.0;Item 1016;13;60;780.0;22/09/2028;Fornecedor Delta;Perfumaria;Devolução parcial
+03/09/2026;776320.0;Item 1018;85;6;510.0;21/03/2028;Fornecedor Alfa;Psicotrópico;Devolução parcial
+22/09/2026;949178.0;Item 1019;1;24;24.0;02/11/2027;Fornecedor Delta;Psicotrópico;Avaria
+15/09/2026;508926.0;Item 1020;79;120;9480.0;05/02/2028;Fornecedor Alfa;Alimentos;Avaria
+30/09/2026;414295.0;Item 1021;73;30;2190.0;09/06/2029;Fornecedor Beta;Perfumaria;Devolução parcial
+13/09/2026;108513.0;Item 1022;79;100;7900.0;02/10/2031;Fornecedor Alfa;Correlatos;0
+02/09/2026;487158.0;Item 1023;116;100;11600.0;02/01/2027;Fornecedor Gama;Correlatos;0
+08/09/2026;395917.0;Item 1024;111;6;666.0;03/06/2029;Fornecedor Gama;Antibiótico;Devolução parcial
+13/09/2026;433580.0;Item 1025;92;50;4600.0;20/02/2029;Fornecedor Delta;Psicotrópico;0
+05/09/2026;794668.0;Item 1026;23;60;1380.0;21/01/2028;Fornecedor Gama;Antibiótico;Avaria
+10/09/2026;980764.0;Item 1027;54;24;1296.0;23/11/2031;Fornecedor Alfa;Medicamento;0
+20/09/2026;733790.0;Item 1030;120;50;6000.0;04/01/2028;Fornecedor Delta;Psicotrópico;Avaria
+13/09/2026;678866.0;Item 1031;105;60;6300.0;28/12/2028;Fornecedor Alfa;Medicamento;Avaria
+16/09/2026;733941.0;Item 1032;1;120;120.0;01/10/2031;Fornecedor Alfa;Alimentos;Devolução parcial
+19/09/2026;382329.0;Item 1033;53;100;5300.0;21/01/2029;Fornecedor Ômega;Perfumaria;Devolução parcial
+28/09/2026;248989.0;Item 1035;94;100;9400.0;18/03/2031;Fornecedor Beta;Antibiótico;Devolução parcial
+03/09/2026;182034.0;Item 1036;67;120;8040.0;17/05/2028;Fornecedor Delta;Alimentos;Devolução parcial
+18/09/2026;742818.0;Item 1038;7;48;336.0;14/05/2031;Fornecedor Ômega;Antibiótico;Avaria
+19/09/2026;637566.0;Item 1039;116;60;6960.0;11/02/2031;Fornecedor Beta;Antibiótico;Avaria
+06/09/2026;936997.0;Item 1040;38;30;1140.0;14/03/2027;Fornecedor Gama;Alimentos;Avaria
+09/09/2026;862285.0;Item 1041;101;120;12120.0;06/05/2027;Fornecedor Delta;Psicotrópico;0
+26/09/2026;700687.0;Item 1042;7;30;210.0;19/02/2031;Fornecedor Gama;Perfumaria;Avaria
+17/09/2026;608307.0;Item 1043;11;24;264.0;07/06/2027;Fornecedor Beta;Correlatos;0
+28/09/2026;745710.0;Item 1044;36;30;1080.0;10/06/2028;Fornecedor Ômega;Alimentos;0
+24/09/2026;733152.0;Item 1045;23;120;2760.0;06/11/2027;Fornecedor Delta;Correlatos;0
+16/09/2026;373943.0;Item 1046;101;25;2525.0;06/01/2028;Fornecedor Gama;Perfumaria;Avaria
+30/09/2026;188501.0;Item 1047;19;120;2280.0;10/08/2031;Fornecedor Alfa;Antibiótico;Avaria
+22/09/2026;907789.0;Item 1048;50;25;1250.0;20/06/2029;Fornecedor Alfa;Medicamento;Devolução parcial
+02/09/2026;870033.0;Item 1049;108;48;5184.0;08/08/2030;Fornecedor Beta;Perfumaria;0
+16/09/2026;275741.0;Item 1050;60;50;3000.0;09/09/2028;Fornecedor Delta;Alimentos;Devolução parcial
+16/09/2026;345011.0;Item 1051;49;50;2450.0;21/06/2028;Fornecedor Alfa;Psicotrópico;Avaria
+13/09/2026;112439.0;Item 1052;37;60;2220.0;21/10/2030;Fornecedor Beta;Psicotrópico;Devolução parcial
+09/09/2026;385831.0;Item 1054;43;30;1290.0;02/07/2031;Fornecedor Ômega;Correlatos;Devolução parcial
+25/09/2026;712553.0;Item 1055;51;60;3060.0;14/10/2030;Fornecedor Alfa;Alimentos;Devolução parcial
+17/09/2026;717322.0;Item 1056;99;25;2475.0;22/11/2028;Fornecedor Alfa;Correlatos;Devolução parcial
+27/09/2026;111091.0;Item 1057;87;6;522.0;20/05/2027;Fornecedor Ômega;Antibiótico;0
+03/09/2026;135695.0;Item 1059;4;120;480.0;27/04/2027;Fornecedor Gama;Alimentos;0
+26/09/2026;494220.0;Item 1061;85;120;10200.0;14/01/2028;Fornecedor Ômega;Alimentos;0
+22/09/2026;365641.0;Item 1062;38;60;2280.0;05/06/2027;Fornecedor Delta;Correlatos;Avaria
+09/09/2026;825846.0;Item 1063;116;48;5568.0;28/11/2027;Fornecedor Ômega;Correlatos;0
+02/09/2026;501393.0;Item 1064;50;48;2400.0;12/06/2028;Fornecedor Beta;Medicamento;Avaria
+20/09/2026;172769.0;Item 1065;63;25;1575.0;15/03/2029;Fornecedor Alfa;Alimentos;Avaria
+25/09/2026;213697.0;Item 1066;19;100;1900.0;02/06/2029;Fornecedor Alfa;Psicotrópico;Devolução parcial
+23/09/2026;211410.0;Item 1067;117;60;7020.0;14/06/2028;Fornecedor Ômega;Perfumaria;0
+25/09/2026;173832.0;Item 1068;74;30;2220.0;02/07/2029;Fornecedor Ômega;Antibiótico;0
+30/09/2026;784578.0;Item 1069;82;6;492.0;19/03/2027;Fornecedor Delta;Correlatos;0
+19/09/2026;834061.0;Item 1070;43;50;2150.0;08/01/2027;Fornecedor Gama;Alimentos;Avaria
+28/09/2026;601365.0;Item 1071;56;50;2800.0;30/01/2031;Fornecedor Ômega;Psicotrópico;0
+04/09/2026;103468.0;Item 1072;50;60;3000.0;07/03/2030;Fornecedor Gama;Correlatos;Avaria
+02/09/2026;814956.0;Item 1073;39;50;1950.0;18/07/2030;Fornecedor Ômega;Correlatos;Devolução parcial
+01/09/2026;623956.0;Item 1079;69;60;4140.0;17/03/2027;Fornecedor Beta;Perfumaria;Avaria
+13/09/2026;926045.0;Item 1080;93;6;558.0;31/08/2027;Fornecedor Alfa;Alimentos;Devolução parcial
+05/09/2026;648530.0;Item 1081;59;100;5900.0;26/02/2031;Fornecedor Gama;Medicamento;0
+16/09/2026;138669.0;Item 1082;95;24;2280.0;01/09/2030;Fornecedor Ômega;Antibiótico;Devolução parcial
+01/09/2026;148026.0;Item 1083;32;24;768.0;19/12/2027;Fornecedor Ômega;Correlatos;0
+27/09/2026;578344.0;Item 1084;79;24;1896.0;25/04/2030;Fornecedor Ômega;Perfumaria;0
+11/09/2026;950941.0;Item 1086;107;50;5350.0;05/09/2027;Fornecedor Gama;Psicotrópico;0
+25/09/2026;437211.0;Item 1087;108;25;2700.0;04/04/2027;Fornecedor Gama;Medicamento;Avaria
+05/09/2026;166292.0;Item 1088;16;30;480.0;01/04/2031;Fornecedor Delta;Medicamento;Devolução parcial
+15/09/2026;487896.0;Item 1089;71;24;1704.0;13/05/2028;Fornecedor Gama;Perfumaria;0
+13/09/2026;204823.0;Item 1090;102;120;12240.0;12/05/2031;Fornecedor Alfa;Perfumaria;Avaria
+06/09/2026;184643.0;Item 1091;1;6;6.0;02/07/2027;Fornecedor Gama;Correlatos;Avaria
+23/09/2026;827191.0;Item 1092;104;60;6240.0;17/09/2027;Fornecedor Alfa;Medicamento;Devolução parcial
+23/09/2026;139448.0;Item 1094;77;24;1848.0;20/10/2029;Fornecedor Gama;Perfumaria;Devolução parcial
+12/09/2026;966630.0;Item 1095;101;30;3030.0;07/05/2029;Fornecedor Ômega;Psicotrópico;0
+04/09/2026;301224.0;Item 1096;16;100;1600.0;21/06/2030;Fornecedor Beta;Psicotrópico;Devolução parcial
+09/09/2026;329927.0;Item 1097;60;25;1500.0;19/04/2027;Fornecedor Alfa;Perfumaria;0
+16/09/2026;818530.0;Item 1098;109;60;6540.0;28/12/2027;Fornecedor Alfa;Alimentos;0
+10/09/2026;156652.0;Item 1099;83;48;3984.0;05/03/2028;Fornecedor Delta;Correlatos;Avaria
+02/09/2026;746781.0;Item 1100;104;60;6240.0;02/08/2027;Fornecedor Ômega;Psicotrópico;0
+16/09/2026;265722.0;Item 1101;101;6;606.0;20/11/2029;Fornecedor Ômega;Perfumaria;0
+19/09/2026;856445.0;Item 1102;57;120;6840.0;29/10/2028;Fornecedor Delta;Medicamento;Devolução parcial
+08/09/2026;809731.0;Item 1103;115;48;5520.0;15/05/2031;Fornecedor Ômega;Correlatos;0
+28/09/2026;202827.0;Item 1104;31;50;1550.0;14/02/2028;Fornecedor Delta;Medicamento;0
+02/09/2026;593869.0;Item 1105;75;60;4500.0;29/12/2031;Fornecedor Delta;Medicamento;0
+13/09/2026;739037.0;Item 1106;59;24;1416.0;03/02/2029;Fornecedor Alfa;Antibiótico;Devolução parcial
+09/09/2026;303586.0;Item 1107;81;48;3888.0;19/02/2028;Fornecedor Beta;Medicamento;0
+09/09/2026;825835.0;Item 1108;73;6;438.0;07/10/2027;Fornecedor Ômega;Antibiótico;Avaria
+29/09/2026;927899.0;Item 1110;102;120;12240.0;15/12/2027;Fornecedor Gama;Psicotrópico;0
+16/09/2026;190674.0;Item 1111;53;100;5300.0;01/11/2031;Fornecedor Alfa;Psicotrópico;Avaria
+01/09/2026;977646.0;Item 1112;60;30;1800.0;04/02/2031;Fornecedor Delta;Alimentos;0
+19/09/2026;359870.0;Item 1113;42;50;2100.0;31/03/2028;Fornecedor Gama;Medicamento;Devolução parcial
+02/09/2026;105324.0;Item 1114;54;6;324.0;21/08/2029;Fornecedor Gama;Perfumaria;Avaria
+26/09/2026;656921.0;Item 1115;51;60;3060.0;23/06/2031;Fornecedor Ômega;Antibiótico;Avaria
+21/09/2026;475815.0;Item 1117;38;25;950.0;05/07/2027;Fornecedor Ômega;Antibiótico;Devolução parcial
+28/09/2026;419644.0;Item 1118;21;60;1260.0;14/03/2030;Fornecedor Gama;Perfumaria;Avaria
+28/09/2026;586288.0;Item 1119;99;24;2376.0;11/12/2030;Fornecedor Delta;Medicamento;Avaria
+10/09/2026;449077.0;Item 1121;68;6;408.0;22/05/2029;Fornecedor Beta;Alimentos;Devolução parcial
+26/09/2026;668784.0;Item 1122;74;25;1850.0;03/11/2030;Fornecedor Ômega;Psicotrópico;Avaria
+17/09/2026;871501.0;Item 1123;120;6;720.0;13/10/2030;Fornecedor Beta;Perfumaria;0
+20/09/2026;501557.0;Item 1124;47;60;2820.0;25/03/2027;Fornecedor Beta;Correlatos;0
+18/09/2026;779658.0;Item 1125;72;12;864.0;23/12/2030;Fornecedor Alfa;Medicamento;Avaria
+11/09/2026;889759.0;Item 1127;96;25;2400.0;23/12/2028;Fornecedor Beta;Psicotrópico;Devolução parcial
+03/09/2026;543473.0;Item 1128;36;6;216.0;02/02/2029;Fornecedor Beta;Antibiótico;Avaria
+16/09/2026;625808.0;Item 1129;68;12;816.0;24/12/2030;Fornecedor Gama;Alimentos;Devolução parcial
+29/09/2026;191549.0;Item 1131;11;50;550.0;02/01/2028;Fornecedor Beta;Perfumaria;0
+24/09/2026;463541.0;Item 1134;54;60;3240.0;13/08/2030;Fornecedor Ômega;Correlatos;0
+27/09/2026;166007.0;Item 1135;3;25;75.0;30/11/2029;Fornecedor Beta;Antibiótico;Devolução parcial
+05/09/2026;580255.0;Item 1137;39;120;4680.0;05/06/2031;Fornecedor Beta;Medicamento;Avaria
+10/09/2026;337798.0;Item 1138;62;48;2976.0;26/04/2031;Fornecedor Ômega;Medicamento;Avaria
+20/09/2026;398196.0;Item 1139;59;24;1416.0;26/11/2027;Fornecedor Gama;Correlatos;0
+12/09/2026;841484.0;Item 1142;5;48;240.0;30/10/2027;Fornecedor Beta;Antibiótico;Devolução parcial
+04/09/2026;270495.0;Item 1143;69;30;2070.0;21/02/2027;Fornecedor Delta;Antibiótico;0
+16/09/2026;778684.0;Item 1145;91;30;2730.0;16/08/2028;Fornecedor Gama;Alimentos;0
+11/09/2026;938416.0;Item 1146;73;60;4380.0;12/11/2030;Fornecedor Ômega;Alimentos;Avaria
+12/09/2026;981723.0;Item 1148;29;60;1740.0;09/07/2027;Fornecedor Beta;Perfumaria;Devolução parcial
+22/09/2026;187649.0;Item 1150;69;60;4140.0;07/10/2030;Fornecedor Ômega;Psicotrópico;Avaria
+20/09/2026;303895.0;Item 1151;63;48;3024.0;24/05/2030;Fornecedor Gama;Perfumaria;Devolução parcial
+23/09/2026;478603.0;Item 1152;51;24;1224.0;15/10/2031;Fornecedor Delta;Correlatos;Avaria
+12/09/2026;490941.0;Item 1153;2;30;60.0;20/12/2028;Fornecedor Beta;Antibiótico;Devolução parcial
+24/09/2026;191853.0;Item 1154;28;60;1680.0;01/05/2029;Fornecedor Delta;Correlatos;0
+24/09/2026;944809.0;Item 1155;94;50;4700.0;28/04/2029;Fornecedor Alfa;Psicotrópico;Devolução parcial
+03/09/2026;719371.0;Item 1157;97;50;4850.0;14/01/2027;Fornecedor Delta;Alimentos;Avaria
+15/09/2026;534649.0;Item 1158;23;100;2300.0;25/12/2030;Fornecedor Gama;Medicamento;0
+10/09/2026;295041.0;Item 1159;107;50;5350.0;08/02/2030;Fornecedor Delta;Perfumaria;Avaria
+16/09/2026;975126.0;Item 1160;75;30;2250.0;19/02/2030;Fornecedor Delta;Medicamento;0
+09/09/2026;929653.0;Item 1161;1;24;24.0;06/09/2028;Fornecedor Delta;Perfumaria;Devolução parcial
+14/09/2026;798260.0;Item 1162;115;30;3450.0;03/01/2028;Fornecedor Delta;Alimentos;Devolução parcial
+25/09/2026;356639.0;Item 1163;4;12;48.0;21/07/2028;Fornecedor Delta;Perfumaria;Devolução parcial
+16/09/2026;881782.0;Item 1164;47;120;5640.0;04/03/2030;Fornecedor Delta;Correlatos;Devolução parcial
+12/09/2026;819231.0;Item 1165;61;12;732.0;15/11/2029;Fornecedor Gama;Perfumaria;Avaria
+05/09/2026;270757.0;Item 1166;75;6;450.0;16/10/2028;Fornecedor Delta;Alimentos;0
+09/09/2026;474745.0;Item 1167;21;6;126.0;09/01/2029;Fornecedor Delta;Alimentos;Avaria
+17/09/2026;151081.0;Item 1168;38;30;1140.0;01/08/2030;Fornecedor Ômega;Psicotrópico;0
+25/09/2026;903673.0;Item 1169;81;24;1944.0;13/07/2027;Fornecedor Gama;Medicamento;Devolução parcial
+04/09/2026;831871.0;Item 1171;89;48;4272.0;30/12/2029;Fornecedor Gama;Correlatos;0
+10/09/2026;113524.0;Item 1172;18;100;1800.0;02/02/2029;Fornecedor Delta;Antibiótico;Avaria
+05/09/2026;270948.0;Item 1173;14;25;350.0;27/10/2029;Fornecedor Alfa;Medicamento;Devolução parcial
+28/09/2026;743226.0;Item 1174;89;100;8900.0;25/12/2029;Fornecedor Gama;Alimentos;0
+04/09/2026;537619.0;Item 1175;59;12;708.0;04/08/2031;Fornecedor Alfa;Perfumaria;Avaria
+05/09/2026;465124.0;Item 1176;40;48;1920.0;01/08/2031;Fornecedor Delta;Psicotrópico;Devolução parcial
+23/09/2026;900681.0;Item 1177;44;24;1056.0;15/09/2028;Fornecedor Ômega;Alimentos;0
+23/09/2026;333159.0;Item 1178;17;24;408.0;09/04/2028;Fornecedor Beta;Medicamento;0
+02/09/2026;912323.0;Item 1180;62;50;3100.0;07/02/2028;Fornecedor Ômega;Perfumaria;Devolução parcial
+25/09/2026;416298.0;Item 1182;86;6;516.0;17/07/2027;Fornecedor Ômega;Psicotrópico;0
+06/09/2026;716146.0;Item 1183;116;25;2900.0;05/10/2030;Fornecedor Beta;Perfumaria;0
+19/09/2026;252627.0;Item 1184;109;30;3270.0;13/12/2028;Fornecedor Beta;Medicamento;Devolução parcial
+08/09/2026;918730.0;Item 1185;94;120;11280.0;31/10/2029;Fornecedor Gama;Perfumaria;0
+17/09/2026;959398.0;Item 1186;75;6;450.0;20/03/2028;Fornecedor Alfa;Correlatos;0
+24/09/2026;890645.0;Item 1187;69;6;414.0;22/07/2027;Fornecedor Alfa;Psicotrópico;Devolução parcial
+06/09/2026;597775.0;Item 1188;47;120;5640.0;19/06/2029;Fornecedor Ômega;Medicamento;Avaria
+17/09/2026;498055.0;Item 1189;55;25;1375.0;11/04/2028;Fornecedor Delta;Perfumaria;Avaria
+03/09/2026;402274.0;Item 1191;72;6;432.0;02/11/2028;Fornecedor Delta;Perfumaria;Avaria
+24/09/2026;397388.0;Item 1192;59;120;7080.0;30/09/2028;Fornecedor Delta;Medicamento;Devolução parcial
+07/09/2026;527066.0;Item 1193;38;50;1900.0;21/10/2031;Fornecedor Ômega;Antibiótico;Devolução parcial
+22/09/2026;485290.0;Item 1194;23;6;138.0;03/10/2029;Fornecedor Ômega;Antibiótico;Avaria
+04/09/2026;648051.0;Item 1195;85;12;1020.0;21/10/2027;Fornecedor Delta;Antibiótico;Devolução parcial
+03/09/2026;719244.0;Item 1196;14;24;336.0;14/01/2029;Fornecedor Alfa;Correlatos;0
+04/09/2026;723861.0;Item 1197;109;50;5450.0;21/04/2028;Fornecedor Delta;Alimentos;Avaria
+19/09/2026;392047.0;Item 1198;98;120;11760.0;13/07/2028;Fornecedor Delta;Correlatos;Avaria
+16/09/2026;799061.0;Item 1199;78;50;3900.0;13/11/2029;Fornecedor Beta;Medicamento;Avaria
+16/09/2026;213284.0;Item 1200;16;30;480.0;15/10/2029;Fornecedor Alfa;Alimentos;0
+27/09/2026;131167.0;Item 1201;13;6;78.0;20/05/2027;Fornecedor Delta;Alimentos;0
+22/09/2026;287795.0;Item 1202;49;120;5880.0;31/10/2028;Fornecedor Alfa;Correlatos;Devolução parcial
+22/09/2026;753506.0;Item 1203;13;12;156.0;20/03/2031;Fornecedor Gama;Antibiótico;Avaria
+18/09/2026;948802.0;Item 1205;111;100;11100.0;06/02/2027;Fornecedor Ômega;Antibiótico;0
+28/09/2026;502265.0;Item 1206;58;48;2784.0;09/02/2029;Fornecedor Delta;Antibiótico;0
+22/09/2026;134455.0;Item 1207;23;100;2300.0;29/10/2031;Fornecedor Beta;Alimentos;0
+10/09/2026;615353.0;Item 1208;56;24;1344.0;05/01/2031;Fornecedor Delta;Antibiótico;0
+22/09/2026;696487.0;Item 1209;87;60;5220.0;08/02/2030;Fornecedor Gama;Psicotrópico;Avaria
+17/09/2026;599028.0;Item 1210;72;24;1728.0;25/04/2027;Fornecedor Delta;Correlatos;Avaria
+05/09/2026;129514.0;Item 1212;76;6;456.0;11/09/2031;Fornecedor Beta;Correlatos;Devolução parcial
+13/09/2026;712333.0;Item 1213;4;48;192.0;19/07/2027;Fornecedor Delta;Correlatos;Avaria
+22/09/2026;531939.0;Item 1214;45;6;270.0;15/05/2028;Fornecedor Alfa;Medicamento;Devolução parcial
+30/09/2026;427260.0;Item 1215;76;12;912.0;10/11/2030;Fornecedor Ômega;Correlatos;0
+29/09/2026;542995.0;Item 1217;73;100;7300.0;12/05/2029;Fornecedor Beta;Perfumaria;Devolução parcial
+11/09/2026;592516.0;Item 1218;76;6;456.0;12/02/2029;Fornecedor Gama;Antibiótico;Avaria
+04/09/2026;700350.0;Item 1219;13;60;780.0;15/11/2030;Fornecedor Alfa;Correlatos;Avaria
+06/09/2026;627191.0;Item 1220;104;48;4992.0;13/06/2030;Fornecedor Beta;Correlatos;Avaria
+19/09/2026;378035.0;Item 1222;7;30;210.0;03/04/2029;Fornecedor Alfa;Psicotrópico;Devolução parcial
+04/09/2026;196424.0;Item 1223;92;120;11040.0;27/04/2030;Fornecedor Beta;Correlatos;0
+16/09/2026;693943.0;Item 1224;103;100;10300.0;24/05/2029;Fornecedor Alfa;Correlatos;0
+17/09/2026;783185.0;Item 1225;106;30;3180.0;05/07/2031;Fornecedor Beta;Antibiótico;Devolução parcial
+14/09/2026;666176.0;Item 1226;41;25;1025.0;03/04/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+06/09/2026;575244.0;Item 1227;86;100;8600.0;10/12/2031;Fornecedor Ômega;Alimentos;Devolução parcial
+26/09/2026;589994.0;Item 1229;35;100;3500.0;12/06/2030;Fornecedor Delta;Psicotrópico;Devolução parcial
+07/09/2026;757203.0;Item 1230;8;100;800.0;16/01/2029;Fornecedor Delta;Medicamento;0
+28/09/2026;257782.0;Item 1231;96;30;2880.0;10/06/2029;Fornecedor Delta;Correlatos;0
+09/09/2026;764721.0;Item 1232;27;50;1350.0;14/08/2031;Fornecedor Beta;Alimentos;0
+26/09/2026;301238.0;Item 1234;4;25;100.0;22/08/2031;Fornecedor Beta;Antibiótico;Avaria
+21/09/2026;687019.0;Item 1235;56;50;2800.0;17/03/2027;Fornecedor Alfa;Medicamento;Avaria
+24/09/2026;284533.0;Item 1237;83;6;498.0;22/09/2029;Fornecedor Ômega;Perfumaria;0
+28/09/2026;429153.0;Item 1238;78;30;2340.0;11/05/2027;Fornecedor Delta;Correlatos;Devolução parcial
+30/09/2026;698708.0;Item 1240;95;100;9500.0;05/09/2027;Fornecedor Gama;Alimentos;Devolução parcial
+09/09/2026;912767.0;Item 1241;120;100;12000.0;13/10/2029;Fornecedor Ômega;Medicamento;Devolução parcial
+11/09/2026;228216.0;Item 1242;99;48;4752.0;01/09/2031;Fornecedor Gama;Alimentos;Avaria
+30/09/2026;944986.0;Item 1243;96;25;2400.0;16/05/2029;Fornecedor Alfa;Medicamento;0
+15/09/2026;283662.0;Item 1244;28;30;840.0;16/04/2029;Fornecedor Beta;Psicotrópico;0
+23/09/2026;614178.0;Item 1245;69;48;3312.0;20/08/2027;Fornecedor Beta;Psicotrópico;Avaria
+23/09/2026;794391.0;Item 1248;103;6;618.0;04/06/2031;Fornecedor Alfa;Correlatos;Devolução parcial
+29/09/2026;503376.0;Item 1249;40;48;1920.0;22/07/2031;Fornecedor Ômega;Psicotrópico;0
+01/09/2026;999308.0;Item 1250;57;50;2850.0;15/03/2029;Fornecedor Beta;Correlatos;0
+10/09/2026;962671.0;Item 1251;97;25;2425.0;06/03/2028;Fornecedor Alfa;Antibiótico;Devolução parcial
+23/09/2026;960085.0;Item 1254;13;24;312.0;18/06/2028;Fornecedor Gama;Perfumaria;Avaria
+24/09/2026;541314.0;Item 1255;78;100;7800.0;31/10/2028;Fornecedor Delta;Alimentos;0
+21/09/2026;898989.0;Item 1256;7;24;168.0;27/06/2029;Fornecedor Alfa;Perfumaria;Avaria
+11/09/2026;309794.0;Item 1257;81;30;2430.0;25/03/2030;Fornecedor Ômega;Perfumaria;0
+09/09/2026;601602.0;Item 1259;112;24;2688.0;22/12/2027;Fornecedor Gama;Correlatos;Avaria
+12/09/2026;308314.0;Item 1260;11;50;550.0;08/01/2028;Fornecedor Delta;Antibiótico;Devolução parcial
+30/09/2026;335391.0;Item 1261;3;6;18.0;17/02/2030;Fornecedor Gama;Alimentos;0
+09/09/2026;193298.0;Item 1262;60;25;1500.0;07/12/2030;Fornecedor Alfa;Perfumaria;Avaria
+09/09/2026;748024.0;Item 1263;55;120;6600.0;02/11/2027;Fornecedor Ômega;Correlatos;0
+23/09/2026;694797.0;Item 1264;16;6;96.0;12/12/2029;Fornecedor Delta;Antibiótico;Devolução parcial
+23/09/2026;618152.0;Item 1265;16;25;400.0;21/02/2028;Fornecedor Alfa;Correlatos;Avaria
+05/09/2026;882702.0;Item 1266;64;50;3200.0;02/06/2029;Fornecedor Alfa;Psicotrópico;0
+14/09/2026;964119.0;Item 1267;37;25;925.0;05/01/2028;Fornecedor Delta;Medicamento;0
+20/09/2026;404289.0;Item 1268;34;25;850.0;12/07/2029;Fornecedor Alfa;Correlatos;Devolução parcial
+03/09/2026;817506.0;Item 1269;83;60;4980.0;22/01/2027;Fornecedor Delta;Medicamento;Avaria
+23/09/2026;826687.0;Item 1270;51;25;1275.0;24/02/2029;Fornecedor Delta;Alimentos;Devolução parcial
+18/09/2026;368672.0;Item 1271;10;12;120.0;01/05/2027;Fornecedor Ômega;Correlatos;0
+09/09/2026;949192.0;Item 1273;6;6;36.0;30/10/2029;Fornecedor Gama;Antibiótico;Avaria
+05/09/2026;513869.0;Item 1274;86;48;4128.0;19/02/2030;Fornecedor Ômega;Psicotrópico;0
+16/09/2026;372935.0;Item 1275;22;100;2200.0;25/11/2028;Fornecedor Delta;Medicamento;0
+14/09/2026;432731.0;Item 1276;91;100;9100.0;18/10/2027;Fornecedor Beta;Perfumaria;Avaria
+28/09/2026;146307.0;Item 1277;17;60;1020.0;06/09/2031;Fornecedor Beta;Alimentos;Avaria
+20/09/2026;550977.0;Item 1278;37;30;1110.0;26/08/2031;Fornecedor Beta;Psicotrópico;Avaria
+11/09/2026;556943.0;Item 1279;115;24;2760.0;18/02/2031;Fornecedor Delta;Medicamento;Devolução parcial
+02/09/2026;994470.0;Item 1280;119;60;7140.0;22/01/2028;Fornecedor Alfa;Perfumaria;0
+09/09/2026;292037.0;Item 1281;5;60;300.0;01/12/2027;Fornecedor Delta;Antibiótico;0
+04/09/2026;616935.0;Item 1283;15;24;360.0;16/12/2028;Fornecedor Ômega;Medicamento;Avaria
+24/09/2026;289430.0;Item 1284;107;24;2568.0;07/11/2029;Fornecedor Beta;Psicotrópico;Devolução parcial
+01/09/2026;714127.0;Item 1285;28;120;3360.0;13/12/2029;Fornecedor Gama;Medicamento;Avaria
+22/09/2026;180567.0;Item 1286;32;60;1920.0;13/07/2027;Fornecedor Beta;Perfumaria;Avaria
+15/09/2026;261245.0;Item 1288;4;12;48.0;29/08/2031;Fornecedor Delta;Antibiótico;Devolução parcial
+05/09/2026;867080.0;Item 1290;94;120;11280.0;08/03/2028;Fornecedor Ômega;Alimentos;Avaria
+24/09/2026;438869.0;Item 1291;103;6;618.0;25/05/2027;Fornecedor Gama;Psicotrópico;Avaria
+06/09/2026;197046.0;Item 1292;52;30;1560.0;06/05/2028;Fornecedor Delta;Perfumaria;0
+04/09/2026;889114.0;Item 1294;84;24;2016.0;03/09/2028;Fornecedor Delta;Antibiótico;Devolução parcial
+29/09/2026;945522.0;Item 1295;118;30;3540.0;03/11/2030;Fornecedor Gama;Medicamento;Avaria
+17/09/2026;797848.0;Item 1296;13;48;624.0;14/02/2028;Fornecedor Delta;Antibiótico;Avaria
+20/09/2026;599583.0;Item 1297;35;120;4200.0;16/05/2029;Fornecedor Ômega;Antibiótico;Avaria
+21/09/2026;743687.0;Item 1298;24;50;1200.0;22/05/2029;Fornecedor Ômega;Perfumaria;Devolução parcial
+03/09/2026;760141.0;Item 1300;83;100;8300.0;18/08/2028;Fornecedor Delta;Antibiótico;0
+05/09/2026;940480.0;Item 1301;62;30;1860.0;19/09/2027;Fornecedor Beta;Medicamento;Devolução parcial
+02/09/2026;548509.0;Item 1302;38;120;4560.0;02/02/2030;Fornecedor Ômega;Perfumaria;Devolução parcial
+14/09/2026;212860.0;Item 1303;66;50;3300.0;13/07/2027;Fornecedor Delta;Alimentos;Devolução parcial
+12/09/2026;696092.0;Item 1304;105;30;3150.0;05/06/2028;Fornecedor Gama;Perfumaria;Devolução parcial
+06/09/2026;117058.0;Item 1305;15;60;900.0;30/05/2031;Fornecedor Alfa;Antibiótico;0
+11/09/2026;754112.0;Item 1307;104;30;3120.0;20/11/2031;Fornecedor Alfa;Medicamento;0
+04/09/2026;118785.0;Item 1309;1;50;50.0;28/01/2027;Fornecedor Alfa;Alimentos;Avaria
+28/09/2026;582515.0;Item 1310;89;50;4450.0;09/09/2030;Fornecedor Gama;Alimentos;Avaria
+12/09/2026;417508.0;Item 1311;80;120;9600.0;15/11/2030;Fornecedor Delta;Correlatos;0
+07/09/2026;231165.0;Item 1312;18;6;108.0;18/08/2027;Fornecedor Ômega;Alimentos;0
+21/09/2026;128117.0;Item 1313;27;60;1620.0;25/10/2027;Fornecedor Alfa;Antibiótico;Devolução parcial
+07/09/2026;999876.0;Item 1314;102;100;10200.0;26/06/2027;Fornecedor Beta;Antibiótico;0
+04/09/2026;597013.0;Item 1315;55;6;330.0;07/12/2027;Fornecedor Alfa;Alimentos;Devolução parcial
+01/09/2026;566895.0;Item 1316;63;60;3780.0;27/10/2031;Fornecedor Delta;Psicotrópico;0
+27/09/2026;311118.0;Item 1317;38;120;4560.0;04/09/2031;Fornecedor Delta;Perfumaria;Avaria
+14/09/2026;108256.0;Item 1318;14;50;700.0;04/10/2031;Fornecedor Delta;Alimentos;Devolução parcial
+10/09/2026;724783.0;Item 1319;94;100;9400.0;17/03/2027;Fornecedor Delta;Antibiótico;Avaria
+30/09/2026;638292.0;Item 1320;76;120;9120.0;21/10/2030;Fornecedor Delta;Medicamento;Devolução parcial
+14/09/2026;163653.0;Item 1321;68;6;408.0;26/03/2030;Fornecedor Beta;Psicotrópico;0
+23/09/2026;777568.0;Item 1323;45;60;2700.0;12/06/2029;Fornecedor Ômega;Medicamento;Avaria
+12/09/2026;861485.0;Item 1324;25;60;1500.0;16/06/2029;Fornecedor Alfa;Psicotrópico;0
+14/09/2026;858115.0;Item 1326;92;50;4600.0;03/09/2031;Fornecedor Beta;Antibiótico;0
+23/09/2026;752048.0;Item 1327;27;30;810.0;15/03/2031;Fornecedor Ômega;Alimentos;Avaria
+07/09/2026;617708.0;Item 1329;39;25;975.0;14/02/2030;Fornecedor Ômega;Perfumaria;Avaria
+06/09/2026;373477.0;Item 1330;46;24;1104.0;23/08/2031;Fornecedor Gama;Perfumaria;0
+20/09/2026;454140.0;Item 1331;56;12;672.0;09/04/2028;Fornecedor Ômega;Psicotrópico;0
+20/09/2026;258522.0;Item 1333;110;100;11000.0;03/10/2030;Fornecedor Ômega;Alimentos;0
+27/09/2026;559094.0;Item 1334;103;60;6180.0;28/03/2031;Fornecedor Ômega;Perfumaria;Devolução parcial
+25/09/2026;406313.0;Item 1337;91;60;5460.0;02/11/2029;Fornecedor Delta;Alimentos;0
+11/09/2026;261790.0;Item 1338;83;48;3984.0;05/08/2031;Fornecedor Alfa;Perfumaria;0
+08/09/2026;560438.0;Item 1339;54;6;324.0;06/09/2031;Fornecedor Delta;Correlatos;Avaria
+09/09/2026;629554.0;Item 1340;22;12;264.0;01/02/2029;Fornecedor Delta;Correlatos;Devolução parcial
+25/09/2026;797298.0;Item 1341;32;24;768.0;24/03/2031;Fornecedor Gama;Antibiótico;0
+14/09/2026;244697.0;Item 1342;103;50;5150.0;18/04/2029;Fornecedor Delta;Psicotrópico;Devolução parcial
+05/09/2026;479347.0;Item 1343;4;60;240.0;27/04/2031;Fornecedor Ômega;Alimentos;Devolução parcial
+11/09/2026;172961.0;Item 1344;11;48;528.0;02/04/2029;Fornecedor Alfa;Antibiótico;0
+10/09/2026;762288.0;Item 1346;92;100;9200.0;08/05/2029;Fornecedor Delta;Alimentos;Devolução parcial
+24/09/2026;680502.0;Item 1347;112;30;3360.0;02/03/2031;Fornecedor Beta;Correlatos;0
+20/09/2026;967176.0;Item 1348;36;100;3600.0;28/10/2027;Fornecedor Delta;Antibiótico;Devolução parcial
+20/09/2026;315098.0;Item 1349;114;100;11400.0;03/06/2031;Fornecedor Gama;Alimentos;Avaria
+25/09/2026;831351.0;Item 1350;45;50;2250.0;09/02/2028;Fornecedor Beta;Perfumaria;0
+17/09/2026;397719.0;Item 1352;28;12;336.0;04/02/2030;Fornecedor Beta;Psicotrópico;Avaria
+01/09/2026;893820.0;Item 1353;82;24;1968.0;27/02/2027;Fornecedor Gama;Psicotrópico;Avaria
+24/09/2026;353063.0;Item 1354;107;30;3210.0;15/05/2029;Fornecedor Gama;Perfumaria;Devolução parcial
+09/09/2026;162857.0;Item 1355;108;48;5184.0;08/07/2030;Fornecedor Gama;Correlatos;0
+15/09/2026;150051.0;Item 1356;97;12;1164.0;02/09/2028;Fornecedor Gama;Alimentos;0
+26/09/2026;575159.0;Item 1357;44;25;1100.0;08/03/2031;Fornecedor Gama;Psicotrópico;Devolução parcial
+28/09/2026;758237.0;Item 1358;86;100;8600.0;04/05/2030;Fornecedor Alfa;;Avaria
+22/09/2026;398357.0;Item 1359;86;120;10320.0;14/10/2027;Fornecedor Delta;Psicotrópico;Devolução parcial
+17/09/2026;359662.0;Item 1360;14;48;672.0;07/04/2030;Fornecedor Alfa;Correlatos;Avaria
+27/09/2026;202747.0;Item 1361;19;50;950.0;23/04/2029;Fornecedor Ômega;Perfumaria;0
+16/09/2026;545526.0;Item 1362;114;24;2736.0;15/03/2028;Fornecedor Delta;Perfumaria;Avaria
+15/09/2026;712686.0;Item 1364;64;50;3200.0;12/11/2030;Fornecedor Delta;Alimentos;Avaria
+17/09/2026;963829.0;Item 1365;21;24;504.0;18/09/2027;Fornecedor Delta;Alimentos;Avaria
+28/09/2026;235670.0;Item 1366;91;100;9100.0;19/12/2029;Fornecedor Ômega;Alimentos;0
+04/09/2026;730823.0;Item 1368;110;50;5500.0;05/09/2027;Fornecedor Beta;Psicotrópico;Avaria
+04/09/2026;142238.0;Item 1369;67;24;1608.0;30/01/2029;Fornecedor Beta;Correlatos;Avaria
+26/09/2026;408261.0;Item 1370;63;6;378.0;20/10/2027;Fornecedor Alfa;Psicotrópico;Avaria
+29/09/2026;151014.0;Item 1371;120;30;3600.0;03/08/2028;Fornecedor Alfa;Medicamento;Devolução parcial
+18/09/2026;612537.0;Item 1372;1;12;12.0;15/12/2028;Fornecedor Ômega;Perfumaria;Avaria
+19/09/2026;604550.0;Item 1373;74;30;2220.0;15/07/2029;Fornecedor Beta;Antibiótico;Avaria
+05/09/2026;974994.0;Item 1374;93;120;11160.0;10/04/2031;Fornecedor Alfa;Psicotrópico;Devolução parcial
+22/09/2026;583326.0;Item 1375;98;60;5880.0;08/07/2029;Fornecedor Alfa;Alimentos;Avaria
+02/09/2026;514603.0;Item 1377;44;100;4400.0;05/10/2030;Fornecedor Delta;Alimentos;Avaria
+23/09/2026;777292.0;Item 1378;12;24;288.0;20/02/2027;Fornecedor Gama;Alimentos;Devolução parcial
+21/09/2026;423850.0;Item 1379;72;12;864.0;19/02/2030;Fornecedor Ômega;Medicamento;Devolução parcial
+06/09/2026;119570.0;Item 1381;16;100;1600.0;08/02/2027;Fornecedor Beta;Medicamento;0
+15/09/2026;969993.0;Item 1382;91;120;10920.0;23/06/2027;Fornecedor Gama;Psicotrópico;Avaria
+16/09/2026;521315.0;Item 1383;76;6;456.0;01/11/2031;Fornecedor Ômega;Correlatos;Avaria
+18/09/2026;195446.0;Item 1385;15;12;180.0;11/12/2027;Fornecedor Beta;Medicamento;0
+05/09/2026;367968.0;Item 1386;99;12;1188.0;20/09/2028;Fornecedor Delta;Alimentos;0
+06/09/2026;161775.0;Item 1387;79;48;3792.0;25/02/2027;Fornecedor Ômega;Correlatos;Avaria
+14/09/2026;203540.0;Item 1388;41;24;984.0;25/10/2028;Fornecedor Beta;Antibiótico;0
+25/09/2026;154398.0;Item 1389;26;25;650.0;07/05/2030;Fornecedor Gama;Medicamento;Avaria
+13/09/2026;633328.0;Item 1390;97;100;9700.0;24/08/2027;Fornecedor Beta;Perfumaria;Avaria
+03/09/2026;587402.0;Item 1391;71;50;3550.0;18/09/2029;Fornecedor Ômega;Antibiótico;Devolução parcial
+21/09/2026;358281.0;Item 1393;98;100;9800.0;28/05/2031;Fornecedor Alfa;Correlatos;Devolução parcial
+28/09/2026;526504.0;Item 1394;58;12;696.0;26/07/2030;Fornecedor Gama;Medicamento;0
+26/09/2026;491438.0;Item 1395;70;24;1680.0;17/05/2028;Fornecedor Gama;Antibiótico;Devolução parcial
+12/09/2026;980266.0;Item 1398;88;50;4400.0;22/09/2031;Fornecedor Alfa;Psicotrópico;Devolução parcial
+24/09/2026;394976.0;Item 1399;6;24;144.0;29/12/2029;Fornecedor Gama;Perfumaria;Avaria
+27/09/2026;194073.0;Item 1400;51;12;612.0;14/10/2027;Fornecedor Gama;Correlatos;Avaria
+09/09/2026;889256.0;Item 1402;91;60;5460.0;18/05/2028;Fornecedor Beta;Correlatos;0
+29/09/2026;738359.0;Item 1404;61;6;366.0;20/01/2027;Fornecedor Alfa;Antibiótico;Devolução parcial
+25/09/2026;830322.0;Item 1405;91;60;5460.0;15/03/2029;Fornecedor Gama;Perfumaria;Devolução parcial
+01/09/2026;782902.0;Item 1406;10;100;1000.0;01/09/2031;Fornecedor Delta;Alimentos;0
+27/09/2026;470141.0;Item 1407;105;50;5250.0;16/05/2030;Fornecedor Beta;Antibiótico;0
+04/09/2026;979908.0;Item 1408;99;6;594.0;05/08/2029;Fornecedor Beta;Medicamento;Avaria
+25/09/2026;109818.0;Item 1409;29;6;174.0;29/07/2028;Fornecedor Beta;Medicamento;0
+26/09/2026;955932.0;Item 1410;79;30;2370.0;10/01/2031;Fornecedor Alfa;Medicamento;Avaria
+16/09/2026;480632.0;Item 1411;5;30;150.0;12/12/2030;Fornecedor Gama;Medicamento;0
+04/09/2026;305611.0;Item 1412;106;50;5300.0;17/11/2031;Fornecedor Beta;Psicotrópico;Devolução parcial
+03/09/2026;732262.0;Item 1414;73;24;1752.0;19/04/2030;Fornecedor Alfa;Alimentos;0
+01/09/2026;813745.0;Item 1417;72;60;4320.0;24/05/2029;Fornecedor Ômega;Correlatos;Avaria
+04/09/2026;985356.0;Item 1418;53;30;1590.0;24/10/2030;Fornecedor Gama;Antibiótico;Avaria
+29/09/2026;479030.0;Item 1419;67;6;402.0;17/01/2031;Fornecedor Alfa;Perfumaria;Avaria
+11/09/2026;540467.0;Item 1420;69;60;4140.0;11/01/2027;Fornecedor Delta;Medicamento;Avaria
+07/09/2026;178056.0;Item 1422;118;25;2950.0;03/12/2027;Fornecedor Beta;Correlatos;0
+01/09/2026;756403.0;Item 1423;81;12;972.0;09/09/2029;Fornecedor Delta;Perfumaria;Devolução parcial
+27/09/2026;935946.0;Item 1424;81;48;3888.0;27/05/2028;Fornecedor Alfa;Perfumaria;Avaria
+02/09/2026;707056.0;Item 1427;16;12;192.0;10/03/2027;Fornecedor Delta;Correlatos;Devolução parcial
+03/09/2026;740405.0;Item 1429;81;50;4050.0;28/07/2027;Fornecedor Ômega;Psicotrópico;0
+13/09/2026;409242.0;Item 1430;109;50;5450.0;16/07/2027;Fornecedor Gama;Antibiótico;0
+01/09/2026;728700.0;Item 1431;101;120;12120.0;17/07/2029;Fornecedor Delta;Antibiótico;Avaria
+04/09/2026;444136.0;Item 1433;76;25;1900.0;30/07/2027;Fornecedor Ômega;Psicotrópico;Devolução parcial
+29/09/2026;170825.0;Item 1434;76;25;1900.0;19/03/2030;Fornecedor Alfa;Alimentos;Devolução parcial
+16/09/2026;368735.0;Item 1435;46;50;2300.0;24/01/2031;Fornecedor Gama;Antibiótico;0
+10/09/2026;638051.0;Item 1437;84;48;4032.0;10/04/2030;Fornecedor Gama;Medicamento;0
+11/09/2026;592331.0;Item 1438;40;120;4800.0;19/08/2028;Fornecedor Beta;Perfumaria;Devolução parcial
+07/09/2026;542563.0;Item 1440;45;25;1125.0;04/08/2030;Fornecedor Alfa;Perfumaria;Avaria
+23/09/2026;298553.0;Item 1441;86;60;5160.0;17/11/2030;Fornecedor Delta;Psicotrópico;Devolução parcial
+15/09/2026;444582.0;Item 1443;21;12;252.0;30/11/2031;Fornecedor Ômega;Antibiótico;0
+23/09/2026;103876.0;Item 1444;82;25;2050.0;16/04/2028;Fornecedor Delta;Psicotrópico;0
+12/09/2026;293194.0;Item 1446;106;6;636.0;21/01/2027;Fornecedor Ômega;Correlatos;0
+10/09/2026;681636.0;Item 1447;15;24;360.0;20/06/2029;Fornecedor Alfa;Alimentos;Devolução parcial
+01/09/2026;902719.0;Item 1448;47;6;282.0;12/02/2028;Fornecedor Alfa;Correlatos;0
+24/09/2026;329580.0;Item 1449;114;30;3420.0;23/12/2027;Fornecedor Beta;Psicotrópico;0
+06/09/2026;287214.0;Item 1450;26;6;156.0;23/09/2031;Fornecedor Beta;Perfumaria;0
+13/09/2026;971834.0;Item 1451;87;24;2088.0;03/09/2030;Fornecedor Ômega;Correlatos;0
+12/09/2026;419891.0;Item 1452;59;25;1475.0;16/07/2031;Fornecedor Beta;Alimentos;0
+29/09/2026;652522.0;Item 1453;103;120;12360.0;07/06/2029;Fornecedor Ômega;Perfumaria;0
+21/09/2026;433396.0;Item 1455;77;50;3850.0;15/05/2028;Fornecedor Ômega;Psicotrópico;Devolução parcial
+26/09/2026;319401.0;Item 1458;94;12;1128.0;21/08/2029;Fornecedor Gama;Perfumaria;0
+12/09/2026;633320.0;Item 1459;50;100;5000.0;18/10/2029;Fornecedor Gama;Antibiótico;0
+17/09/2026;437456.0;Item 1460;92;48;4416.0;23/11/2030;Fornecedor Delta;Alimentos;Avaria
+13/09/2026;596771.0;Item 1461;35;120;4200.0;30/07/2030;Fornecedor Gama;Alimentos;0
+15/09/2026;317264.0;Item 1462;29;25;725.0;03/11/2031;Fornecedor Alfa;Antibiótico;0
+19/09/2026;420863.0;Item 1463;55;50;2750.0;18/11/2027;Fornecedor Beta;Correlatos;Devolução parcial
+10/09/2026;188876.0;Item 1464;18;12;216.0;29/06/2029;Fornecedor Gama;Correlatos;0
+17/09/2026;712328.0;Item 1465;6;60;360.0;26/06/2030;Fornecedor Beta;Antibiótico;Avaria
+15/09/2026;500944.0;Item 1467;4;24;96.0;23/04/2028;Fornecedor Beta;Alimentos;0
+10/09/2026;476536.0;Item 1468;116;12;1392.0;22/09/2031;Fornecedor Gama;Psicotrópico;Devolução parcial
+01/09/2026;875758.0;Item 1472;70;30;2100.0;27/04/2031;Fornecedor Beta;Correlatos;Avaria
+27/09/2026;921169.0;Item 1473;52;50;2600.0;02/04/2030;Fornecedor Ômega;Antibiótico;Devolução parcial
+28/09/2026;637549.0;Item 1474;98;24;2352.0;25/03/2029;Fornecedor Alfa;Medicamento;Devolução parcial
+08/09/2026;885527.0;Item 1475;27;60;1620.0;22/11/2029;Fornecedor Gama;Psicotrópico;Avaria
+11/09/2026;857607.0;Item 1476;105;60;6300.0;10/06/2031;Fornecedor Ômega;Correlatos;0
+07/09/2026;549622.0;Item 1477;99;50;4950.0;17/06/2029;Fornecedor Delta;;0
+28/09/2026;492901.0;Item 1478;18;120;2160.0;20/09/2027;Fornecedor Beta;Alimentos;0
+11/09/2026;624078.0;Item 1479;104;48;4992.0;06/04/2028;Fornecedor Delta;Antibiótico;Devolução parcial
+10/09/2026;889185.0;Item 1480;52;100;5200.0;29/10/2028;Fornecedor Gama;Perfumaria;Devolução parcial
+05/09/2026;923507.0;Item 1481;5;24;120.0;07/11/2028;Fornecedor Gama;Alimentos;Devolução parcial
+04/09/2026;419443.0;Item 1484;12;24;288.0;14/10/2030;Fornecedor Gama;Medicamento;0
+16/09/2026;966621.0;Item 1485;89;120;10680.0;24/02/2027;Fornecedor Alfa;Medicamento;0
+08/09/2026;504639.0;Item 1486;37;25;925.0;19/08/2028;Fornecedor Gama;Perfumaria;Avaria
+05/09/2026;507888.0;Item 1489;116;25;2900.0;18/11/2031;Fornecedor Alfa;Correlatos;Avaria
+06/09/2026;957626.0;Item 1490;91;60;5460.0;21/05/2030;Fornecedor Gama;Correlatos;Devolução parcial
+09/09/2026;312832.0;Item 1491;65;60;3900.0;18/02/2028;Fornecedor Ômega;Medicamento;Avaria
+15/09/2026;696879.0;Item 1493;113;60;6780.0;05/08/2029;Fornecedor Gama;Perfumaria;Devolução parcial
+12/09/2026;195528.0;Item 1494;37;60;2220.0;05/12/2030;Fornecedor Beta;Antibiótico;Devolução parcial
+14/09/2026;963428.0;Item 1495;104;24;2496.0;25/05/2028;Fornecedor Alfa;Psicotrópico;Devolução parcial
+30/09/2026;553065.0;Item 1496;59;50;2950.0;11/09/2030;Fornecedor Alfa;Alimentos;Devolução parcial
+08/09/2026;200174.0;Item 1497;51;6;306.0;19/12/2031;Fornecedor Alfa;Correlatos;Devolução parcial
+23/09/2026;663858.0;Item 1498;38;12;456.0;27/01/2031;Fornecedor Alfa;Antibiótico;Avaria
+09/09/2026;530016.0;Item 1500;58;24;1392.0;29/02/2028;Fornecedor Gama;Perfumaria;Avaria
+13/09/2026;128015.0;Item 1501;10;60;600.0;04/12/2028;Fornecedor Delta;Medicamento;Avaria
+04/09/2026;139609.0;Item 1502;2;30;60.0;23/12/2030;Fornecedor Alfa;Correlatos;Devolução parcial
+15/09/2026;885043.0;Item 1503;60;60;3600.0;20/05/2027;Fornecedor Ômega;Psicotrópico;Devolução parcial
+04/09/2026;979226.0;Item 1505;3;120;360.0;29/12/2027;Fornecedor Beta;Perfumaria;Devolução parcial
+03/09/2026;877462.0;Item 1506;51;24;1224.0;07/10/2030;Fornecedor Ômega;;Avaria
+06/09/2026;260952.0;Item 1507;57;48;2736.0;19/03/2028;Fornecedor Ômega;Alimentos;Devolução parcial
+27/09/2026;326667.0;Item 1508;57;6;342.0;24/07/2030;Fornecedor Gama;Alimentos;Devolução parcial
+13/09/2026;851210.0;Item 1509;85;12;1020.0;14/11/2030;Fornecedor Beta;Antibiótico;0
+01/09/2026;350127.0;Item 1511;26;12;312.0;13/05/2029;Fornecedor Ômega;Perfumaria;Avaria
+04/09/2026;226672.0;Item 1515;30;25;750.0;31/12/2028;Fornecedor Beta;Medicamento;0
+01/09/2026;521673.0;Item 1516;84;48;4032.0;08/03/2029;Fornecedor Alfa;Antibiótico;0
+21/09/2026;169223.0;Item 1517;85;30;2550.0;01/07/2030;Fornecedor Beta;Perfumaria;0
+25/09/2026;329177.0;Item 1518;53;30;1590.0;11/05/2030;Fornecedor Delta;Perfumaria;Devolução parcial
+06/09/2026;662227.0;Item 1519;102;120;12240.0;30/05/2028;Fornecedor Ômega;Psicotrópico;Avaria
+28/09/2026;766216.0;Item 1521;98;48;4704.0;26/09/2030;Fornecedor Delta;Perfumaria;Avaria
+15/09/2026;118506.0;Item 1522;78;120;9360.0;22/02/2029;Fornecedor Gama;Alimentos;Devolução parcial
+23/09/2026;343715.0;Item 1523;65;120;7800.0;28/01/2027;Fornecedor Alfa;Perfumaria;Devolução parcial
+10/09/2026;895807.0;Item 1524;115;12;1380.0;29/04/2028;Fornecedor Delta;Medicamento;Devolução parcial
+08/09/2026;494000.0;Item 1526;27;6;162.0;25/01/2031;Fornecedor Gama;Antibiótico;Devolução parcial
+11/09/2026;444656.0;Item 1527;18;30;540.0;11/08/2030;Fornecedor Ômega;Psicotrópico;Avaria
+25/09/2026;779525.0;Item 1528;105;30;3150.0;18/02/2027;Fornecedor Alfa;Alimentos;Avaria
+18/09/2026;459376.0;Item 1529;32;25;800.0;21/04/2027;Fornecedor Alfa;Alimentos;Devolução parcial
+28/09/2026;854452.0;Item 1530;29;120;3480.0;20/02/2029;Fornecedor Gama;Correlatos;0
+03/09/2026;563849.0;Item 1531;81;6;486.0;17/11/2031;Fornecedor Delta;Perfumaria;0
+07/09/2026;154638.0;Item 1532;82;24;1968.0;15/09/2027;Fornecedor Ômega;Medicamento;Devolução parcial
+08/09/2026;675507.0;Item 1533;107;25;2675.0;05/11/2029;Fornecedor Ômega;Antibiótico;Devolução parcial
+24/09/2026;589762.0;Item 1534;40;24;960.0;09/02/2028;Fornecedor Alfa;Antibiótico;0
+10/09/2026;735281.0;Item 1535;32;30;960.0;26/03/2030;Fornecedor Delta;Alimentos;0
+03/09/2026;385066.0;Item 1536;111;60;6660.0;06/01/2029;Fornecedor Delta;Antibiótico;0
+17/09/2026;593578.0;Item 1537;57;50;2850.0;02/06/2030;Fornecedor Delta;Medicamento;Avaria
+14/09/2026;120773.0;Item 1538;98;50;4900.0;16/10/2031;Fornecedor Ômega;Correlatos;Devolução parcial
+24/09/2026;663292.0;Item 1539;20;100;2000.0;26/12/2027;Fornecedor Beta;Antibiótico;Avaria
+13/09/2026;420704.0;Item 1540;59;30;1770.0;25/02/2030;Fornecedor Gama;Antibiótico;0
+16/09/2026;625021.0;Item 1542;94;48;4512.0;08/04/2029;Fornecedor Delta;Antibiótico;Devolução parcial
+10/09/2026;491270.0;Item 1543;50;60;3000.0;05/08/2030;Fornecedor Gama;Perfumaria;Avaria
+13/09/2026;140712.0;Item 1544;118;12;1416.0;04/03/2030;Fornecedor Alfa;Medicamento;Avaria
+21/09/2026;486065.0;Item 1546;90;6;540.0;28/02/2029;Fornecedor Delta;Alimentos;0
+09/09/2026;809283.0;Item 1548;4;24;96.0;24/05/2030;Fornecedor Delta;Alimentos;0
+19/09/2026;366640.0;Item 1549;32;120;3840.0;19/09/2030;Fornecedor Alfa;Perfumaria;0
+06/09/2026;297995.0;Item 1551;113;50;5650.0;27/08/2031;Fornecedor Delta;Correlatos;Devolução parcial
+22/09/2026;416900.0;Item 1552;65;100;6500.0;21/12/2031;Fornecedor Delta;Psicotrópico;Avaria
+04/09/2026;869584.0;Item 1553;53;12;636.0;26/07/2030;Fornecedor Gama;Correlatos;0
+30/09/2026;382089.0;Item 1554;96;25;2400.0;13/03/2031;Fornecedor Delta;Alimentos;Avaria
+01/09/2026;106732.0;Item 1555;22;60;1320.0;18/07/2027;Fornecedor Ômega;Alimentos;Avaria
+24/09/2026;650462.0;Item 1556;54;30;1620.0;01/06/2029;Fornecedor Alfa;Medicamento;Avaria
+07/09/2026;295454.0;Item 1557;91;24;2184.0;23/09/2029;Fornecedor Alfa;Psicotrópico;0
+06/09/2026;572552.0;Item 1558;73;25;1825.0;16/02/2028;Fornecedor Ômega;Alimentos;0
+09/09/2026;948485.0;Item 1559;98;25;2450.0;21/11/2031;Fornecedor Delta;Antibiótico;Devolução parcial
+01/09/2026;390206.0;Item 1561;9;48;432.0;14/04/2030;Fornecedor Alfa;Antibiótico;Avaria
+01/09/2026;805486.0;Item 1562;98;12;1176.0;06/05/2027;Fornecedor Beta;Perfumaria;Devolução parcial
+04/09/2026;710738.0;Item 1563;102;6;612.0;08/03/2028;Fornecedor Gama;Perfumaria;Avaria
+30/09/2026;732275.0;Item 1564;67;30;2010.0;22/09/2029;Fornecedor Delta;Correlatos;Devolução parcial
+22/09/2026;550314.0;Item 1565;44;48;2112.0;29/12/2031;Fornecedor Beta;Correlatos;0
+13/09/2026;478756.0;Item 1566;86;50;4300.0;04/06/2030;Fornecedor Ômega;Correlatos;Avaria
+15/09/2026;945435.0;Item 1567;13;6;78.0;18/11/2031;Fornecedor Delta;Alimentos;0
+28/09/2026;126927.0;Item 1568;78;12;936.0;22/12/2029;Fornecedor Beta;Alimentos;0
+22/09/2026;486326.0;Item 1569;58;120;6960.0;11/09/2030;Fornecedor Delta;Psicotrópico;Avaria
+21/09/2026;792299.0;Item 1570;25;6;150.0;23/07/2031;Fornecedor Beta;Perfumaria;Devolução parcial
+13/09/2026;344903.0;Item 1572;78;60;4680.0;22/02/2031;Fornecedor Gama;Perfumaria;Avaria
+22/09/2026;548702.0;Item 1573;120;60;7200.0;22/10/2031;Fornecedor Ômega;Alimentos;Avaria
+23/09/2026;408137.0;Item 1574;78;25;1950.0;21/10/2027;Fornecedor Gama;Psicotrópico;Devolução parcial
+16/09/2026;629149.0;Item 1575;5;24;120.0;20/06/2031;Fornecedor Ômega;Correlatos;Devolução parcial
+06/09/2026;675402.0;Item 1576;112;60;6720.0;02/07/2029;Fornecedor Ômega;Antibiótico;Devolução parcial
+07/09/2026;666931.0;Item 1577;31;25;775.0;16/12/2027;Fornecedor Ômega;Perfumaria;Avaria
+29/09/2026;854109.0;Item 1579;33;60;1980.0;05/10/2030;Fornecedor Ômega;Alimentos;0
+03/09/2026;660509.0;Item 1580;82;60;4920.0;18/06/2031;Fornecedor Beta;Medicamento;Devolução parcial
+10/09/2026;334410.0;Item 1583;34;12;408.0;29/06/2027;Fornecedor Ômega;Perfumaria;Avaria
+19/09/2026;994781.0;Item 1585;41;50;2050.0;18/02/2031;Fornecedor Ômega;Correlatos;0
+28/09/2026;718722.0;Item 1586;69;25;1725.0;05/03/2029;Fornecedor Delta;Correlatos;Avaria
+17/09/2026;936258.0;Item 1587;87;24;2088.0;21/09/2030;Fornecedor Gama;Psicotrópico;0
+18/09/2026;211763.0;Item 1588;51;6;306.0;12/10/2031;Fornecedor Delta;Correlatos;0
+20/09/2026;397158.0;Item 1590;19;6;114.0;17/10/2028;Fornecedor Beta;;Devolução parcial
+26/09/2026;838344.0;Item 1592;49;6;294.0;13/11/2028;Fornecedor Alfa;Alimentos;0
+27/09/2026;862729.0;Item 1594;51;30;1530.0;12/09/2030;Fornecedor Alfa;Perfumaria;Devolução parcial
+10/09/2026;175312.0;Item 1596;68;30;2040.0;27/11/2030;Fornecedor Alfa;Alimentos;Devolução parcial
+11/09/2026;512900.0;Item 1597;13;24;312.0;21/03/2031;Fornecedor Gama;Perfumaria;Devolução parcial
+19/09/2026;418844.0;Item 1598;59;24;1416.0;09/10/2027;Fornecedor Delta;Alimentos;Avaria
+07/09/2026;405221.0;Item 1599;115;24;2760.0;22/03/2028;Fornecedor Alfa;Alimentos;Devolução parcial
+04/09/2026;479821.0;Item 1600;93;120;11160.0;21/10/2030;Fornecedor Alfa;Antibiótico;Avaria
+30/09/2026;812449.0;Item 1601;108;24;2592.0;26/04/2027;Fornecedor Ômega;Correlatos;Avaria
+17/09/2026;288358.0;Item 1602;7;12;84.0;24/08/2030;Fornecedor Beta;Psicotrópico;Avaria
+08/09/2026;255785.0;Item 1603;81;50;4050.0;11/03/2027;Fornecedor Ômega;Medicamento;Avaria
+06/09/2026;612361.0;Item 1604;39;120;4680.0;29/08/2030;Fornecedor Delta;Alimentos;Devolução parcial
+28/09/2026;790507.0;Item 1605;12;60;720.0;03/08/2031;Fornecedor Delta;Correlatos;Devolução parcial
+08/09/2026;612982.0;Item 1607;83;100;8300.0;17/02/2027;Fornecedor Gama;Psicotrópico;Devolução parcial
+26/09/2026;602790.0;Item 1608;36;12;432.0;29/04/2030;Fornecedor Alfa;Antibiótico;Avaria
+10/09/2026;775908.0;Item 1609;90;50;4500.0;16/03/2030;Fornecedor Alfa;Perfumaria;Avaria
+06/09/2026;166582.0;Item 1610;92;100;9200.0;10/04/2029;Fornecedor Ômega;Antibiótico;Devolução parcial
+16/09/2026;957171.0;Item 1611;69;100;6900.0;11/05/2027;Fornecedor Gama;Psicotrópico;Devolução parcial
+25/09/2026;848420.0;Item 1612;105;12;1260.0;23/03/2031;Fornecedor Alfa;Alimentos;0
+23/09/2026;289440.0;Item 1613;111;120;13320.0;04/01/2028;Fornecedor Ômega;Psicotrópico;Avaria
+02/09/2026;939398.0;Item 1614;41;12;492.0;21/09/2027;Fornecedor Gama;Medicamento;Devolução parcial
+18/09/2026;630734.0;Item 1616;39;48;1872.0;18/12/2027;Fornecedor Delta;Alimentos;0
+17/09/2026;360400.0;Item 1617;39;6;234.0;23/05/2031;Fornecedor Beta;Alimentos;Devolução parcial
+16/09/2026;566532.0;Item 1618;18;120;2160.0;24/11/2030;Fornecedor Beta;Psicotrópico;Avaria
+05/09/2026;348617.0;Item 1620;5;25;125.0;05/09/2028;Fornecedor Alfa;Medicamento;Devolução parcial
+12/09/2026;678888.0;Item 1621;28;120;3360.0;22/07/2028;Fornecedor Alfa;Alimentos;Devolução parcial
+09/09/2026;542514.0;Item 1622;10;100;1000.0;17/06/2028;Fornecedor Delta;Alimentos;0
+09/09/2026;519492.0;Item 1623;59;12;708.0;17/10/2030;Fornecedor Delta;Alimentos;0
+21/09/2026;661936.0;Item 1624;27;12;324.0;09/02/2031;Fornecedor Beta;Alimentos;Devolução parcial
+19/09/2026;776930.0;Item 1625;25;48;1200.0;08/09/2030;Fornecedor Gama;Psicotrópico;0
+11/09/2026;540073.0;Item 1626;106;24;2544.0;02/06/2031;Fornecedor Delta;Antibiótico;0
+09/09/2026;732928.0;Item 1627;32;12;384.0;13/09/2027;Fornecedor Gama;Perfumaria;Devolução parcial
+11/09/2026;675006.0;Item 1628;53;12;636.0;04/08/2030;Fornecedor Ômega;Correlatos;Avaria
+28/09/2026;915866.0;Item 1629;35;24;840.0;23/06/2031;Fornecedor Alfa;Correlatos;0
+19/09/2026;863706.0;Item 1631;113;30;3390.0;10/08/2031;Fornecedor Delta;Perfumaria;Devolução parcial
+28/09/2026;465848.0;Item 1632;90;120;10800.0;31/07/2028;Fornecedor Gama;Correlatos;Devolução parcial
+06/09/2026;203878.0;Item 1633;115;6;690.0;13/10/2028;Fornecedor Delta;Medicamento;Avaria
+18/09/2026;945241.0;Item 1634;95;100;9500.0;02/05/2030;Fornecedor Delta;Antibiótico;Devolução parcial
+22/09/2026;233769.0;Item 1635;34;6;204.0;17/11/2029;Fornecedor Alfa;Alimentos;0
+24/09/2026;249600.0;Item 1636;49;120;5880.0;01/07/2028;Fornecedor Ômega;Alimentos;Devolução parcial
+22/09/2026;488131.0;Item 1637;91;25;2275.0;31/05/2030;Fornecedor Delta;Alimentos;Avaria
+26/09/2026;291999.0;Item 1638;57;48;2736.0;17/08/2029;Fornecedor Gama;Correlatos;Avaria
+10/09/2026;548544.0;Item 1639;67;25;1675.0;25/07/2030;Fornecedor Ômega;Correlatos;Avaria
+21/09/2026;908010.0;Item 1640;41;12;492.0;12/06/2027;Fornecedor Ômega;Alimentos;0
+02/09/2026;198181.0;Item 1641;22;120;2640.0;23/06/2027;Fornecedor Beta;Psicotrópico;Avaria
+14/09/2026;947613.0;Item 1642;112;6;672.0;18/10/2030;Fornecedor Gama;Alimentos;0
+22/09/2026;602955.0;Item 1643;64;100;6400.0;18/10/2030;Fornecedor Gama;Alimentos;0
+07/09/2026;525167.0;Item 1644;2;120;240.0;30/08/2031;Fornecedor Ômega;Alimentos;Avaria
+08/09/2026;836720.0;Item 1645;69;48;3312.0;22/02/2031;Fornecedor Gama;Alimentos;Devolução parcial
+17/09/2026;178771.0;Item 1647;47;24;1128.0;24/12/2028;Fornecedor Ômega;Antibiótico;Avaria
+10/09/2026;404154.0;Item 1649;39;60;2340.0;26/06/2028;Fornecedor Alfa;Perfumaria;Devolução parcial
+07/09/2026;761836.0;Item 1650;73;50;3650.0;16/09/2028;Fornecedor Gama;Perfumaria;Avaria
+02/09/2026;747756.0;Item 1651;109;60;6540.0;29/12/2028;Fornecedor Ômega;Psicotrópico;Avaria
+04/09/2026;444511.0;Item 1652;39;48;1872.0;11/01/2027;Fornecedor Beta;Alimentos;0
+04/09/2026;521598.0;Item 1653;46;6;276.0;01/06/2029;Fornecedor Delta;Medicamento;0
+14/09/2026;654797.0;Item 1654;66;24;1584.0;11/09/2027;Fornecedor Delta;Perfumaria;0
+08/09/2026;906824.0;Item 1655;85;30;2550.0;21/08/2029;Fornecedor Delta;Correlatos;Avaria
+18/09/2026;482201.0;Item 1656;55;24;1320.0;21/07/2031;Fornecedor Beta;Perfumaria;Avaria
+06/09/2026;788159.0;Item 1657;108;60;6480.0;14/10/2027;Fornecedor Beta;Alimentos;Avaria
+04/09/2026;106092.0;Item 1658;46;25;1150.0;24/01/2028;Fornecedor Beta;Perfumaria;0
+29/09/2026;513711.0;Item 1659;54;48;2592.0;06/03/2027;Fornecedor Alfa;Alimentos;0
+04/09/2026;602577.0;Item 1660;86;30;2580.0;12/05/2029;Fornecedor Delta;Psicotrópico;Avaria
+11/09/2026;938672.0;Item 1661;88;24;2112.0;19/03/2031;Fornecedor Delta;Psicotrópico;Devolução parcial
+05/09/2026;877931.0;Item 1662;108;50;5400.0;13/08/2027;Fornecedor Ômega;Perfumaria;0
+01/09/2026;263097.0;Item 1663;45;100;4500.0;21/04/2031;Fornecedor Alfa;Perfumaria;Devolução parcial
+20/09/2026;970145.0;Item 1664;44;50;2200.0;19/02/2031;Fornecedor Ômega;Antibiótico;Avaria
+03/09/2026;403527.0;Item 1665;37;60;2220.0;08/04/2031;Fornecedor Delta;Medicamento;Devolução parcial
+06/09/2026;259903.0;Item 1666;94;100;9400.0;25/05/2028;Fornecedor Beta;Perfumaria;Avaria
+07/09/2026;835005.0;Item 1667;32;50;1600.0;28/08/2029;Fornecedor Ômega;Alimentos;Devolução parcial
+07/09/2026;626735.0;Item 1668;79;24;1896.0;17/10/2031;Fornecedor Gama;Alimentos;Devolução parcial
+05/09/2026;255950.0;Item 1669;30;12;360.0;01/04/2029;Fornecedor Ômega;Correlatos;0
+20/09/2026;253311.0;Item 1670;55;6;330.0;13/02/2028;Fornecedor Ômega;Perfumaria;Avaria
+23/09/2026;527082.0;Item 1671;68;30;2040.0;21/07/2030;Fornecedor Alfa;Medicamento;Avaria
+17/09/2026;546772.0;Item 1672;62;6;372.0;24/05/2029;Fornecedor Ômega;Correlatos;0
+12/09/2026;382324.0;Item 1673;47;30;1410.0;28/12/2030;Fornecedor Delta;Medicamento;Avaria
+01/09/2026;149866.0;Item 1674;24;6;144.0;17/04/2027;Fornecedor Beta;Medicamento;Avaria
+04/09/2026;594988.0;Item 1675;36;120;4320.0;01/06/2029;Fornecedor Alfa;Correlatos;Avaria
+04/09/2026;481242.0;Item 1676;43;30;1290.0;18/07/2027;Fornecedor Ômega;Alimentos;Devolução parcial
+11/09/2026;907889.0;Item 1677;111;24;2664.0;08/01/2029;Fornecedor Beta;Alimentos;Devolução parcial
+08/09/2026;654552.0;Item 1678;78;48;3744.0;24/08/2030;Fornecedor Beta;Medicamento;Devolução parcial
+05/09/2026;502704.0;Item 1679;12;12;144.0;13/07/2030;Fornecedor Gama;Perfumaria;0
+07/09/2026;715054.0;Item 1680;117;25;2925.0;14/12/2030;Fornecedor Delta;Perfumaria;0
+10/09/2026;673129.0;Item 1681;80;48;3840.0;25/01/2031;Fornecedor Delta;Medicamento;Devolução parcial
+05/09/2026;855781.0;Item 1682;20;6;120.0;28/01/2028;Fornecedor Delta;Psicotrópico;Devolução parcial
+12/09/2026;364792.0;Item 1683;115;100;11500.0;19/01/2029;Fornecedor Delta;Alimentos;Devolução parcial
+03/09/2026;223133.0;Item 1684;117;50;5850.0;15/09/2029;Fornecedor Delta;Psicotrópico;Devolução parcial
+20/09/2026;929303.0;Item 1685;3;24;72.0;15/07/2028;Fornecedor Alfa;Correlatos;0
+03/09/2026;658335.0;Item 1687;112;100;11200.0;05/12/2027;Fornecedor Delta;Psicotrópico;Avaria
+13/09/2026;689822.0;Item 1688;100;50;5000.0;28/05/2030;Fornecedor Beta;Medicamento;0
+09/09/2026;628291.0;Item 1690;91;100;9100.0;13/09/2028;Fornecedor Alfa;Correlatos;Devolução parcial
+06/09/2026;381558.0;Item 1691;71;12;852.0;03/04/2028;Fornecedor Ômega;Psicotrópico;0
+29/09/2026;406019.0;Item 1692;6;24;144.0;22/07/2028;Fornecedor Alfa;Correlatos;0
+18/09/2026;773618.0;Item 1693;32;25;800.0;26/08/2027;Fornecedor Ômega;Alimentos;Avaria
+11/09/2026;763416.0;Item 1694;78;48;3744.0;20/06/2027;Fornecedor Gama;Correlatos;Devolução parcial
+10/09/2026;240101.0;Item 1695;53;120;6360.0;26/10/2028;Fornecedor Ômega;Alimentos;0
+24/09/2026;963955.0;Item 1696;46;25;1150.0;26/07/2028;Fornecedor Alfa;Correlatos;0
+04/09/2026;663492.0;Item 1697;85;120;10200.0;19/01/2031;Fornecedor Delta;Alimentos;Avaria
+18/09/2026;756649.0;Item 1698;82;120;9840.0;27/02/2028;Fornecedor Delta;Medicamento;Avaria
+21/09/2026;381850.0;Item 1699;27;120;3240.0;13/07/2031;Fornecedor Delta;Medicamento;Avaria
+12/09/2026;342979.0;Item 1700;94;50;4700.0;31/10/2027;Fornecedor Delta;Perfumaria;Avaria
+27/09/2026;290330.0;Item 1701;59;24;1416.0;02/11/2031;Fornecedor Alfa;Medicamento;Devolução parcial
+21/09/2026;614345.0;Item 1702;94;24;2256.0;31/07/2028;Fornecedor Ômega;Correlatos;0
+22/09/2026;286367.0;Item 1703;105;50;5250.0;29/05/2030;Fornecedor Alfa;Perfumaria;0
+15/09/2026;175548.0;Item 1704;55;25;1375.0;14/08/2030;Fornecedor Delta;Perfumaria;Devolução parcial
+25/09/2026;215380.0;Item 1706;106;6;636.0;28/08/2031;Fornecedor Ômega;Medicamento;0
+05/09/2026;907526.0;Item 1707;11;30;330.0;08/07/2030;Fornecedor Gama;Perfumaria;0
+25/09/2026;312149.0;Item 1709;18;60;1080.0;26/02/2030;Fornecedor Delta;Medicamento;Avaria
+08/09/2026;447871.0;Item 1710;62;24;1488.0;25/04/2027;Fornecedor Gama;Alimentos;Avaria
+01/09/2026;757966.0;Item 1711;70;12;840.0;17/08/2031;Fornecedor Ômega;Perfumaria;Devolução parcial
+29/09/2026;411152.0;Item 1712;14;100;1400.0;10/09/2031;Fornecedor Delta;Medicamento;0
+22/09/2026;400780.0;Item 1714;29;50;1450.0;16/12/2031;Fornecedor Ômega;Antibiótico;0
+10/09/2026;215485.0;Item 1715;29;12;348.0;01/01/2029;Fornecedor Ômega;Psicotrópico;Avaria
+20/09/2026;549449.0;Item 1717;68;48;3264.0;07/01/2028;Fornecedor Delta;Medicamento;Devolução parcial
+27/09/2026;820540.0;Item 1718;39;120;4680.0;10/08/2028;Fornecedor Beta;Perfumaria;Avaria
+30/09/2026;623502.0;Item 1719;85;48;4080.0;27/06/2028;Fornecedor Ômega;Perfumaria;0
+11/09/2026;915565.0;Item 1720;84;24;2016.0;30/10/2027;Fornecedor Delta;Antibiótico;Devolução parcial
+03/09/2026;862008.0;Item 1722;36;24;864.0;23/10/2028;Fornecedor Alfa;Medicamento;Avaria
+14/09/2026;469737.0;Item 1723;41;60;2460.0;12/09/2029;Fornecedor Delta;Psicotrópico;Devolução parcial
+13/09/2026;449663.0;Item 1724;18;25;450.0;07/05/2029;Fornecedor Gama;Antibiótico;Devolução parcial
+17/09/2026;709184.0;Item 1726;92;50;4600.0;29/03/2030;Fornecedor Alfa;Alimentos;0
+07/09/2026;346617.0;Item 1727;47;6;282.0;09/10/2031;Fornecedor Ômega;Correlatos;Devolução parcial
+02/09/2026;596947.0;Item 1728;18;12;216.0;16/12/2028;Fornecedor Beta;Medicamento;Avaria
+30/09/2026;582752.0;Item 1729;19;100;1900.0;12/05/2029;Fornecedor Alfa;Medicamento;0
+12/09/2026;127626.0;Item 1731;90;50;4500.0;21/04/2027;Fornecedor Ômega;Alimentos;Devolução parcial
+03/09/2026;248140.0;Item 1733;11;25;275.0;26/01/2027;Fornecedor Gama;Antibiótico;0
+24/09/2026;902598.0;Item 1734;24;60;1440.0;14/10/2027;Fornecedor Gama;Alimentos;Avaria
+15/09/2026;593024.0;Item 1735;53;48;2544.0;20/05/2031;Fornecedor Ômega;Correlatos;0
+20/09/2026;263459.0;Item 1736;8;6;48.0;19/03/2031;Fornecedor Alfa;Psicotrópico;0
+22/09/2026;111395.0;Item 1737;51;50;2550.0;29/11/2031;Fornecedor Delta;Psicotrópico;Devolução parcial
+17/09/2026;969812.0;Item 1738;34;120;4080.0;18/09/2028;Fornecedor Alfa;Antibiótico;0
+13/09/2026;385031.0;Item 1739;12;100;1200.0;14/09/2027;Fornecedor Alfa;Antibiótico;Devolução parcial
+06/09/2026;158716.0;Item 1740;29;50;1450.0;12/08/2031;Fornecedor Gama;Psicotrópico;0
+16/09/2026;956223.0;Item 1741;89;60;5340.0;03/10/2028;Fornecedor Delta;Antibiótico;0
+21/09/2026;157327.0;Item 1742;103;48;4944.0;18/05/2029;Fornecedor Alfa;Correlatos;0
+20/09/2026;209471.0;Item 1743;10;48;480.0;14/05/2031;Fornecedor Beta;Perfumaria;0
+04/09/2026;395915.0;Item 1744;21;100;2100.0;14/05/2027;Fornecedor Alfa;Psicotrópico;0
+07/09/2026;893270.0;Item 1745;117;30;3510.0;03/02/2030;Fornecedor Alfa;Alimentos;0
+19/09/2026;352009.0;Item 1746;35;12;420.0;02/03/2030;Fornecedor Ômega;Psicotrópico;Avaria
+03/09/2026;147899.0;Item 1747;7;48;336.0;24/09/2028;Fornecedor Ômega;Correlatos;Avaria
+11/09/2026;517476.0;Item 1748;65;25;1625.0;20/03/2031;Fornecedor Delta;Alimentos;Avaria
+11/09/2026;235808.0;Item 1749;90;12;1080.0;14/04/2029;Fornecedor Gama;Perfumaria;Devolução parcial
+01/09/2026;946719.0;Item 1750;100;24;2400.0;17/04/2030;Fornecedor Delta;Antibiótico;Devolução parcial
+06/09/2026;993415.0;Item 1751;5;30;150.0;07/11/2027;Fornecedor Delta;Perfumaria;Devolução parcial
+21/09/2026;625986.0;Item 1753;67;120;8040.0;07/12/2029;Fornecedor Beta;;0
+20/09/2026;455488.0;Item 1754;38;48;1824.0;19/10/2031;Fornecedor Delta;Perfumaria;Devolução parcial
+04/09/2026;259804.0;Item 1756;73;60;4380.0;07/07/2031;Fornecedor Ômega;Medicamento;Avaria
+16/09/2026;673713.0;Item 1757;112;12;1344.0;12/07/2027;Fornecedor Delta;Correlatos;0
+09/09/2026;409967.0;Item 1758;21;12;252.0;26/03/2030;Fornecedor Beta;Correlatos;0
+09/09/2026;174589.0;Item 1759;23;60;1380.0;27/08/2029;Fornecedor Beta;Antibiótico;Devolução parcial
+16/09/2026;247269.0;Item 1760;16;120;1920.0;23/03/2027;Fornecedor Beta;Correlatos;Avaria
+30/09/2026;528902.0;Item 1761;110;120;13200.0;25/10/2030;Fornecedor Alfa;Antibiótico;Avaria
+23/09/2026;159830.0;Item 1764;95;25;2375.0;09/08/2031;Fornecedor Gama;Perfumaria;0
+13/09/2026;994498.0;Item 1765;14;30;420.0;21/11/2027;Fornecedor Gama;Antibiótico;0
+22/09/2026;333886.0;Item 1766;50;60;3000.0;11/07/2027;Fornecedor Beta;Antibiótico;Avaria
+04/09/2026;773693.0;Item 1767;69;60;4140.0;25/06/2027;Fornecedor Alfa;Alimentos;0
+07/09/2026;516226.0;Item 1768;99;50;4950.0;02/04/2029;Fornecedor Beta;Perfumaria;Avaria
+07/09/2026;459057.0;Item 1769;78;60;4680.0;09/12/2030;Fornecedor Delta;Perfumaria;Avaria
+05/09/2026;576660.0;Item 1770;5;100;500.0;20/08/2029;Fornecedor Alfa;Alimentos;0
+20/09/2026;435740.0;Item 1771;73;6;438.0;05/05/2031;Fornecedor Delta;Perfumaria;Avaria
+07/09/2026;927912.0;Item 1772;56;60;3360.0;21/04/2027;Fornecedor Alfa;Perfumaria;Devolução parcial
+10/09/2026;387210.0;Item 1774;52;12;624.0;25/11/2031;Fornecedor Delta;Antibiótico;Devolução parcial
+06/09/2026;458633.0;Item 1776;97;30;2910.0;11/02/2028;Fornecedor Beta;Antibiótico;Avaria
+23/09/2026;598597.0;Item 1777;69;24;1656.0;13/06/2029;Fornecedor Beta;Alimentos;Devolução parcial
+18/09/2026;508040.0;Item 1778;106;6;636.0;23/05/2031;Fornecedor Gama;Medicamento;0
+20/09/2026;857830.0;Item 1779;86;120;10320.0;24/10/2027;Fornecedor Beta;Alimentos;Devolução parcial
+01/09/2026;878920.0;Item 1780;106;48;5088.0;05/11/2027;Fornecedor Delta;Medicamento;Avaria
+09/09/2026;431777.0;Item 1781;15;50;750.0;02/12/2029;Fornecedor Ômega;Antibiótico;0
+04/09/2026;765104.0;Item 1782;58;120;6960.0;16/03/2027;Fornecedor Alfa;Alimentos;0
+25/09/2026;540586.0;Item 1783;90;100;9000.0;07/12/2027;Fornecedor Gama;Antibiótico;0
+22/09/2026;464994.0;Item 1784;27;25;675.0;27/03/2030;Fornecedor Ômega;Correlatos;Avaria
+17/09/2026;116977.0;Item 1785;39;30;1170.0;05/08/2031;Fornecedor Ômega;Alimentos;Avaria
+04/09/2026;648583.0;Item 1787;98;48;4704.0;27/12/2027;Fornecedor Delta;Antibiótico;Avaria
+03/09/2026;945089.0;Item 1790;108;12;1296.0;23/08/2030;Fornecedor Ômega;Psicotrópico;Avaria
+30/09/2026;208711.0;Item 1791;64;120;7680.0;20/01/2030;Fornecedor Ômega;Alimentos;Avaria
+13/09/2026;914617.0;Item 1793;59;100;5900.0;23/08/2027;Fornecedor Alfa;Antibiótico;0
+10/09/2026;920192.0;Item 1795;29;100;2900.0;02/07/2028;Fornecedor Beta;Correlatos;Avaria
+29/09/2026;806007.0;Item 1796;31;6;186.0;29/04/2029;Fornecedor Ômega;Perfumaria;0
+27/09/2026;260825.0;Item 1797;102;48;4896.0;31/07/2031;Fornecedor Gama;Alimentos;Devolução parcial
+27/09/2026;302019.0;Item 1799;79;50;3950.0;16/04/2027;Fornecedor Gama;Antibiótico;0
+17/09/2026;342189.0;Item 1801;13;24;312.0;31/08/2027;Fornecedor Gama;;Devolução parcial
+06/09/2026;372871.0;Item 1802;108;100;10800.0;22/10/2028;Fornecedor Alfa;Perfumaria;0
+30/09/2026;748124.0;Item 1804;91;100;9100.0;11/06/2027;Fornecedor Gama;Antibiótico;0
+15/09/2026;878399.0;Item 1805;94;24;2256.0;23/07/2030;Fornecedor Beta;Medicamento;0
+10/09/2026;784219.0;Item 1806;115;25;2875.0;01/02/2028;Fornecedor Gama;Medicamento;Devolução parcial
+25/09/2026;917919.0;Item 1807;104;50;5200.0;17/06/2028;Fornecedor Ômega;Correlatos;0
+21/09/2026;250753.0;Item 1808;81;6;486.0;01/04/2030;Fornecedor Ômega;Perfumaria;Avaria
+05/09/2026;724840.0;Item 1809;16;12;192.0;01/08/2028;Fornecedor Beta;Medicamento;0
+13/09/2026;320511.0;Item 1812;88;50;4400.0;28/12/2031;Fornecedor Beta;Alimentos;Avaria
+10/09/2026;947825.0;Item 1813;21;24;504.0;21/01/2027;Fornecedor Alfa;Alimentos;Devolução parcial
+04/09/2026;761875.0;Item 1814;78;6;468.0;03/12/2028;Fornecedor Beta;Antibiótico;Devolução parcial
+06/09/2026;729138.0;Item 1815;70;6;420.0;04/12/2029;Fornecedor Beta;Perfumaria;0
+01/09/2026;735553.0;Item 1816;4;100;400.0;26/11/2029;Fornecedor Gama;Medicamento;0
+01/09/2026;482615.0;Item 1817;15;25;375.0;01/11/2028;Fornecedor Alfa;Medicamento;0
+21/09/2026;465484.0;Item 1819;91;100;9100.0;25/08/2028;Fornecedor Delta;Alimentos;Avaria
+30/09/2026;557244.0;Item 1820;66;50;3300.0;31/01/2028;Fornecedor Beta;Medicamento;0
+13/09/2026;820431.0;Item 1821;109;30;3270.0;30/07/2027;Fornecedor Gama;Psicotrópico;Avaria
+24/09/2026;273699.0;Item 1822;102;25;2550.0;26/09/2029;Fornecedor Delta;Antibiótico;Avaria
+27/09/2026;725297.0;Item 1823;96;30;2880.0;14/10/2028;Fornecedor Gama;Perfumaria;Devolução parcial
+19/09/2026;501652.0;Item 1824;55;25;1375.0;23/12/2028;Fornecedor Beta;Alimentos;0
+17/09/2026;571233.0;Item 1825;22;6;132.0;02/06/2028;Fornecedor Gama;Antibiótico;Avaria
+12/09/2026;733216.0;Item 1826;106;100;10600.0;26/03/2029;Fornecedor Ômega;Perfumaria;0
+26/09/2026;948340.0;Item 1827;42;50;2100.0;16/01/2028;Fornecedor Beta;Medicamento;0
+23/09/2026;434064.0;Item 1829;89;6;534.0;04/11/2028;Fornecedor Alfa;Antibiótico;Devolução parcial
+18/09/2026;933868.0;Item 1830;42;25;1050.0;16/05/2027;Fornecedor Delta;Correlatos;Devolução parcial
+04/09/2026;322481.0;Item 1831;68;25;1700.0;22/02/2030;Fornecedor Beta;Alimentos;Devolução parcial
+19/09/2026;946648.0;Item 1832;111;12;1332.0;16/08/2030;Fornecedor Delta;Alimentos;Avaria
+07/09/2026;433219.0;Item 1833;105;48;5040.0;08/02/2028;Fornecedor Ômega;Antibiótico;Avaria
+04/09/2026;149064.0;Item 1834;36;50;1800.0;12/09/2027;Fornecedor Delta;Medicamento;Devolução parcial
+08/09/2026;442753.0;Item 1835;76;50;3800.0;26/03/2030;Fornecedor Ômega;Correlatos;0
+01/09/2026;774933.0;Item 1836;101;120;12120.0;03/08/2029;Fornecedor Beta;Medicamento;Avaria
+30/09/2026;138805.0;Item 1837;115;100;11500.0;16/12/2029;Fornecedor Ômega;Correlatos;Devolução parcial
+13/09/2026;388016.0;Item 1839;41;48;1968.0;13/06/2027;Fornecedor Gama;Correlatos;Avaria
+10/09/2026;742064.0;Item 1840;7;50;350.0;27/11/2030;Fornecedor Delta;Antibiótico;Devolução parcial
+04/09/2026;965553.0;Item 1842;2;24;48.0;23/10/2028;Fornecedor Delta;Medicamento;0
+27/09/2026;192292.0;Item 1843;25;48;1200.0;05/01/2030;Fornecedor Ômega;Alimentos;0
+04/09/2026;372302.0;Item 1844;114;6;684.0;09/04/2027;Fornecedor Beta;Perfumaria;Avaria
+26/09/2026;445326.0;Item 1845;89;120;10680.0;22/07/2031;Fornecedor Delta;Correlatos;Devolução parcial
+19/09/2026;278612.0;Item 1846;119;24;2856.0;01/08/2029;Fornecedor Ômega;Medicamento;Avaria
+29/09/2026;255190.0;Item 1847;97;120;11640.0;08/10/2031;Fornecedor Delta;Alimentos;Avaria
+17/09/2026;800695.0;Item 1848;16;100;1600.0;07/05/2028;Fornecedor Gama;Antibiótico;Devolução parcial
+25/09/2026;613911.0;Item 1849;36;48;1728.0;05/02/2031;Fornecedor Delta;Medicamento;0
+23/09/2026;376626.0;Item 1850;99;30;2970.0;19/06/2027;Fornecedor Beta;Psicotrópico;0
+23/09/2026;791515.0;Item 1851;83;25;2075.0;09/06/2027;Fornecedor Ômega;Antibiótico;0
+15/09/2026;322796.0;Item 1852;2;25;50.0;04/08/2031;Fornecedor Delta;Medicamento;Avaria
+27/09/2026;209612.0;Item 1853;44;25;1100.0;24/04/2030;Fornecedor Gama;Psicotrópico;Avaria
+21/09/2026;897429.0;Item 1854;40;60;2400.0;12/11/2027;Fornecedor Gama;Perfumaria;0
+13/09/2026;329412.0;Item 1855;118;48;5664.0;15/07/2029;Fornecedor Gama;Psicotrópico;0
+03/09/2026;917911.0;Item 1856;52;25;1300.0;23/07/2028;Fornecedor Delta;Medicamento;Devolução parcial
+21/09/2026;422066.0;Item 1857;112;120;13440.0;29/07/2027;Fornecedor Alfa;Antibiótico;0
+01/09/2026;881216.0;Item 1858;15;25;375.0;01/08/2029;Fornecedor Alfa;Correlatos;0
+15/09/2026;599374.0;Item 1859;85;100;8500.0;21/12/2028;Fornecedor Beta;Perfumaria;Devolução parcial
+07/09/2026;188150.0;Item 1860;46;50;2300.0;05/11/2027;Fornecedor Delta;Psicotrópico;Avaria
+15/09/2026;632599.0;Item 1861;43;6;258.0;12/07/2028;Fornecedor Beta;Perfumaria;0
+07/09/2026;780129.0;Item 1862;49;50;2450.0;25/08/2028;Fornecedor Alfa;Antibiótico;0
+20/09/2026;722905.0;Item 1863;36;100;3600.0;07/10/2029;Fornecedor Gama;Antibiótico;0
+04/09/2026;814248.0;Item 1864;7;25;175.0;25/03/2028;Fornecedor Ômega;Perfumaria;0
+16/09/2026;627685.0;Item 1869;117;120;14040.0;22/02/2031;Fornecedor Beta;Alimentos;0
+06/09/2026;278501.0;Item 1870;41;12;492.0;19/01/2028;Fornecedor Beta;;0
+14/09/2026;113353.0;Item 1871;86;60;5160.0;15/11/2028;Fornecedor Ômega;Medicamento;Avaria
+20/09/2026;180716.0;Item 1872;22;6;132.0;22/12/2028;Fornecedor Delta;Psicotrópico;0
+16/09/2026;612027.0;Item 1873;112;25;2800.0;13/08/2027;Fornecedor Ômega;Perfumaria;Devolução parcial
+17/09/2026;813080.0;Item 1874;38;25;950.0;27/10/2029;Fornecedor Alfa;Medicamento;0
+15/09/2026;204849.0;Item 1875;39;48;1872.0;01/10/2029;Fornecedor Beta;Psicotrópico;Avaria
+12/09/2026;795634.0;Item 1876;63;30;1890.0;28/07/2029;Fornecedor Ômega;Correlatos;Avaria
+24/09/2026;383049.0;Item 1878;88;100;8800.0;03/08/2030;Fornecedor Ômega;Medicamento;Avaria
+12/09/2026;997859.0;Item 1879;29;24;696.0;16/10/2029;Fornecedor Ômega;Medicamento;Devolução parcial
+12/09/2026;877007.0;Item 1880;90;50;4500.0;27/02/2028;Fornecedor Ômega;Medicamento;Avaria
+29/09/2026;769760.0;Item 1881;14;30;420.0;07/07/2030;Fornecedor Gama;Antibiótico;Devolução parcial
+02/09/2026;389666.0;Item 1883;40;25;1000.0;01/04/2030;Fornecedor Gama;Alimentos;Avaria
+14/09/2026;974692.0;Item 1884;79;12;948.0;17/06/2031;Fornecedor Delta;Psicotrópico;Avaria
+16/09/2026;402418.0;Item 1885;15;6;90.0;04/11/2030;Fornecedor Alfa;Antibiótico;Devolução parcial
+20/09/2026;257525.0;Item 1886;67;30;2010.0;17/02/2030;Fornecedor Alfa;Correlatos;Avaria
+01/09/2026;402262.0;Item 1887;9;30;270.0;18/07/2029;Fornecedor Ômega;Medicamento;Avaria
+02/09/2026;965568.0;Item 1888;76;12;912.0;27/09/2029;Fornecedor Beta;Perfumaria;Avaria
+02/09/2026;469366.0;Item 1889;85;6;510.0;29/05/2028;Fornecedor Alfa;Correlatos;Avaria
+24/09/2026;847841.0;Item 1891;35;24;840.0;07/02/2028;Fornecedor Delta;Psicotrópico;0
+16/09/2026;404928.0;Item 1892;29;6;174.0;27/12/2028;Fornecedor Alfa;Alimentos;Devolução parcial
+29/09/2026;505002.0;Item 1893;55;50;2750.0;20/07/2027;Fornecedor Beta;Correlatos;Devolução parcial
+09/09/2026;816514.0;Item 1895;99;25;2475.0;05/10/2027;Fornecedor Delta;Psicotrópico;0
+10/09/2026;415686.0;Item 1896;40;12;480.0;06/03/2030;Fornecedor Delta;Psicotrópico;0
+04/09/2026;494228.0;Item 1897;101;50;5050.0;11/10/2027;Fornecedor Gama;Antibiótico;Devolução parcial
+15/09/2026;428477.0;Item 1898;65;48;3120.0;26/12/2028;Fornecedor Delta;Antibiótico;Avaria
+30/09/2026;530187.0;Item 1899;60;6;360.0;18/02/2030;Fornecedor Ômega;Antibiótico;0
+30/09/2026;892572.0;Item 1900;18;120;2160.0;11/09/2028;Fornecedor Alfa;Psicotrópico;Devolução parcial
+18/09/2026;491235.0;Item 1901;17;120;2040.0;04/03/2030;Fornecedor Beta;Perfumaria;Avaria
+15/09/2026;232053.0;Item 1902;52;6;312.0;12/07/2031;Fornecedor Gama;Antibiótico;0
+27/09/2026;188771.0;Item 1903;8;30;240.0;23/08/2030;Fornecedor Ômega;Correlatos;Devolução parcial
+19/09/2026;202130.0;Item 1904;106;30;3180.0;13/09/2029;Fornecedor Beta;Perfumaria;0
+24/09/2026;876442.0;Item 1905;75;100;7500.0;08/01/2031;Fornecedor Ômega;Alimentos;0
+24/09/2026;641342.0;Item 1906;19;100;1900.0;11/10/2029;Fornecedor Alfa;Medicamento;Devolução parcial
+23/09/2026;944750.0;Item 1908;63;120;7560.0;16/02/2028;Fornecedor Ômega;Perfumaria;0
+17/09/2026;260455.0;Item 1909;78;12;936.0;18/07/2027;Fornecedor Alfa;Medicamento;0
+15/09/2026;596754.0;Item 1910;4;100;400.0;11/03/2029;Fornecedor Ômega;Perfumaria;Avaria
+27/09/2026;524209.0;Item 1911;62;24;1488.0;26/04/2028;Fornecedor Gama;Correlatos;Devolução parcial
+06/09/2026;293785.0;Item 1913;19;25;475.0;13/11/2029;Fornecedor Gama;Medicamento;Avaria
+22/09/2026;603805.0;Item 1914;38;30;1140.0;24/07/2027;Fornecedor Gama;Antibiótico;Avaria
+01/09/2026;953009.0;Item 1916;55;24;1320.0;03/08/2028;Fornecedor Delta;Perfumaria;Devolução parcial
+10/09/2026;508346.0;Item 1917;2;120;240.0;11/03/2027;Fornecedor Gama;Antibiótico;0
+29/09/2026;471958.0;Item 1918;18;60;1080.0;20/01/2031;Fornecedor Delta;Correlatos;0
+28/09/2026;266004.0;Item 1919;46;100;4600.0;30/10/2031;Fornecedor Gama;Medicamento;Avaria
+17/09/2026;840530.0;Item 1920;68;50;3400.0;09/05/2027;Fornecedor Alfa;Alimentos;0
+11/09/2026;468959.0;Item 1921;84;120;10080.0;30/07/2029;Fornecedor Alfa;Correlatos;Devolução parcial
+03/09/2026;417645.0;Item 1922;119;50;5950.0;15/09/2031;Fornecedor Delta;Antibiótico;Avaria
+19/09/2026;735271.0;Item 1923;85;24;2040.0;22/12/2030;Fornecedor Gama;Alimentos;Devolução parcial
+19/09/2026;371818.0;Item 1924;17;48;816.0;04/04/2030;Fornecedor Beta;Psicotrópico;Devolução parcial
+30/09/2026;797576.0;Item 1926;14;60;840.0;23/10/2030;Fornecedor Delta;Correlatos;0
+04/09/2026;909231.0;Item 1927;104;25;2600.0;09/12/2031;Fornecedor Alfa;Alimentos;Avaria
+15/09/2026;987936.0;Item 1929;96;12;1152.0;13/04/2031;Fornecedor Beta;Psicotrópico;Devolução parcial
+11/09/2026;981516.0;Item 1930;4;24;96.0;09/08/2027;Fornecedor Delta;Antibiótico;0
+26/09/2026;200879.0;Item 1934;27;6;162.0;15/10/2027;Fornecedor Ômega;Correlatos;Avaria
+11/09/2026;695900.0;Item 1935;70;12;840.0;15/01/2028;Fornecedor Gama;Antibiótico;0
+27/09/2026;972837.0;Item 1936;27;120;3240.0;28/08/2029;Fornecedor Gama;Correlatos;Avaria
+19/09/2026;755853.0;Item 1938;49;12;588.0;10/06/2027;Fornecedor Alfa;Psicotrópico;Avaria
+08/09/2026;205814.0;Item 1939;16;60;960.0;16/04/2027;Fornecedor Gama;Psicotrópico;Avaria
+30/09/2026;123637.0;Item 1940;29;30;870.0;24/08/2031;Fornecedor Beta;Antibiótico;Devolução parcial
+10/09/2026;475290.0;Item 1941;9;24;216.0;03/06/2027;Fornecedor Gama;Psicotrópico;0
+19/09/2026;672461.0;Item 1943;90;12;1080.0;22/08/2029;Fornecedor Beta;Alimentos;0
+09/09/2026;133842.0;Item 1944;44;50;2200.0;15/02/2028;Fornecedor Beta;Perfumaria;0
+29/09/2026;176453.0;Item 1946;104;120;12480.0;03/06/2030;Fornecedor Ômega;Correlatos;0
+30/09/2026;536459.0;Item 1947;77;120;9240.0;15/06/2027;Fornecedor Gama;Antibiótico;0
+04/09/2026;383648.0;Item 1948;93;6;558.0;14/03/2027;Fornecedor Delta;Psicotrópico;0
+16/09/2026;781927.0;Item 1949;45;50;2250.0;13/09/2028;Fornecedor Alfa;Perfumaria;0
+18/09/2026;127633.0;Item 1950;100;25;2500.0;30/05/2030;Fornecedor Delta;Alimentos;Devolução parcial
+16/09/2026;873768.0;Item 1951;3;100;300.0;17/04/2027;Fornecedor Delta;Antibiótico;Devolução parcial
+18/09/2026;231320.0;Item 1952;56;50;2800.0;10/10/2027;Fornecedor Ômega;Antibiótico;0
+12/09/2026;745559.0;Item 1953;116;48;5568.0;01/02/2028;Fornecedor Beta;Antibiótico;0
+19/09/2026;349739.0;Item 1954;30;12;360.0;21/01/2027;Fornecedor Alfa;Antibiótico;Devolução parcial
+19/09/2026;889125.0;Item 1955;114;100;11400.0;04/04/2027;Fornecedor Ômega;Alimentos;0
+02/09/2026;952095.0;Item 1956;8;12;96.0;17/09/2027;Fornecedor Delta;Medicamento;Avaria
+20/09/2026;145843.0;Item 1957;41;48;1968.0;03/09/2030;Fornecedor Alfa;Correlatos;0
+22/09/2026;735566.0;Item 1958;51;60;3060.0;08/09/2027;Fornecedor Ômega;Perfumaria;Avaria
+23/09/2026;670054.0;Item 1959;27;60;1620.0;14/02/2031;Fornecedor Beta;Medicamento;Avaria
+25/09/2026;847775.0;Item 1960;39;48;1872.0;03/02/2030;Fornecedor Beta;Alimentos;0
+23/09/2026;156620.0;Item 1962;45;50;2250.0;27/06/2030;Fornecedor Delta;Correlatos;0
+27/09/2026;313442.0;Item 1963;117;24;2808.0;02/12/2029;Fornecedor Alfa;Correlatos;Devolução parcial
+12/09/2026;679826.0;Item 1964;27;12;324.0;24/01/2031;Fornecedor Alfa;Perfumaria;0
+04/09/2026;832264.0;Item 1965;57;60;3420.0;13/02/2027;Fornecedor Delta;Perfumaria;Avaria
+10/09/2026;391469.0;Item 1966;76;50;3800.0;22/08/2031;Fornecedor Ômega;Perfumaria;Avaria
+16/09/2026;996086.0;Item 1967;79;50;3950.0;08/02/2027;Fornecedor Delta;Antibiótico;Avaria
+18/09/2026;792482.0;Item 1969;40;6;240.0;12/04/2031;Fornecedor Beta;Perfumaria;Devolução parcial
+30/09/2026;891127.0;Item 1970;115;48;5520.0;24/08/2031;Fornecedor Beta;Psicotrópico;0
+26/09/2026;920628.0;Item 1972;94;6;564.0;12/08/2027;Fornecedor Gama;Antibiótico;Devolução parcial
+06/09/2026;906367.0;Item 1974;67;30;2010.0;19/02/2029;Fornecedor Delta;Alimentos;0
+09/09/2026;238278.0;Item 1975;117;6;702.0;26/06/2031;Fornecedor Beta;Perfumaria;0
+11/09/2026;908807.0;Item 1976;70;30;2100.0;15/03/2030;Fornecedor Delta;;Devolução parcial
+22/09/2026;387592.0;Item 1977;47;30;1410.0;28/05/2028;Fornecedor Gama;Perfumaria;0
+27/09/2026;421802.0;Item 1978;73;48;3504.0;25/06/2028;Fornecedor Alfa;Antibiótico;Avaria
+15/09/2026;118105.0;Item 1979;57;6;342.0;17/03/2027;Fornecedor Beta;Antibiótico;Devolução parcial
+14/09/2026;985339.0;Item 1980;72;25;1800.0;30/04/2027;Fornecedor Gama;Perfumaria;Avaria
+03/09/2026;739975.0;Item 1981;71;48;3408.0;21/06/2029;Fornecedor Alfa;Correlatos;Avaria
+05/09/2026;372148.0;Item 1982;112;60;6720.0;10/04/2028;Fornecedor Alfa;Medicamento;Devolução parcial
+09/09/2026;339025.0;Item 1985;8;30;240.0;03/02/2027;Fornecedor Beta;Psicotrópico;Devolução parcial
+08/09/2026;218680.0;Item 1987;66;12;792.0;22/02/2028;Fornecedor Beta;Psicotrópico;Avaria
+03/09/2026;969414.0;Item 1988;106;50;5300.0;07/08/2030;Fornecedor Delta;Correlatos;0
+26/09/2026;125894.0;Item 1989;42;120;5040.0;07/01/2029;Fornecedor Beta;Antibiótico;Devolução parcial
+20/09/2026;492917.0;Item 1990;61;30;1830.0;05/03/2027;Fornecedor Alfa;Correlatos;0
+30/09/2026;405002.0;Item 1991;120;24;2880.0;25/04/2030;Fornecedor Ômega;Perfumaria;Devolução parcial
+17/09/2026;321752.0;Item 1992;104;48;4992.0;05/01/2031;Fornecedor Gama;Psicotrópico;Devolução parcial
+27/09/2026;460765.0;Item 1993;28;50;1400.0;08/04/2030;Fornecedor Ômega;Alimentos;Devolução parcial
+18/09/2026;760943.0;Item 1995;71;50;3550.0;10/02/2031;Fornecedor Ômega;Psicotrópico;0
+17/09/2026;736592.0;Item 1996;61;100;6100.0;22/06/2029;Fornecedor Beta;Correlatos;0
+30/09/2026;976618.0;Item 1997;74;30;2220.0;14/05/2028;Fornecedor Beta;Medicamento;Avaria
+24/09/2026;342106.0;Item 1998;59;48;2832.0;25/08/2027;Fornecedor Alfa;Antibiótico;Devolução parcial
+12/09/2026;529838.0;Item 1999;47;12;564.0;21/02/2030;Fornecedor Gama;Perfumaria;Avaria

@@ -1,0 +1,17 @@
+PIPELINE DASHBOARD - RECEBIMENTO
+
+1 - Exportar dados brutos
+
+2 - Escrever script usando a biblioteca Pandas no Python para tratamento de dados
+
+	2.1 dropna(subset=["Código", "Total unidades", "Fornecedor", "Devolução"])
+
+3 - Conectar ao Power BI
+
+4 - Apresentar um Dashboard - Recebimento com:
+
+	4.1 - Apresentar a quantitade total recebida no dia.
+	4.2 - Total de Devoluções com porcentagem (%)
+	4.3 - Inidcadores com Total de Unidades, volumes.
+	4.4 - Apresentar gráfico para saber qual fornecedor trouxe mais unidades.
+	
